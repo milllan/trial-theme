@@ -27,3 +27,23 @@ function estatein_enqueue_scripts() {
     wp_enqueue_script( 'main-js', get_template_directory_uri() . '/assets/ai_main.js', array(), '1.0', true );
 }
 add_action( 'wp_enqueue_scripts', 'estatein_enqueue_scripts' );
+
+// Custom Post Type for "Properties".
+// Use Advanced Custom Fields (ACF) for Property Data
+function estatein_register_property_cpt() {
+    $labels = array(
+        'name' => _x('Properties', 'post type general name', 'estatein'),
+        'singular_name' => _x('Property', 'post type singular name', 'estatein'),
+        // ... other labels
+    );
+    $args = array(
+        'labels' => $labels,
+        'public' => true,
+        'has_archive' => true,
+        'supports' => array('title', 'editor', 'thumbnail'), // Title, description, featured image
+        'menu_icon' => 'dashicons-admin-home',
+        'rewrite' => array('slug' => 'properties'),
+    );
+    register_post_type('property', $args);
+}
+add_action('init', 'estatein_register_property_cpt');

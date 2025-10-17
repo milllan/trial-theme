@@ -99,47 +99,34 @@
                         This structure is repeated for each property.
                         3 in a row on laptop/desktop, 2 in a row on tablet, 1 in a row on mobile.
                     -->
-                <?php
-                $args = array(
-                    'post_type' => 'property',
-                    'posts_per_page' => 3, // Show 3 properties
-                );
-                $properties_query = new WP_Query($args);
-
-                if ($properties_query->have_posts()) :
-                    while ($properties_query->have_posts()) : $properties_query->the_post();
-                ?>
                     <article class="property-card" data-node-id="desktop:75-564, laptop:139-6518, mobile:139-8306">
-                        <?php if (has_post_thumbnail()) : ?>
-                            <img src="<?php the_post_thumbnail_url('large'); ?>" alt="<?php the_title_attribute(); ?>" class="card-image" data-node-id="desktop:75-544, laptop:139-6519, mobile:139-8307">
-                        <?php endif; ?>
-
+                        <img src="./assets/images/property-seaside-villa.jpg" alt="Seaside Serenity Villa" class="card-image" data-node-id="desktop:75-544, laptop:139-6519, mobile:139-8307">
                         <div class="card-body" data-node-id="desktop:87-1215, laptop:139-6520, mobile:139-8308">
-                            <h3><?php the_title(); ?></h3>
-                            <p><?php the_excerpt(); ?> <a href="<?php the_permalink(); ?>">Read More</a></p>
-
+                            <h3>Seaside Serenity Villa</h3>
+                            <p>A stunning 4-bedroom, 3-bathroom villa in a peaceful suburban neighborhood... <a href="#">Read More</a></p>
                             <div class="card-features" data-node-id="desktop:87-1238, laptop:139-6524, mobile:139-8312">
-                                <?php if( get_field('bedrooms') ): ?><span class="feature-tag" data-node-id="desktop:87-1234, laptop:139-6525, mobile:139-8313"><?php the_field('bedrooms'); ?></span><?php endif; ?>
-                                <?php if( get_field('bathrooms') ): ?><span class="feature-tag" data-node-id="desktop:87-1241, laptop:139-6531, mobile:139-8319"><?php the_field('bathrooms'); ?></span><?php endif; ?>
-                                <?php if( get_field('property_type') ): ?><span class="feature-tag" data-node-id="desktop:87-1245, laptop:139-6540, mobile:139-8328"><?php the_field('property_type'); ?></span><?php endif; ?>
+                                <span class="feature-tag" data-node-id="desktop:87-1234, laptop:139-6525, mobile:139-8313">4-Bedroom</span>
+                                <span class="feature-tag" data-node-id="desktop:87-1241, laptop:139-6531, mobile:139-8319">3-Bathroom</span>
+                                <span class="feature-tag" data-node-id="desktop:87-1245, laptop:139-6540, mobile:139-8328">Villa</span>
                             </div>
-
                             <div class="card-footer" data-node-id="desktop:75-557, laptop:139-6549, mobile:139-8337">
                                 <div class="price">
                                     <span class="price-label">Price</span>
-                                    <span class="price-value"><?php the_field('price'); ?></span>
+                                    <span class="price-value">$550,000</span>
                                 </div>
-                                <a href="<?php the_permalink(); ?>" class="button button-primary" data-node-id="desktop:75-561, laptop:139-6553, mobile:139-8341">View Property Details</a>
+                                <a href="#" class="button button-primary" data-node-id="desktop:75-561, laptop:139-6553, mobile:139-8341">View Property Details</a>
                             </div>
                         </div>
                     </article>
-                <?php
-                    endwhile;
-                    wp_reset_postdata();
-                else :
-                    echo '<p>No properties found.</p>';
-                endif;
-                ?>
+
+                    <!-- Repeat the <article> for other property cards -->
+                    <article class="property-card">
+                        <!-- Content for Metropolitan Haven -->
+                    </article>
+
+                    <article class="property-card">
+                        <!-- Content for Rustic Retreat Cottage -->
+                    </article>
                 </div>
 
                 <div class="section-pagination" data-node-id="desktop:75-596, laptop:139-6629, mobile:139-8481">
@@ -253,4 +240,4 @@
 
     </main>
 
-<?php get_footer(); ?>
+<?php get_footer(); ?> 

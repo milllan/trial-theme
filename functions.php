@@ -1,8 +1,14 @@
 <?php
 
+// Include ACF field definitions
+include_once get_template_directory() . '/acf-fields.php';
+
 function estatein_theme_setup() {
     // Enable automatic title tag management
     add_theme_support( 'title-tag' );
+
+    // enable featured images across the theme
+    add_theme_support( 'post-thumbnails' ); 
 
     // Register navigation menus
     register_nav_menus( array(
@@ -40,10 +46,27 @@ function estatein_register_property_cpt() {
         'labels' => $labels,
         'public' => true,
         'has_archive' => true,
-        'supports' => array('title', 'editor', 'thumbnail'), // Title, description, featured image
+        'supports' => array('title', 'editor', 'excerpt', 'thumbnail', 'price'),  // Title, description, featured image
         'menu_icon' => 'dashicons-admin-home',
         'rewrite' => array('slug' => 'properties'),
     );
     register_post_type('property', $args);
 }
 add_action('init', 'estatein_register_property_cpt');
+
+
+function estatein_register_testimonial_cpt() {
+    register_post_type('testimonial',
+        array(
+            'labels'      => array(
+                'name'          => __('Testimonials', 'estatein'),
+                'singular_name' => __('Testimonial', 'estatein'),
+            ),
+            'public'      => true,
+            'has_archive' => false,
+            'supports'    => array('title', 'editor', 'thumbnail'), // 'title' for Author Name, 'editor' for the quote, 'thumbnail' for author image
+            'menu_icon'   => 'dashicons-format-quote',
+        )
+    );
+}
+add_action('init', 'estatein_register_testimonial_cpt');

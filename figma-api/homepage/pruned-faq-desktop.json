@@ -1,0 +1,1425 @@
+{
+  "id": "75:952",
+  "name": "Container",
+  "type": "FRAME",
+  "layoutMode": "VERTICAL",
+  "itemSpacing": 80,
+  "layoutSizingHorizontal": "FIXED",
+  "layoutSizingVertical": "HUG",
+  "boundingBox": {
+    "width": 1596,
+    "height": 694
+  },
+  "strokeWeight": 1,
+  "children": [
+    {
+      "id": "75:953",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layoutMode": "HORIZONTAL",
+      "itemSpacing": 200,
+      "counterAxisAlignItems": "MAX",
+      "layoutSizingHorizontal": "FILL",
+      "layoutSizingVertical": "HUG",
+      "boundingBox": {
+        "width": 1596,
+        "height": 140
+      },
+      "strokeWeight": 1,
+      "children": [
+        {
+          "id": "75:954",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layoutMode": "VERTICAL",
+          "itemSpacing": 14,
+          "layoutSizingHorizontal": "FILL",
+          "layoutSizingVertical": "HUG",
+          "boundingBox": {
+            "width": 1236,
+            "height": 140
+          },
+          "strokeWeight": 1,
+          "children": [
+            {
+              "id": "75:955",
+              "name": "Heading",
+              "type": "TEXT",
+              "layoutSizingHorizontal": "FILL",
+              "layoutSizingVertical": "HUG",
+              "boundingBox": {
+                "width": 1236,
+                "height": 72
+              },
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1,
+                    "a": 1
+                  }
+                }
+              ],
+              "strokeWeight": 1,
+              "characters": "Frequently Asked Questions",
+              "style": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 48,
+                "textAlignHorizontal": "LEFT",
+                "lineHeightPx": 72
+              }
+            },
+            {
+              "id": "75:956",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "layoutSizingHorizontal": "FILL",
+              "layoutSizingVertical": "HUG",
+              "boundingBox": {
+                "width": 1236,
+                "height": 54
+              },
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 0.6000000238418579,
+                    "g": 0.6000000238418579,
+                    "b": 0.6000000238418579,
+                    "a": 1
+                  }
+                }
+              ],
+              "strokeWeight": 1,
+              "characters": "Find answers to common questions about Estatein's services, property listings, and the real estate process. We're here to provide clarity and assist you every step of the way.",
+              "style": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "textAlignHorizontal": "LEFT",
+                "lineHeightPx": 27
+              }
+            },
+            {
+              "id": "75:957",
+              "name": "Abstract Design",
+              "type": "FRAME",
+              "layoutSizingHorizontal": "FIXED",
+              "layoutSizingVertical": "FIXED",
+              "boundingBox": {
+                "width": 68.4000015258789,
+                "height": 30
+              },
+              "strokeWeight": 1,
+              "children": [
+                {
+                  "id": "75:958",
+                  "name": "Frame 3186",
+                  "type": "FRAME",
+                  "boundingBox": {
+                    "width": 30,
+                    "height": 30
+                  },
+                  "strokeWeight": 1,
+                  "children": [
+                    {
+                      "id": "75:959",
+                      "name": "Group",
+                      "type": "GROUP",
+                      "boundingBox": {
+                        "width": 60,
+                        "height": 60
+                      },
+                      "strokeWeight": 1,
+                      "children": [
+                        {
+                          "id": "75:960",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 30,
+                            "height": 29.99991798400879
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.4010416567325592,
+                                "g": 0.4010416567325592,
+                                "b": 0.4010416567325592,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "75:961",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 30,
+                            "height": 30
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.07999999821186066,
+                                "g": 0.07999999821186066,
+                                "b": 0.07999999821186066,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "75:962",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 30,
+                            "height": 30
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.07999999821186066,
+                                "g": 0.07999999821186066,
+                                "b": 0.07999999821186066,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "75:963",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 30,
+                            "height": 30
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.07999999821186066,
+                                "g": 0.07999999821186066,
+                                "b": 0.07999999821186066,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "75:964",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 30,
+                            "height": 30
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.07999999821186066,
+                                "g": 0.07999999821186066,
+                                "b": 0.07999999821186066,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "75:965",
+                  "name": "Frame 3187",
+                  "type": "FRAME",
+                  "boundingBox": {
+                    "width": 18,
+                    "height": 18
+                  },
+                  "strokeWeight": 1,
+                  "children": [
+                    {
+                      "id": "75:966",
+                      "name": "Group",
+                      "type": "GROUP",
+                      "boundingBox": {
+                        "width": 36,
+                        "height": 36
+                      },
+                      "strokeWeight": 1,
+                      "children": [
+                        {
+                          "id": "75:967",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 18,
+                            "height": 17.999950408935547
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.20000000298023224,
+                                "g": 0.20000000298023224,
+                                "b": 0.20000000298023224,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "75:968",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 18,
+                            "height": 18
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.07999999821186066,
+                                "g": 0.07999999821186066,
+                                "b": 0.07999999821186066,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "75:969",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 18,
+                            "height": 18
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.07999999821186066,
+                                "g": 0.07999999821186066,
+                                "b": 0.07999999821186066,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "75:970",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 18,
+                            "height": 18
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.07999999821186066,
+                                "g": 0.07999999821186066,
+                                "b": 0.07999999821186066,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "75:971",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 18,
+                            "height": 18
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.07999999821186066,
+                                "g": 0.07999999821186066,
+                                "b": 0.07999999821186066,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "75:972",
+                  "name": "Frame 3188",
+                  "type": "FRAME",
+                  "boundingBox": {
+                    "width": 8.40000057220459,
+                    "height": 8.399999618530273
+                  },
+                  "strokeWeight": 1,
+                  "children": [
+                    {
+                      "id": "75:973",
+                      "name": "Group",
+                      "type": "GROUP",
+                      "boundingBox": {
+                        "width": 16.80000114440918,
+                        "height": 16.799999237060547
+                      },
+                      "strokeWeight": 1,
+                      "children": [
+                        {
+                          "id": "75:974",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 8.40000057220459,
+                            "height": 8.399975776672363
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.20000000298023224,
+                                "g": 0.20000000298023224,
+                                "b": 0.20000000298023224,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "75:975",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 8.40000057220459,
+                            "height": 8.399999618530273
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.07999999821186066,
+                                "g": 0.07999999821186066,
+                                "b": 0.07999999821186066,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "75:976",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 8.40000057220459,
+                            "height": 8.399999618530273
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.07999999821186066,
+                                "g": 0.07999999821186066,
+                                "b": 0.07999999821186066,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "75:977",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 8.40000057220459,
+                            "height": 8.399999618530273
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.07999999821186066,
+                                "g": 0.07999999821186066,
+                                "b": 0.07999999821186066,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "75:978",
+                          "name": "Vector",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 8.40000057220459,
+                            "height": 8.399999618530273
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.07999999821186066,
+                                "g": 0.07999999821186066,
+                                "b": 0.07999999821186066,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "75:979",
+          "name": "Button",
+          "type": "FRAME",
+          "layoutMode": "HORIZONTAL",
+          "paddingLeft": 24,
+          "paddingRight": 24,
+          "paddingTop": 18,
+          "paddingBottom": 18,
+          "itemSpacing": 8,
+          "counterAxisAlignItems": "CENTER",
+          "layoutSizingHorizontal": "HUG",
+          "layoutSizingVertical": "HUG",
+          "boundingBox": {
+            "width": 160,
+            "height": 63
+          },
+          "fills": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": {
+                "r": 0.10000000149011612,
+                "g": 0.10000000149011612,
+                "b": 0.10000000149011612,
+                "a": 1
+              }
+            }
+          ],
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": {
+                "r": 0.15000000596046448,
+                "g": 0.15000000596046448,
+                "b": 0.15000000596046448,
+                "a": 1
+              }
+            }
+          ],
+          "strokeWeight": 1,
+          "cornerRadius": 10,
+          "children": [
+            {
+              "id": "75:980",
+              "name": "Text",
+              "type": "TEXT",
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "boundingBox": {
+                "width": 112,
+                "height": 27
+              },
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1,
+                    "a": 1
+                  }
+                }
+              ],
+              "strokeWeight": 1,
+              "characters": "View All FAQ’s",
+              "style": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "textAlignHorizontal": "LEFT",
+                "lineHeightPx": 27
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "78:1088",
+      "name": "Container",
+      "type": "FRAME",
+      "layoutMode": "VERTICAL",
+      "itemSpacing": 50,
+      "layoutSizingHorizontal": "FILL",
+      "layoutSizingVertical": "HUG",
+      "boundingBox": {
+        "width": 1596,
+        "height": 474
+      },
+      "strokeWeight": 1,
+      "children": [
+        {
+          "id": "78:1159",
+          "name": "Items Container",
+          "type": "FRAME",
+          "layoutMode": "HORIZONTAL",
+          "itemSpacing": 30,
+          "layoutSizingHorizontal": "FILL",
+          "layoutSizingVertical": "HUG",
+          "boundingBox": {
+            "width": 1596,
+            "height": 346
+          },
+          "strokeWeight": 1,
+          "children": [
+            {
+              "id": "78:1175",
+              "name": "Card",
+              "type": "FRAME",
+              "layoutMode": "VERTICAL",
+              "paddingLeft": 50,
+              "paddingRight": 50,
+              "paddingTop": 50,
+              "paddingBottom": 50,
+              "itemSpacing": 30,
+              "layoutSizingHorizontal": "FILL",
+              "layoutSizingVertical": "HUG",
+              "boundingBox": {
+                "width": 512,
+                "height": 346
+              },
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 0.07999999821186066,
+                    "g": 0.07999999821186066,
+                    "b": 0.07999999821186066,
+                    "a": 1
+                  }
+                }
+              ],
+              "strokes": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 0.15000000596046448,
+                    "g": 0.15000000596046448,
+                    "b": 0.15000000596046448,
+                    "a": 1
+                  }
+                }
+              ],
+              "strokeWeight": 1,
+              "cornerRadius": 12,
+              "children": [
+                {
+                  "id": "78:1176",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "layoutSizingHorizontal": "FILL",
+                  "layoutSizingVertical": "HUG",
+                  "boundingBox": {
+                    "width": 412,
+                    "height": 72
+                  },
+                  "fills": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 1,
+                        "g": 1,
+                        "b": 1,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokeWeight": 1,
+                  "characters": "How do I search for properties on Estatein?",
+                  "style": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 600,
+                    "fontSize": 24,
+                    "textAlignHorizontal": "LEFT",
+                    "lineHeightPx": 36
+                  }
+                },
+                {
+                  "id": "78:1177",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "layoutSizingHorizontal": "FILL",
+                  "layoutSizingVertical": "HUG",
+                  "boundingBox": {
+                    "width": 412,
+                    "height": 54
+                  },
+                  "fills": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.6000000238418579,
+                        "g": 0.6000000238418579,
+                        "b": 0.6000000238418579,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokeWeight": 1,
+                  "characters": "Learn how to use our user-friendly search tools to find properties that match your criteria.",
+                  "style": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "textAlignHorizontal": "LEFT",
+                    "lineHeightPx": 27
+                  }
+                },
+                {
+                  "id": "78:1178",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layoutMode": "HORIZONTAL",
+                  "paddingLeft": 24,
+                  "paddingRight": 24,
+                  "paddingTop": 18,
+                  "paddingBottom": 18,
+                  "itemSpacing": 10,
+                  "layoutSizingHorizontal": "HUG",
+                  "layoutSizingVertical": "HUG",
+                  "boundingBox": {
+                    "width": 134,
+                    "height": 60
+                  },
+                  "fills": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.10000000149011612,
+                        "g": 0.10000000149011612,
+                        "b": 0.10000000149011612,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokes": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.15000000596046448,
+                        "g": 0.15000000596046448,
+                        "b": 0.15000000596046448,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokeWeight": 1,
+                  "cornerRadius": 10,
+                  "children": [
+                    {
+                      "id": "78:1179",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layoutSizingHorizontal": "HUG",
+                      "layoutSizingVertical": "HUG",
+                      "boundingBox": {
+                        "width": 86,
+                        "height": 24
+                      },
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 1,
+                            "g": 1,
+                            "b": 1,
+                            "a": 1
+                          }
+                        }
+                      ],
+                      "strokeWeight": 1,
+                      "characters": "Read More",
+                      "style": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "textAlignHorizontal": "LEFT",
+                        "lineHeightPx": 23.579998016357422
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "78:1180",
+              "name": "Card",
+              "type": "FRAME",
+              "layoutMode": "VERTICAL",
+              "paddingLeft": 50,
+              "paddingRight": 50,
+              "paddingTop": 50,
+              "paddingBottom": 50,
+              "itemSpacing": 30,
+              "layoutSizingHorizontal": "FILL",
+              "layoutSizingVertical": "HUG",
+              "boundingBox": {
+                "width": 512,
+                "height": 346
+              },
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 0.07999999821186066,
+                    "g": 0.07999999821186066,
+                    "b": 0.07999999821186066,
+                    "a": 1
+                  }
+                }
+              ],
+              "strokes": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 0.15000000596046448,
+                    "g": 0.15000000596046448,
+                    "b": 0.15000000596046448,
+                    "a": 1
+                  }
+                }
+              ],
+              "strokeWeight": 1,
+              "cornerRadius": 12,
+              "children": [
+                {
+                  "id": "78:1181",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "layoutSizingHorizontal": "FILL",
+                  "layoutSizingVertical": "HUG",
+                  "boundingBox": {
+                    "width": 412,
+                    "height": 72
+                  },
+                  "fills": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 1,
+                        "g": 1,
+                        "b": 1,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokeWeight": 1,
+                  "characters": "What documents do I need to sell my property through Estatein?",
+                  "style": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 600,
+                    "fontSize": 24,
+                    "textAlignHorizontal": "LEFT",
+                    "lineHeightPx": 36
+                  }
+                },
+                {
+                  "id": "78:1182",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "layoutSizingHorizontal": "FILL",
+                  "layoutSizingVertical": "HUG",
+                  "boundingBox": {
+                    "width": 412,
+                    "height": 54
+                  },
+                  "fills": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.6000000238418579,
+                        "g": 0.6000000238418579,
+                        "b": 0.6000000238418579,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokeWeight": 1,
+                  "characters": "Find out about the necessary documentation for listing your property with us.",
+                  "style": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "textAlignHorizontal": "LEFT",
+                    "lineHeightPx": 27
+                  }
+                },
+                {
+                  "id": "78:1183",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layoutMode": "HORIZONTAL",
+                  "paddingLeft": 24,
+                  "paddingRight": 24,
+                  "paddingTop": 18,
+                  "paddingBottom": 18,
+                  "itemSpacing": 10,
+                  "layoutSizingHorizontal": "HUG",
+                  "layoutSizingVertical": "HUG",
+                  "boundingBox": {
+                    "width": 134,
+                    "height": 60
+                  },
+                  "fills": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.10000000149011612,
+                        "g": 0.10000000149011612,
+                        "b": 0.10000000149011612,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokes": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.15000000596046448,
+                        "g": 0.15000000596046448,
+                        "b": 0.15000000596046448,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokeWeight": 1,
+                  "cornerRadius": 10,
+                  "children": [
+                    {
+                      "id": "78:1184",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layoutSizingHorizontal": "HUG",
+                      "layoutSizingVertical": "HUG",
+                      "boundingBox": {
+                        "width": 86,
+                        "height": 24
+                      },
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 1,
+                            "g": 1,
+                            "b": 1,
+                            "a": 1
+                          }
+                        }
+                      ],
+                      "strokeWeight": 1,
+                      "characters": "Read More",
+                      "style": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "textAlignHorizontal": "LEFT",
+                        "lineHeightPx": 23.579998016357422
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "78:1185",
+              "name": "Card",
+              "type": "FRAME",
+              "layoutMode": "VERTICAL",
+              "paddingLeft": 50,
+              "paddingRight": 50,
+              "paddingTop": 50,
+              "paddingBottom": 50,
+              "itemSpacing": 30,
+              "layoutSizingHorizontal": "FILL",
+              "layoutSizingVertical": "HUG",
+              "boundingBox": {
+                "width": 512,
+                "height": 346
+              },
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 0.07999999821186066,
+                    "g": 0.07999999821186066,
+                    "b": 0.07999999821186066,
+                    "a": 1
+                  }
+                }
+              ],
+              "strokes": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 0.15000000596046448,
+                    "g": 0.15000000596046448,
+                    "b": 0.15000000596046448,
+                    "a": 1
+                  }
+                }
+              ],
+              "strokeWeight": 1,
+              "cornerRadius": 12,
+              "children": [
+                {
+                  "id": "78:1186",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "layoutSizingHorizontal": "FILL",
+                  "layoutSizingVertical": "HUG",
+                  "boundingBox": {
+                    "width": 412,
+                    "height": 72
+                  },
+                  "fills": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 1,
+                        "g": 1,
+                        "b": 1,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokeWeight": 1,
+                  "characters": "How can I contact an Estatein agent?",
+                  "style": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 600,
+                    "fontSize": 24,
+                    "textAlignHorizontal": "LEFT",
+                    "lineHeightPx": 36
+                  }
+                },
+                {
+                  "id": "78:1187",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "layoutSizingHorizontal": "FILL",
+                  "layoutSizingVertical": "HUG",
+                  "boundingBox": {
+                    "width": 412,
+                    "height": 54
+                  },
+                  "fills": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.6000000238418579,
+                        "g": 0.6000000238418579,
+                        "b": 0.6000000238418579,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokeWeight": 1,
+                  "characters": "Discover the different ways you can get in touch with our experienced agents.",
+                  "style": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "textAlignHorizontal": "LEFT",
+                    "lineHeightPx": 27
+                  }
+                },
+                {
+                  "id": "78:1188",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layoutMode": "HORIZONTAL",
+                  "paddingLeft": 24,
+                  "paddingRight": 24,
+                  "paddingTop": 18,
+                  "paddingBottom": 18,
+                  "itemSpacing": 10,
+                  "layoutSizingHorizontal": "HUG",
+                  "layoutSizingVertical": "HUG",
+                  "boundingBox": {
+                    "width": 134,
+                    "height": 60
+                  },
+                  "fills": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.10000000149011612,
+                        "g": 0.10000000149011612,
+                        "b": 0.10000000149011612,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokes": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.15000000596046448,
+                        "g": 0.15000000596046448,
+                        "b": 0.15000000596046448,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokeWeight": 1,
+                  "cornerRadius": 10,
+                  "children": [
+                    {
+                      "id": "78:1189",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layoutSizingHorizontal": "HUG",
+                      "layoutSizingVertical": "HUG",
+                      "boundingBox": {
+                        "width": 86,
+                        "height": 24
+                      },
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": {
+                            "r": 1,
+                            "g": 1,
+                            "b": 1,
+                            "a": 1
+                          }
+                        }
+                      ],
+                      "strokeWeight": 1,
+                      "characters": "Read More",
+                      "style": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "textAlignHorizontal": "LEFT",
+                        "lineHeightPx": 23.579998016357422
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "130:6090",
+          "name": "Container",
+          "type": "FRAME",
+          "layoutMode": "HORIZONTAL",
+          "paddingTop": 20,
+          "itemSpacing": 1123,
+          "primaryAxisAlignItems": "SPACE_BETWEEN",
+          "layoutSizingHorizontal": "FILL",
+          "layoutSizingVertical": "HUG",
+          "boundingBox": {
+            "width": 1596,
+            "height": 78
+          },
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": {
+                "r": 0.15000000596046448,
+                "g": 0.15000000596046448,
+                "b": 0.15000000596046448,
+                "a": 1
+              }
+            }
+          ],
+          "strokeWeight": 1,
+          "children": [
+            {
+              "id": "130:6091",
+              "name": "Text",
+              "type": "TEXT",
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "boundingBox": {
+                "width": 63,
+                "height": 30
+              },
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": {
+                    "r": 0.6000000238418579,
+                    "g": 0.6000000238418579,
+                    "b": 0.6000000238418579,
+                    "a": 1
+                  }
+                }
+              ],
+              "strokeWeight": 1,
+              "characters": "01 of 10",
+              "style": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 20,
+                "textAlignHorizontal": "LEFT",
+                "lineHeightPx": 30
+              }
+            },
+            {
+              "id": "130:6092",
+              "name": "Buttons Container",
+              "type": "FRAME",
+              "layoutMode": "HORIZONTAL",
+              "itemSpacing": 10,
+              "layoutSizingHorizontal": "HUG",
+              "layoutSizingVertical": "HUG",
+              "boundingBox": {
+                "width": 126,
+                "height": 58
+              },
+              "strokeWeight": 1,
+              "children": [
+                {
+                  "id": "130:6093",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layoutMode": "HORIZONTAL",
+                  "paddingLeft": 14,
+                  "paddingRight": 14,
+                  "paddingTop": 14,
+                  "paddingBottom": 14,
+                  "itemSpacing": 10,
+                  "layoutSizingHorizontal": "HUG",
+                  "layoutSizingVertical": "HUG",
+                  "boundingBox": {
+                    "width": 58,
+                    "height": 58
+                  },
+                  "strokes": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.15000000596046448,
+                        "g": 0.15000000596046448,
+                        "b": 0.15000000596046448,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokeWeight": 1,
+                  "cornerRadius": 69,
+                  "children": [
+                    {
+                      "id": "130:6094",
+                      "name": "Icon",
+                      "type": "FRAME",
+                      "layoutSizingHorizontal": "FIXED",
+                      "layoutSizingVertical": "FIXED",
+                      "boundingBox": {
+                        "width": 30,
+                        "height": 30
+                      },
+                      "strokeWeight": 1,
+                      "children": [
+                        {
+                          "id": "130:6095",
+                          "name": "Vector (Stroke)",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 21.000000786804776,
+                            "height": 18.000004732636626
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 0.5,
+                                "g": 0.5,
+                                "b": 0.5,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1.5
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "130:6096",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layoutMode": "HORIZONTAL",
+                  "paddingLeft": 14,
+                  "paddingRight": 14,
+                  "paddingTop": 14,
+                  "paddingBottom": 14,
+                  "itemSpacing": 10,
+                  "layoutSizingHorizontal": "HUG",
+                  "layoutSizingVertical": "HUG",
+                  "boundingBox": {
+                    "width": 58,
+                    "height": 58
+                  },
+                  "fills": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.10000000149011612,
+                        "g": 0.10000000149011612,
+                        "b": 0.10000000149011612,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokes": [
+                    {
+                      "blendMode": "NORMAL",
+                      "type": "SOLID",
+                      "color": {
+                        "r": 0.15000000596046448,
+                        "g": 0.15000000596046448,
+                        "b": 0.15000000596046448,
+                        "a": 1
+                      }
+                    }
+                  ],
+                  "strokeWeight": 1,
+                  "cornerRadius": 69,
+                  "children": [
+                    {
+                      "id": "130:6097",
+                      "name": "Icon",
+                      "type": "FRAME",
+                      "layoutSizingHorizontal": "FIXED",
+                      "layoutSizingVertical": "FIXED",
+                      "boundingBox": {
+                        "width": 30,
+                        "height": 30
+                      },
+                      "strokeWeight": 1,
+                      "children": [
+                        {
+                          "id": "130:6098",
+                          "name": "Vector (Stroke)",
+                          "type": "VECTOR",
+                          "boundingBox": {
+                            "width": 21.000000786804776,
+                            "height": 18.000004732636626
+                          },
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": {
+                                "r": 1,
+                                "g": 1,
+                                "b": 1,
+                                "a": 1
+                              }
+                            }
+                          ],
+                          "strokeWeight": 1.5
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

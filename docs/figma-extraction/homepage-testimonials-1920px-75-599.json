@@ -1,0 +1,529 @@
+{
+  "id": "75:599",
+  "name": "Container",
+  "type": "FRAME",
+  "layout": {
+    "mode": "column",
+    "gap": "80px",
+    "sizing": {
+      "horizontal": "fixed",
+      "vertical": "hug"
+    },
+    "dimensions": { "width": 1596 }
+  },
+  "children": [
+    {
+      "id": "75:600",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "alignItems": "flex-end",
+        "alignSelf": "stretch",
+        "gap": "200px"
+      },
+      "children": [
+        {
+          "id": "75:601",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "gap": "14px"
+          },
+          "children": [
+            {
+              "id": "75:602",
+              "name": "Heading",
+              "type": "TEXT",
+              "text": "What Our Clients Say",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 48,
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "75:603",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "text": "Read the success stories and heartfelt testimonials from our valued clients. Discover why they chose Estatein for their real estate needs.",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "color": "#999999"
+              }
+            }
+          ]
+        },
+        {
+          "id": "75:626",
+          "name": "Button",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "alignItems": "center",
+            "gap": "8px",
+            "padding": "18px 24px"
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A",
+            "borderColor": "#262626",
+            "borderWidth": "1px",
+            "borderRadius": "10px"
+          },
+          "children": [
+            {
+              "id": "75:627",
+              "name": "Text",
+              "type": "TEXT",
+              "text": "View All Testimonials",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.5,
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75:679",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "50px"
+      },
+      "children": [
+        {
+          "id": "75:680",
+          "name": "Items Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "stretch",
+            "alignItems": "stretch",
+            "alignSelf": "stretch",
+            "gap": "30px"
+          },
+          "children": [
+            {
+              "id": "75:870",
+              "name": "Card",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "40px",
+                "padding": "50px"
+              },
+              "styles": {
+                "backgroundColor": "#141414",
+                "borderColor": "#262626",
+                "borderWidth": "1px",
+                "borderRadius": "12px"
+              },
+              "children": [
+                {
+                  "id": "75:871",
+                  "name": "Container",
+                  "type": "IMAGE-SVG"
+                },
+                {
+                  "id": "75:882",
+                  "name": "Text Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "alignSelf": "stretch",
+                    "gap": "14px"
+                  },
+                  "children": [
+                    {
+                      "id": "75:883",
+                      "name": "Heading",
+                      "type": "TEXT",
+                      "text": "Exceptional Service!",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 600,
+                        "fontSize": 24,
+                        "lineHeight": 1.5,
+                        "textAlign": "left",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "75:884",
+                      "name": "Paragraph",
+                      "type": "TEXT",
+                      "text": "Our experience with Estatein was outstanding. Their team's dedication and professionalism made finding our dream home a breeze. Highly recommended!",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.5,
+                        "textAlign": "left",
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "75:885",
+                  "name": "Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "alignItems": "center",
+                    "alignSelf": "stretch",
+                    "gap": "12px"
+                  },
+                  "children": [
+                    {
+                      "id": "75:886",
+                      "name": "Profile",
+                      "type": "ELLIPSE",
+                      "dimensions": { "width": 60, "height": 60 },
+                      "fills": ["fill_OSLICF"]
+                    },
+                    {
+                      "id": "75:887",
+                      "name": "Text Container",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "column",
+                        "gap": "2px"
+                      },
+                      "children": [
+                        {
+                          "id": "75:888",
+                          "name": "Name",
+                          "type": "TEXT",
+                          "text": "Wade Warren",
+                          "styles": {
+                            "fontFamily": "Urbanist",
+                            "fontWeight": 500,
+                            "fontSize": 20,
+                            "lineHeight": 1.5,
+                            "textAlign": "left",
+                            "color": "#FFFFFF"
+                          }
+                        },
+                        {
+                          "id": "75:889",
+                          "name": "Text",
+                          "type": "TEXT",
+                          "text": "USA, California",
+                          "styles": {
+                            "fontFamily": "Urbanist",
+                            "fontWeight": 500,
+                            "fontSize": 18,
+                            "lineHeight": 1.5,
+                            "textAlign": "left",
+                            "color": "#999999"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "75:910",
+              "name": "Card",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "40px",
+                "padding": "50px"
+              },
+              "styles": {
+                "backgroundColor": "#141414",
+                "borderColor": "#262626",
+                "borderWidth": "1px",
+                "borderRadius": "12px"
+              },
+              "children": [
+                {
+                  "id": "75:911",
+                  "name": "Container",
+                  "type": "IMAGE-SVG"
+                },
+                {
+                  "id": "75:922",
+                  "name": "Text Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "alignSelf": "stretch",
+                    "gap": "14px"
+                  },
+                  "children": [
+                    {
+                      "id": "75:923",
+                      "name": "Heading",
+                      "type": "TEXT",
+                      "text": "Efficient and Reliable",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 600,
+                        "fontSize": 24,
+                        "lineHeight": 1.5,
+                        "textAlign": "left",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "75:924",
+                      "name": "Paragraph",
+                      "type": "TEXT",
+                      "text": "Estatein provided us with top-notch service. They helped us sell our property quickly and at a great price. We couldn't be happier with the results.",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.5,
+                        "textAlign": "left",
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "75:925",
+                  "name": "Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "alignItems": "center",
+                    "alignSelf": "stretch",
+                    "gap": "12px"
+                  },
+                  "children": [
+                    {
+                      "id": "75:926",
+                      "name": "Profile",
+                      "type": "ELLIPSE",
+                      "dimensions": { "width": 60, "height": 60 },
+                      "fills": ["fill_468105"]
+                    },
+                    {
+                      "id": "75:927",
+                      "name": "Text Container",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "column",
+                        "gap": "2px"
+                      },
+                      "children": [
+                        {
+                          "id": "75:928",
+                          "name": "Name",
+                          "type": "TEXT",
+                          "text": "Emelie Thomson",
+                          "styles": {
+                            "fontFamily": "Urbanist",
+                            "fontWeight": 500,
+                            "fontSize": 20,
+                            "lineHeight": 1.5,
+                            "textAlign": "left",
+                            "color": "#FFFFFF"
+                          }
+                        },
+                        {
+                          "id": "75:929",
+                          "name": "Text",
+                          "type": "TEXT",
+                          "text": "USA, Florida",
+                          "styles": {
+                            "fontFamily": "Urbanist",
+                            "fontWeight": 500,
+                            "fontSize": 18,
+                            "lineHeight": 1.5,
+                            "textAlign": "left",
+                            "color": "#999999"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "75:890",
+              "name": "Card",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "40px",
+                "padding": "50px"
+              },
+              "styles": {
+                "backgroundColor": "#141414",
+                "borderColor": "#262626",
+                "borderWidth": "1px",
+                "borderRadius": "12px"
+              },
+              "children": [
+                {
+                  "id": "75:891",
+                  "name": "Container",
+                  "type": "IMAGE-SVG"
+                },
+                {
+                  "id": "75:902",
+                  "name": "Text Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "alignSelf": "stretch",
+                    "gap": "14px"
+                  },
+                  "children": [
+                    {
+                      "id": "75:903",
+                      "name": "Heading",
+                      "type": "TEXT",
+                      "text": "Trusted Advisors",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 600,
+                        "fontSize": 24,
+                        "lineHeight": 1.5,
+                        "textAlign": "left",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "75:904",
+                      "name": "Paragraph",
+                      "type": "TEXT",
+                      "text": "The Estatein team guided us through the entire buying process. Their knowledge and commitment to our needs were impressive. Thank you for your support!",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.5,
+                        "textAlign": "left",
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "75:905",
+                  "name": "Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "alignItems": "center",
+                    "alignSelf": "stretch",
+                    "gap": "12px"
+                  },
+                  "children": [
+                    {
+                      "id": "75:906",
+                      "name": "Profile",
+                      "type": "ELLIPSE",
+                      "dimensions": { "width": 60, "height": 60 },
+                      "fills": ["fill_UPP9K0"]
+                    },
+                    {
+                      "id": "75:907",
+                      "name": "Text Container",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "column",
+                        "gap": "2px"
+                      },
+                      "children": [
+                        {
+                          "id": "75:908",
+                          "name": "Name",
+                          "type": "TEXT",
+                          "text": "John Mans",
+                          "styles": {
+                            "fontFamily": "Urbanist",
+                            "fontWeight": 500,
+                            "fontSize": 20,
+                            "lineHeight": 1.5,
+                            "textAlign": "left",
+                            "color": "#FFFFFF"
+                          }
+                        },
+                        {
+                          "id": "75:909",
+                          "name": "Text",
+                          "type": "TEXT",
+                          "text": "USA, Nevada",
+                          "styles": {
+                            "fontFamily": "Urbanist",
+                            "fontWeight": 500,
+                            "fontSize": 18,
+                            "lineHeight": 1.5,
+                            "textAlign": "left",
+                            "color": "#999999"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "130:6081",
+          "name": "Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "space-between",
+            "alignSelf": "stretch",
+            "gap": "1123px",
+            "padding": "20px 0px 0px"
+          },
+          "styles": {
+            "borderColor": "#262626",
+            "borderWidth": "1px 0px 0px"
+          },
+          "children": [
+            {
+              "id": "130:6082",
+              "name": "Text",
+              "type": "TEXT",
+              "text": "01 of 10",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 20,
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "color": "#999999"
+              }
+            },
+            {
+              "id": "130:6083",
+              "name": "Buttons Container",
+              "type": "IMAGE-SVG"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

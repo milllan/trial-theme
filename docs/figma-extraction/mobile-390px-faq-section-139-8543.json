@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:8543",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layout": "layout_LKOB0B",
+      "children": [
+        {
+          "id": "139:8575",
+          "name": "Card",
+          "type": "FRAME",
+          "layout": "layout_SL4RUR",
+          "fills": "Grey/08",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px",
+          "borderRadius": "10px",
+          "children": [
+            {
+              "id": "139:8576",
+              "name": "Heading",
+              "type": "TEXT",
+              "layout": "layout_7YFR70",
+              "text": "How do I search for properties on Estatein?",
+              "textStyle": "style_JYJFI8",
+              "fills": "Absolute/White"
+            },
+            {
+              "id": "139:8577",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "layout": "layout_7YFR70",
+              "text": "Learn how to use our user-friendly search tools to find properties that match your criteria.",
+              "textStyle": "style_EMZJNZ",
+              "fills": "Grey/60"
+            },
+            {
+              "id": "139:8578",
+              "name": "Button",
+              "type": "FRAME",
+              "layout": "layout_EBJZE5",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "8px",
+              "children": [
+                {
+                  "id": "139:8579",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_ZNH7B4",
+                  "text": "Read More",
+                  "textStyle": "style_NFOMGT",
+                  "fills": "Absolute/White"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "139:8564",
+          "name": "Container",
+          "type": "FRAME",
+          "layout": "layout_0K47YH",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px 0px 0px",
+          "children": [
+            {
+              "id": "139:8565",
+              "name": "Button",
+              "type": "FRAME",
+              "layout": "layout_DDC9CC",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "8px",
+              "children": [
+                {
+                  "id": "139:8566",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_ZNH7B4",
+                  "text": "View All FAQ's",
+                  "textStyle": "style_PCVKW6",
+                  "fills": "Absolute/White"
+                }
+              ]
+            },
+            {
+              "id": "139:8567",
+              "name": "Buttons Container",
+              "type": "FRAME",
+              "layout": "layout_L7SJYY",
+              "children": [
+                {
+                  "id": "139:8568",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layout": "layout_VIG7LX",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1px",
+                  "borderRadius": "69px",
+                  "children": [
+                    {
+                      "id": "139:8569",
+                      "name": "Icon",
+                      "type": "FRAME",
+                      "layout": "layout_58NG0W"
+                    }
+                  ]
+                },
+                {
+                  "id": "139:8571",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_ZNH7B4",
+                  "text": "01 of 10",
+                  "textStyle": "style_PCVKW6",
+                  "fills": "Grey/60"
+                },
+                {
+                  "id": "139:8572",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layout": "layout_VIG7LX",
+                  "fills": "Grey/10",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1px",
+                  "borderRadius": "69px",
+                  "children": [
+                    {
+                      "id": "139:8573",
+                      "name": "Icon",
+                      "type": "FRAME",
+                      "layout": "layout_58NG0W"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_LKOB0B": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "30px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_SL4RUR": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "20px",
+        "padding": "30px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/08": ["#141414"],
+      "Grey/15": ["#262626"],
+      "layout_7YFR70": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_JYJFI8": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontSize": "18",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "style_EMZJNZ": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "14",
+        "lineHeight": "1.5em",
+        "letterSpacing": "-0.6000000238418579%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Grey/60": ["#999999"],
+      "layout_EBJZE5": {
+        "mode": "row",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "10px",
+        "padding": "14px 20px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "layout_ZNH7B4": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "style_NFOMGT": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "14",
+        "lineHeight": "1.310000010899135em",
+        "letterSpacing": "-0.6000000238418579%",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "layout_0K47YH": {
+        "mode": "row",
+        "justifyContent": "space-between",
+        "alignSelf": "stretch",
+        "gap": "1123px",
+        "padding": "16px 0px 0px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_DDC9CC": {
+        "mode": "row",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "8px",
+        "padding": "14px 20px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "fill"
+        }
+      },
+      "style_PCVKW6": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "14",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "layout_L7SJYY": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "10px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_VIG7LX": {
+        "mode": "row",
+        "gap": "10px",
+        "padding": "10px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_58NG0W": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": "24",
+          "height": "24"
+        }
+      }
+    }
+  }
+}

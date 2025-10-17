@@ -1,0 +1,458 @@
+{
+  "id": "87:1301",
+  "name": "Container",
+  "type": "FRAME",
+  "layout": {
+    "mode": "column",
+    "gap": "80px",
+    "sizing": {
+      "horizontal": "fixed",
+      "vertical": "hug"
+    },
+    "location": { "x": 162, "y": 1378 },
+    "dimensions": { "width": 1596 }
+  },
+  "children": [
+    {
+      "id": "60:3180",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "alignItems": "flex-end",
+        "alignSelf": "stretch",
+        "gap": "200px"
+      },
+      "children": [
+        {
+          "id": "46:358",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "gap": "14px"
+          },
+          "children": [
+            {
+              "id": "46:359",
+              "name": "Heading",
+              "type": "TEXT",
+              "text": "Featured Properties",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 48,
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "46:360",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "text": "Explore our handpicked selection of featured properties. Each listing offers a glimpse into exceptional homes and investments available through Estatein. Click \"View Details\" for more information.",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "color": "#999999"
+              }
+            }
+          ]
+        },
+        {
+          "id": "60:3178",
+          "name": "Button",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "alignItems": "center",
+            "gap": "8px",
+            "padding": "18px 24px"
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A",
+            "borderColor": "#262626",
+            "borderWidth": "1px",
+            "borderRadius": "10px"
+          },
+          "children": [
+            {
+              "id": "60:3179",
+              "name": "Text",
+              "type": "TEXT",
+              "text": "View All Properties",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.5,
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87:1300",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "50px"
+      },
+      "children": [
+        {
+          "id": "87:1274",
+          "name": "Items Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "stretch",
+            "alignItems": "stretch",
+            "alignSelf": "stretch",
+            "gap": "30px"
+          },
+          "children": [
+            {
+              "id": "75:564",
+              "name": "Card",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "30px",
+                "padding": "40px"
+              },
+              "styles": {
+                "backgroundColor": "#141414",
+                "borderColor": "#262626",
+                "borderWidth": "1px",
+                "borderRadius": "12px"
+              },
+              "children": [
+                {
+                  "id": "75:544",
+                  "name": "Image",
+                  "type": "RECTANGLE",
+                  "layout": {
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "fixed"
+                    }
+                  },
+                  "dimensions": { "height": 318 },
+                  "styles": {
+                    "backgroundColor": "#50TNDW",
+                    "borderRadius": "10px"
+                  }
+                },
+                {
+                  "id": "87:1215",
+                  "name": "Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "alignSelf": "stretch",
+                    "gap": "30px"
+                  },
+                  "children": [
+                    {
+                      "id": "75:563",
+                      "name": "Text Container",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "column",
+                        "alignSelf": "stretch",
+                        "gap": "6px"
+                      },
+                      "children": [
+                        {
+                          "id": "75:545",
+                          "name": "Heading",
+                          "type": "TEXT",
+                          "text": "Seaside Serenity Villa",
+                          "styles": {
+                            "fontFamily": "Urbanist",
+                            "fontWeight": 600,
+                            "fontSize": 24,
+                            "lineHeight": 1.5,
+                            "textAlign": "left",
+                            "color": "#FFFFFF"
+                          }
+                        },
+                        {
+                          "id": "75:546",
+                          "name": "Paragraph",
+                          "type": "TEXT",
+                          "text": "A stunning 4-bedroom, 3-bathroom villa in a peaceful suburban neighborhood... Read More",
+                          "styles": {
+                            "fontFamily": "Urbanist",
+                            "fontWeight": 500,
+                            "fontSize": 18,
+                            "lineHeight": 1.5,
+                            "textAlign": "left",
+                            "color": "#999999"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "87:1238",
+                      "name": "Sub Container",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "row",
+                        "alignSelf": "stretch",
+                        "gap": "10px"
+                      },
+                      "children": [
+                        {
+                          "id": "87:1234",
+                          "name": "Container",
+                          "type": "FRAME",
+                          "layout": {
+                            "mode": "row",
+                            "alignItems": "center",
+                            "gap": "4px",
+                            "padding": "8px 14px"
+                          },
+                          "styles": {
+                            "backgroundColor": "#1A1A1A",
+                            "borderColor": "#262626",
+                            "borderWidth": "1px",
+                            "borderRadius": "28px"
+                          },
+                          "children": [
+                            {
+                              "id": "122:2005",
+                              "name": "Icon",
+                              "type": "IMAGE-SVG",
+                              "dimensions": { "width": 24, "height": 24 }
+                            },
+                            {
+                              "id": "87:1233",
+                              "name": "Text",
+                              "type": "TEXT",
+                              "text": "4-Bedroom",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 18,
+                                "lineHeight": 1.5,
+                                "color": "#FFFFFF"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "87:1241",
+                          "name": "Container",
+                          "type": "FRAME",
+                          "layout": {
+                            "mode": "row",
+                            "alignItems": "center",
+                            "gap": "4px",
+                            "padding": "8px 14px"
+                          },
+                          "styles": {
+                            "backgroundColor": "#1A1A1A",
+                            "borderColor": "#262626",
+                            "borderWidth": "1px",
+                            "borderRadius": "28px"
+                          },
+                          "children": [
+                            {
+                              "id": "122:2009",
+                              "name": "Icon",
+                              "type": "IMAGE-SVG",
+                              "dimensions": { "width": 24, "height": 24 }
+                            },
+                            {
+                              "id": "87:1244",
+                              "name": "Text",
+                              "type": "TEXT",
+                              "text": "3-Bathroom",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 18,
+                                "lineHeight": 1.5,
+                                "color": "#FFFFFF"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "87:1245",
+                          "name": "Container",
+                          "type": "FRAME",
+                          "layout": {
+                            "mode": "row",
+                            "alignItems": "center",
+                            "gap": "4px",
+                            "padding": "8px 14px"
+                          },
+                          "styles": {
+                            "backgroundColor": "#1A1A1A",
+                            "borderColor": "#262626",
+                            "borderWidth": "1px",
+                            "borderRadius": "28px"
+                          },
+                          "children": [
+                            {
+                              "id": "122:2016",
+                              "name": "Icon",
+                              "type": "FRAME",
+                              "dimensions": { "width": 24, "height": 24 }
+                            },
+                            {
+                              "id": "87:1248",
+                              "name": "Text",
+                              "type": "TEXT",
+                              "text": "Villa",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 18,
+                                "lineHeight": 1.5,
+                                "color": "#FFFFFF"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "75:557",
+                      "name": "Sub Container",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "row",
+                        "alignItems": "flex-end",
+                        "alignSelf": "stretch",
+                        "gap": "50px"
+                      },
+                      "children": [
+                        {
+                          "id": "75:558",
+                          "name": "Text Container",
+                          "type": "FRAME",
+                          "layout": {
+                            "mode": "column",
+                            "gap": "2px"
+                          },
+                          "children": [
+                            {
+                              "id": "75:559",
+                              "name": "Heading",
+                              "type": "TEXT",
+                              "text": "Price",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 18,
+                                "lineHeight": 1.5,
+                                "color": "#999999"
+                              }
+                            },
+                            {
+                              "id": "75:560",
+                              "name": "Paragraph",
+                              "type": "TEXT",
+                              "text": "$550,000",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 600,
+                                "fontSize": 24,
+                                "lineHeight": 1.5,
+                                "textAlign": "left",
+                                "color": "#FFFFFF"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "75:561",
+                          "name": "Button",
+                          "type": "FRAME",
+                          "layout": {
+                            "mode": "row",
+                            "justifyContent": "center",
+                            "alignItems": "center",
+                            "gap": "8px",
+                            "padding": "18px 24px"
+                          },
+                          "styles": {
+                            "backgroundColor": "#703BF7",
+                            "borderRadius": "10px"
+                          },
+                          "children": [
+                            {
+                              "id": "75:562",
+                              "name": "Text",
+                              "type": "TEXT",
+                              "text": "View Property Details",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 18,
+                                "lineHeight": 1.5,
+                                "color": "#FFFFFF"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "75:596",
+          "name": "Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "space-between",
+            "alignSelf": "stretch",
+            "gap": "1123px",
+            "padding": "20px 0px 0px"
+          },
+          "styles": {
+            "borderColor": "#262626",
+            "borderWidth": "1px 0px 0px"
+          },
+          "children": [
+            {
+              "id": "75:588",
+              "name": "Text",
+              "type": "TEXT",
+              "text": "01 of 60",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 20,
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "color": "#999999"
+              }
+            },
+            {
+              "id": "75:595",
+              "name": "Buttons Container",
+              "type": "IMAGE-SVG"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

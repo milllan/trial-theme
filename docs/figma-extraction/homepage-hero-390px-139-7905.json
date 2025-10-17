@@ -1,0 +1,766 @@
+{
+  "id": "139:7905",
+  "name": "Container",
+  "type": "FRAME",
+  "layout": {
+    "mode": "column",
+    "justifyContent": "center",
+    "alignSelf": "stretch",
+    "gap": "16px",
+    "sizing": {
+      "horizontal": "fill",
+      "vertical": "hug"
+    }
+  },
+  "children": [
+    {
+      "id": "139:7908",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "gap": "10.636363983154297px",
+        "padding": "31.909090042114258px",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": { "width": 117, "height": 117 }
+      },
+      "styles": {
+        "backgroundColor": "#141414",
+        "borderColor": "#262626",
+        "borderWidth": "1.0636364221572876px",
+        "borderRadius": "106.36363983154297px"
+      },
+      "children": [
+        {
+          "id": "139:7909",
+          "name": "Shape",
+          "type": "RECTANGLE",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "fixed"
+            },
+            "dimensions": { "width": 53.18, "height": 53.18 }
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A",
+            "borderColor": "#262626",
+            "borderWidth": "1.0636364221572876px",
+            "borderRadius": "59.563636779785156px"
+          }
+        },
+        {
+          "id": "139:7910",
+          "name": "Icon",
+          "type": "IMAGE-SVG",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "fixed"
+            },
+            "position": "absolute",
+            "locationRelativeToParent": { "x": 48.07, "y": 47.16 },
+            "dimensions": { "width": 21.77, "height": 21.77 }
+          }
+        },
+        {
+          "id": "139:7912",
+          "name": "Text Container",
+          "type": "GROUP",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "fixed"
+            },
+            "position": "absolute",
+            "locationRelativeToParent": { "x": 10.64, "y": 10.65 },
+            "dimensions": { "width": 96.12, "height": 96.05 },
+            "borderRadius": "0px"
+          },
+          "children": [
+            {
+              "id": "139:7913",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 47.16, "y": 83.44 },
+                "dimensions": { "width": 12.28, "height": 11.43 }
+              },
+              "text": "✨",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7914",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 37.49, "y": 83.13 },
+                "dimensions": { "width": 8.72, "height": 12.91 }
+              },
+              "text": "D",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7915",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 30.18, "y": 81.34 },
+                "dimensions": { "width": 6.85, "height": 12.31 }
+              },
+              "text": "i",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7916",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 22.7, "y": 78.37 },
+                "dimensions": { "width": 10.12, "height": 12.93 }
+              },
+              "text": "s",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7917",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 14.82, "y": 73.64 },
+                "dimensions": { "width": 12.29, "height": 13.06 }
+              },
+              "text": "c",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7918",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 8.22, "y": 67.69 },
+                "dimensions": { "width": 13.17, "height": 12.08 }
+              },
+              "text": "o",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7919",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 3.19, "y": 60.38 },
+                "dimensions": { "width": 13.41, "height": 10.52 }
+              },
+              "text": "v",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7920",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 0.53, "y": 52.97 },
+                "dimensions": { "width": 13.01, "height": 8.45 }
+              },
+              "text": "e",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7921",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": -0.0, "y": 46.72 },
+                "dimensions": { "width": 12.08, "height": 4.24 }
+              },
+              "text": "r",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7922",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 0.28, "y": 39.97 },
+                "dimensions": { "width": 12.3, "height": 4.59 }
+              },
+              "text": "_",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7923",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 1.49, "y": 29.19 },
+                "dimensions": { "width": 13.61, "height": 10.48 }
+              },
+              "text": "Y",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7924",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 5.73, "y": 20.07 },
+                "dimensions": { "width": 13.35, "height": 11.46 }
+              },
+              "text": "o",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7925",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 11.91, "y": 12.04 },
+                "dimensions": { "width": 12.76, "height": 12.7 }
+              },
+              "text": "u",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7926",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 19.28, "y": 7.3 },
+                "dimensions": { "width": 10.08, "height": 12.16 }
+              },
+              "text": "r",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7927",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 26.09, "y": 4.03 },
+                "dimensions": { "width": 7.88, "height": 12.12 }
+              },
+              "text": "_",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7928",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 32.76, "y": 0.68 },
+                "dimensions": { "width": 9.73, "height": 13.35 }
+              },
+              "text": "D",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7929",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 44.39, "y": -0.0 },
+                "dimensions": { "width": 4.42, "height": 12.13 }
+              },
+              "text": "r",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7930",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 50.84, "y": 0.18 },
+                "dimensions": { "width": 7.86, "height": 12.81 }
+              },
+              "text": "e",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7931",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 58.85, "y": 2.46 },
+                "dimensions": { "width": 10.1, "height": 13.38 }
+              },
+              "text": "a",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7932",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 66.29, "y": 7.14 },
+                "dimensions": { "width": 14.43, "height": 15 }
+              },
+              "text": "m",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7933",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 74.64, "y": 16.02 },
+                "dimensions": { "width": 11.1, "height": 10.03 }
+              },
+              "text": "_",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7934",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 77.8, "y": 21.6 },
+                "dimensions": { "width": 13.39, "height": 11.2 }
+              },
+              "text": "P",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7935",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 81.41, "y": 30.49 },
+                "dimensions": { "width": 12.65, "height": 7.71 }
+              },
+              "text": "r",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7936",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 83.29, "y": 38.53 },
+                "dimensions": { "width": 12.7, "height": 7.57 }
+              },
+              "text": "o",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7937",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 83.53, "y": 48.26 },
+                "dimensions": { "width": 12.59, "height": 8.06 }
+              },
+              "text": "p",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7938",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 81.32, "y": 56.36 },
+                "dimensions": { "width": 13.27, "height": 9.44 }
+              },
+              "text": "e",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7939",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 78.36, "y": 64.08 },
+                "dimensions": { "width": 12.41, "height": 9.39 }
+              },
+              "text": "r",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7940",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 74.62, "y": 69.3 },
+                "dimensions": { "width": 11.82, "height": 10.69 }
+              },
+              "text": "t",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7941",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 68.62, "y": 73.91 },
+                "dimensions": { "width": 12.29, "height": 13.06 }
+              },
+              "text": "y",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7942",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 64.47, "y": 78.63 },
+                "dimensions": { "width": 8.55, "height": 11.91 }
+              },
+              "text": "_",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 10.033656120300293,
+                "lineHeight": 1.2000000760380307,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "139:7906",
+      "name": "Heading",
+      "type": "TEXT",
+      "layout": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "text": "Discover Your Dream Property with Estatein",
+      "styles": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 600,
+        "fontSize": 28,
+        "lineHeight": 1.2000000817435128,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "color": "#FFFFFF"
+      }
+    },
+    {
+      "id": "139:7907",
+      "name": "Paragraph",
+      "type": "TEXT",
+      "layout": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "text": "Your journey to finding the perfect property begins here. Explore our listings to find the home that matches your dreams.",
+      "styles": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 500,
+        "fontSize": 14,
+        "lineHeight": 1.5,
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP",
+        "color": "#999999"
+      }
+    }
+  ]
+}

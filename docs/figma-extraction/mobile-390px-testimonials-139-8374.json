@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:8374",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layout": "layout_E6QENN",
+      "children": [
+        {
+          "id": "139:8421",
+          "name": "Card",
+          "type": "FRAME",
+          "layout": "layout_G6W5I5",
+          "fills": "Grey/08",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px",
+          "borderRadius": "10px",
+          "children": [
+            {
+              "id": "139:8422",
+              "name": "Container",
+              "type": "IMAGE-SVG",
+              "layout": "layout_GH6CUH"
+            },
+            {
+              "id": "139:8433",
+              "name": "Text Container",
+              "type": "FRAME",
+              "layout": "layout_LW8BNA",
+              "children": [
+                {
+                  "id": "139:8434",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "layout": "layout_E9BNRH",
+                  "text": "Exceptional Service!",
+                  "textStyle": "style_4ANLVV",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:8435",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "layout": "layout_E9BNRH",
+                  "text": "Our experience with Estatein was outstanding. Their team's dedication and professionalism made finding our dream home a breeze. Highly recommended!",
+                  "textStyle": "style_BEMMDK",
+                  "fills": "Absolute/White"
+                }
+              ]
+            },
+            {
+              "id": "139:8436",
+              "name": "Container",
+              "type": "FRAME",
+              "layout": "layout_J5ZCUQ",
+              "children": [
+                {
+                  "id": "139:8437",
+                  "name": "Profile",
+                  "type": "ELLIPSE",
+                  "layout": "layout_FX9OJL",
+                  "fills": "fill_94L7N1"
+                },
+                {
+                  "id": "139:8438",
+                  "name": "Text Container",
+                  "type": "FRAME",
+                  "layout": "layout_UJX0ZU",
+                  "children": [
+                    {
+                      "id": "139:8439",
+                      "name": "Name",
+                      "type": "TEXT",
+                      "layout": "layout_E9BNRH",
+                      "text": "Wade Warren",
+                      "textStyle": "style_DZD9GM",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:8440",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_E9BNRH",
+                      "text": "USA, California",
+                      "textStyle": "style_BEMMDK",
+                      "fills": "Grey/60"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "139:8412",
+          "name": "Container",
+          "type": "FRAME",
+          "layout": "layout_DNS9U2",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px 0px 0px",
+          "children": [
+            {
+              "id": "139:8444",
+              "name": "Button",
+              "type": "FRAME",
+              "layout": "layout_4VINEH",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "8px",
+              "children": [
+                {
+                  "id": "139:8445",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_0BUSD8",
+                  "text": "View All Testimonials",
+                  "textStyle": "style_BEMMDK",
+                  "fills": "Absolute/White"
+                }
+              ]
+            },
+            {
+              "id": "139:8414",
+              "name": "Buttons Container",
+              "type": "FRAME",
+              "layout": "layout_VQTCCU",
+              "children": [
+                {
+                  "id": "139:8415",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layout": "layout_BMLPGB",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1px",
+                  "borderRadius": "69px",
+                  "children": [
+                    {
+                      "id": "139:8416",
+                      "name": "Icon",
+                      "type": "FRAME",
+                      "layout": "layout_1KYE9G"
+                    }
+                  ]
+                },
+                {
+                  "id": "139:8446",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_0BUSD8",
+                  "text": "01 of 10",
+                  "textStyle": "style_BEMMDK",
+                  "fills": "Grey/60"
+                },
+                {
+                  "id": "139:8418",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layout": "layout_BMLPGB",
+                  "fills": "Grey/10",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1px",
+                  "borderRadius": "69px",
+                  "children": [
+                    {
+                      "id": "139:8419",
+                      "name": "Icon",
+                      "type": "FRAME",
+                      "layout": "layout_1KYE9G"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_E6QENN": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "30px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_G6W5I5": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "24px",
+        "padding": "30px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/08": ["#141414"],
+      "Grey/15": ["#262626"],
+      "layout_GH6CUH": {
+        "mode": "row",
+        "gap": "8px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_9M0JEA": {
+        "mode": "row",
+        "gap": "10px",
+        "padding": "6px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "layout_P6VBYC": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": "18",
+          "height": "18"
+        }
+      },
+      "fill_4S9OIU": ["#FFE500"],
+      "layout_LW8BNA": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "6px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_E9BNRH": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_4ANLVV": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontSize": "18",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "style_BEMMDK": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "14",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "layout_J5ZCUQ": {
+        "mode": "row",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "10px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_FX9OJL": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": "50",
+          "height": "50"
+        }
+      },
+      "fill_94L7N1": [
+        {
+          "type": "IMAGE",
+          "imageRef": "1dda9e286768bcc08f8c496bce3bb27566805e08",
+          "scaleMode": "FILL",
+          "objectFit": "cover",
+          "isBackground": false,
+          "imageDownloadArguments": {
+            "needsCropping": false,
+            "requiresImageDimensions": false
+          }
+        }
+      ],
+      "layout_UJX0ZU": {
+        "mode": "column",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_DZD9GM": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "16",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Grey/60": ["#999999"],
+      "layout_DNS9U2": {
+        "mode": "row",
+        "justifyContent": "space-between",
+        "alignSelf": "stretch",
+        "gap": "1123px",
+        "padding": "16px 0px 0px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_4VINEH": {
+        "mode": "row",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "8px",
+        "padding": "14px 20px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "fill"
+        }
+      },
+      "layout_0BUSD8": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_VQTCCU": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "10px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_BMLPGB": {
+        "mode": "row",
+        "gap": "10px",
+        "padding": "10px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_1KYE9G": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": "24",
+          "height": "24"
+        }
+      }
+    }
+  }
+}

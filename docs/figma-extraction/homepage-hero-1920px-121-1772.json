@@ -1,0 +1,344 @@
+{
+  "id": "121:1772",
+  "name": "Container",
+  "type": "FRAME",
+  "layout": {
+    "mode": "column",
+    "sizing": {
+      "horizontal": "fixed",
+      "vertical": "hug"
+    },
+    "location": { "x": 0, "y": 162 },
+    "dimensions": { "width": 1920 }
+  },
+  "styles": {
+    "backgroundColor": "#141414"
+  },
+  "children": [
+    {
+      "id": "121:1773",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "justifyContent": "stretch",
+        "alignItems": "stretch",
+        "alignSelf": "stretch",
+        "gap": "80px"
+      },
+      "children": [
+        {
+          "id": "121:1774",
+          "name": "Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "justifyContent": "center",
+            "alignSelf": "stretch",
+            "gap": "60px",
+            "padding": "0px 0px 0px 162px"
+          },
+          "children": [
+            {
+              "id": "121:1775",
+              "name": "Text Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "alignItems": "flex-end",
+                "alignSelf": "stretch",
+                "gap": "24px"
+              },
+              "children": [
+                {
+                  "id": "121:1776",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "text": "Discover Your Dream Property with Estatein",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 600,
+                    "fontSize": 60,
+                    "lineHeight": 1.2,
+                    "textAlign": "left",
+                    "color": "#FFFFFF"
+                  }
+                },
+                {
+                  "id": "121:1777",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "text": "Your journey to finding the perfect property begins here. Explore our listings to find the home that matches your dreams.",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "lineHeight": 1.5,
+                    "textAlign": "left",
+                    "color": "#999999"
+                  }
+                },
+                {
+                  "id": "121:1778",
+                  "name": "Sub Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "gap": "15.909090995788574px",
+                    "padding": "47.727272033691406px",
+                    "position": "absolute",
+                    "location": { "x": 742, "y": 0 }
+                  },
+                  "dimensions": { "width": 175, "height": 175 },
+                  "styles": {
+                    "backgroundColor": "#1A1A1A",
+                    "borderColor": "#262626",
+                    "borderWidth": "1.5909091234207153px",
+                    "borderRadius": "159.09091186523438px"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "121:1813",
+              "name": "Buttons Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "alignItems": "center",
+                "alignSelf": "stretch",
+                "gap": "20px"
+              },
+              "children": [
+                {
+                  "id": "121:1814",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "justifyContent": "center",
+                    "alignItems": "center",
+                    "gap": "8px",
+                    "padding": "18px 24px"
+                  },
+                  "styles": {
+                    "borderColor": "#262626",
+                    "borderWidth": "1px",
+                    "borderRadius": "10px"
+                  },
+                  "children": [
+                    {
+                      "id": "121:1815",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "text": "Learn More",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.5,
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "121:1816",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "justifyContent": "center",
+                    "alignItems": "center",
+                    "gap": "8px",
+                    "padding": "18px 24px"
+                  },
+                  "styles": {
+                    "backgroundColor": "#703BF7",
+                    "borderRadius": "10px"
+                  },
+                  "children": [
+                    {
+                      "id": "121:1817",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "text": "Browse Properties",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.5,
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "121:1818",
+              "name": "Sub Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "justifyContent": "stretch",
+                "alignItems": "stretch",
+                "alignSelf": "stretch",
+                "gap": "20px"
+              },
+              "children": [
+                {
+                  "id": "121:1820",
+                  "name": "Text Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "2px",
+                    "padding": "16px 24px"
+                  },
+                  "styles": {
+                    "backgroundColor": "#1A1A1A",
+                    "borderColor": "#262626",
+                    "borderWidth": "1px",
+                    "borderRadius": "12px"
+                  },
+                  "children": [
+                    {
+                      "id": "121:1821",
+                      "name": "Heading",
+                      "type": "TEXT",
+                      "text": "200+",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 700,
+                        "fontSize": 40,
+                        "lineHeight": 1.5,
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "121:1822",
+                      "name": "Paragraph",
+                      "type": "TEXT",
+                      "text": "Happy Customers",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.5,
+                        "color": "#999999"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "121:1823",
+                  "name": "Text Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "2px",
+                    "padding": "16px 24px"
+                  },
+                  "styles": {
+                    "backgroundColor": "#1A1A1A",
+                    "borderColor": "#262626",
+                    "borderWidth": "1px",
+                    "borderRadius": "12px"
+                  },
+                  "children": [
+                    {
+                      "id": "121:1824",
+                      "name": "Heading",
+                      "type": "TEXT",
+                      "text": "10k+",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 700,
+                        "fontSize": 40,
+                        "lineHeight": 1.5,
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "121:1825",
+                      "name": "Paragraph",
+                      "type": "TEXT",
+                      "text": "Properties For Clients",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.5,
+                        "color": "#999999"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "121:1826",
+                  "name": "Text Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "2px",
+                    "padding": "16px 24px"
+                  },
+                  "styles": {
+                    "backgroundColor": "#1A1A1A",
+                    "borderColor": "#262626",
+                    "borderWidth": "1px",
+                    "borderRadius": "12px"
+                  },
+                  "children": [
+                    {
+                      "id": "121:1827",
+                      "name": "Heading",
+                      "type": "TEXT",
+                      "text": "16+",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 700,
+                        "fontSize": 40,
+                        "lineHeight": 1.5,
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "121:1828",
+                      "name": "Paragraph",
+                      "type": "TEXT",
+                      "text": "Years of Experience",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.5,
+                        "color": "#999999"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "121:1828",
+          "name": "Container",
+          "type": "IMAGE-SVG",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "stretch",
+            "alignItems": "stretch",
+            "gap": "10px"
+          },
+          "dimensions": { "height": 814 },
+          "styles": {
+            "backgroundColor": "#1A1A1A"
+          }
+        }
+      ]
+    }
+  ]
+}

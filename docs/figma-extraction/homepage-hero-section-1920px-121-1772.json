@@ -1,0 +1,674 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "121:1772",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": "layout_W1UQFC",
+      "children": [
+        {
+          "id": "121:1773",
+          "name": "Sub Container",
+          "type": "FRAME",
+          "layout": "layout_0HR0PF",
+          "children": [
+            {
+              "id": "121:1774",
+              "name": "Container",
+              "type": "FRAME",
+              "layout": "layout_GRUOAZ",
+              "children": [
+                {
+                  "id": "121:1775",
+                  "name": "Text Container",
+                  "type": "FRAME",
+                  "layout": "layout_SOFG5U",
+                  "children": [
+                    {
+                      "id": "121:1776",
+                      "name": "Heading",
+                      "type": "TEXT",
+                      "layout": "layout_J351LP",
+                      "text": "Discover Your Dream Property with Estatein",
+                      "textStyle": "style_DEWE8T",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "121:1777",
+                      "name": "Paragraph",
+                      "type": "TEXT",
+                      "layout": "layout_J351LP",
+                      "text": "Your journey to finding the perfect property begins here. Explore our listings to find the home that matches your dreams.",
+                      "textStyle": "style_5FJWVF",
+                      "fills": "Grey/60"
+                    },
+                    {
+                      "id": "121:1778",
+                      "name": "Sub Container",
+                      "type": "FRAME",
+                      "layout": "layout_LDFADB",
+                      "fills": "Grey/08",
+                      "strokes": "Grey/15",
+                      "strokeWeight": "1.5909091234207153px",
+                      "borderRadius": "159.09091186523438px"
+                    }
+                  ]
+                },
+                {
+                  "id": "121:1813",
+                  "name": "Buttons Container",
+                  "type": "FRAME",
+                  "layout": "layout_72J7AM",
+                  "children": [
+                    {
+                      "id": "121:1814",
+                      "name": "Button",
+                      "type": "FRAME",
+                      "layout": "layout_GQ4HY1",
+                      "strokes": "Grey/15",
+                      "strokeWeight": "1px",
+                      "borderRadius": "10px"
+                    },
+                    {
+                      "id": "121:1816",
+                      "name": "Button",
+                      "type": "FRAME",
+                      "layout": "layout_GQ4HY1",
+                      "fills": "Purple/60",
+                      "borderRadius": "10px"
+                    }
+                  ]
+                },
+                {
+                  "id": "121:1818",
+                  "name": "Sub Container",
+                  "type": "FRAME",
+                  "layout": "layout_M5FQIT",
+                  "children": [
+                    {
+                      "id": "121:1819",
+                      "name": "Text Container",
+                      "type": "FRAME",
+                      "layout": "layout_YY01SO",
+                      "fills": "Grey/10",
+                      "strokes": "Grey/15",
+                      "strokeWeight": "1px",
+                      "borderRadius": "12px"
+                    },
+                    {
+                      "id": "121:1822",
+                      "name": "Text Container",
+                      "type": "FRAME",
+                      "layout": "layout_YY01SO",
+                      "fills": "Grey/10",
+                      "strokes": "Grey/15",
+                      "strokeWeight": "1px",
+                      "borderRadius": "12px"
+                    },
+                    {
+                      "id": "121:1825",
+                      "name": "Text Container",
+                      "type": "FRAME",
+                      "layout": "layout_YY01SO",
+                      "fills": "Grey/10",
+                      "strokes": "Grey/15",
+                      "strokeWeight": "1px",
+                      "borderRadius": "12px"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "121:1828",
+              "name": "Container",
+              "type": "FRAME",
+              "layout": "layout_EYYQSQ",
+              "fills": "Grey/10",
+              "children": [
+                {
+                  "id": "121:1829",
+                  "name": "Abstract Design",
+                  "type": "FRAME",
+                  "layout": "layout_V20ITT",
+                  "fills": "Absolute/White",
+                  "children": [
+                    {
+                      "id": "121:1830",
+                      "name": "Group",
+                      "type": "GROUP",
+                      "layout": "layout_UZNT6O",
+                      "borderRadius": "0px 0px 0px 0px"
+                    }
+                  ]
+                },
+                {
+                  "id": "121:1889",
+                  "name": "Image",
+                  "type": "RECTANGLE",
+                  "layout": "layout_8PXANI",
+                  "fills": "fill_1XVCN8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "121:1890",
+          "name": "Sub Container",
+          "type": "FRAME",
+          "layout": "layout_FD9V53",
+          "fills": "Grey/08",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px",
+          "effects": "effect_0MVU38",
+          "children": [
+            {
+              "id": "121:1891",
+              "name": "Container",
+              "type": "FRAME",
+              "layout": "layout_KXOJVC",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "12px",
+              "children": [
+                {
+                  "id": "121:1892",
+                  "name": "Icon Container",
+                  "type": "FRAME",
+                  "layout": "layout_OF130J",
+                  "strokes": "stroke_DKWQKJ",
+                  "borderRadius": "100px",
+                  "children": [
+                    {
+                      "id": "121:1893",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_HYSOH8",
+                      "strokes": "stroke_HAF1WX",
+                      "borderRadius": "100px"
+                    }
+                  ]
+                },
+                {
+                  "id": "121:1896",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_J351LP",
+                  "text": "Find Your Dream Home",
+                  "textStyle": "style_XMWOPK",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "121:1897",
+                  "name": "Icon",
+                  "type": "IMAGE-SVG",
+                  "layout": "layout_PF8P8G"
+                }
+              ]
+            },
+            {
+              "id": "121:1899",
+              "name": "Container",
+              "type": "FRAME",
+              "layout": "layout_P5HYDU",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "12px",
+              "children": [
+                {
+                  "id": "121:1900",
+                  "name": "Icon Container",
+                  "type": "FRAME",
+                  "layout": "layout_OF130J",
+                  "strokes": "stroke_DKWQKJ",
+                  "borderRadius": "100px",
+                  "children": [
+                    {
+                      "id": "121:1901",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_HYSOH8",
+                      "strokes": "stroke_HAF1WX",
+                      "borderRadius": "100px"
+                    }
+                  ]
+                },
+                {
+                  "id": "121:1904",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_J351LP",
+                  "text": "Unlock Property Value",
+                  "textStyle": "style_XMWOPK",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "121:1905",
+                  "name": "Icon",
+                  "type": "IMAGE-SVG",
+                  "layout": "layout_PF8P8G"
+                }
+              ]
+            },
+            {
+              "id": "121:1907",
+              "name": "Container",
+              "type": "FRAME",
+              "layout": "layout_KXOJVC",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "12px",
+              "children": [
+                {
+                  "id": "121:1908",
+                  "name": "Icon Container",
+                  "type": "FRAME",
+                  "layout": "layout_OF130J",
+                  "strokes": "stroke_DKWQKJ",
+                  "borderRadius": "100px",
+                  "children": [
+                    {
+                      "id": "121:1909",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_HYSOH8",
+                      "strokes": "stroke_HAF1WX",
+                      "borderRadius": "100px"
+                    }
+                  ]
+                },
+                {
+                  "id": "121:1912",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_J351LP",
+                  "text": "Effortless Property Management",
+                  "textStyle": "style_XMWOPK",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "121:1913",
+                  "name": "Icon",
+                  "type": "IMAGE-SVG",
+                  "layout": "layout_PF8P8G"
+                }
+              ]
+            },
+            {
+              "id": "121:1915",
+              "name": "Container",
+              "type": "FRAME",
+              "layout": "layout_KXOJVC",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "12px",
+              "children": [
+                {
+                  "id": "121:1916",
+                  "name": "Icon Container",
+                  "type": "FRAME",
+                  "layout": "layout_OF130J",
+                  "strokes": "stroke_DKWQKJ",
+                  "borderRadius": "100px",
+                  "children": [
+                    {
+                      "id": "121:1917",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_HYSOH8",
+                      "strokes": "stroke_HAF1WX",
+                      "borderRadius": "100px"
+                    }
+                  ]
+                },
+                {
+                  "id": "121:1920",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_J351LP",
+                  "text": "Smart Investments, Informed Decisions",
+                  "textStyle": "style_XMWOPK",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "121:1921",
+                  "name": "Icon",
+                  "type": "IMAGE-SVG",
+                  "layout": "layout_PF8P8G"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_W1UQFC": {
+        "mode": "column",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "hug"
+        },
+        "dimensions": {
+          "width": "1920"
+        }
+      },
+      "layout_0HR0PF": {
+        "mode": "row",
+        "justifyContent": "stretch",
+        "alignItems": "stretch",
+        "alignSelf": "stretch",
+        "gap": "80px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_GRUOAZ": {
+        "mode": "column",
+        "justifyContent": "center",
+        "alignSelf": "stretch",
+        "gap": "60px",
+        "padding": "0px 0px 0px 162px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "fill"
+        }
+      },
+      "layout_SOFG5U": {
+        "mode": "column",
+        "alignItems": "flex-end",
+        "alignSelf": "stretch",
+        "gap": "24px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_J351LP": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_DEWE8T": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontSize": "60",
+        "lineHeight": "1.2em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "style_5FJWVF": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "18",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Grey/60": ["#999999"],
+      "layout_LDFADB": {
+        "mode": "row",
+        "gap": "15.909090995788574px",
+        "padding": "47.727272033691406px",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "742",
+          "y": "0"
+        },
+        "dimensions": {
+          "width": "175",
+          "height": "175"
+        }
+      },
+      "Grey/08": ["#141414"],
+      "Grey/15": ["#262626"],
+      "layout_72J7AM": {
+        "mode": "row",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "20px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_GQ4HY1": {
+        "mode": "row",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "gap": "8px",
+        "padding": "18px 24px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "Purple/60": ["#703BF7"],
+      "layout_M5FQIT": {
+        "mode": "row",
+        "justifyContent": "stretch",
+        "alignItems": "stretch",
+        "alignSelf": "stretch",
+        "gap": "20px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_YY01SO": {
+        "mode": "column",
+        "gap": "2px",
+        "padding": "16px 24px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "layout_EYYQSQ": {
+        "mode": "row",
+        "justifyContent": "stretch",
+        "alignItems": "stretch",
+        "gap": "10px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "height": "814"
+        }
+      },
+      "layout_V20ITT": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "-502",
+          "y": "-237"
+        },
+        "dimensions": {
+          "width": "1924",
+          "height": "1286"
+        }
+      },
+      "layout_UZNT6O": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "0.85",
+          "y": "1.3"
+        },
+        "dimensions": {
+          "width": "1922.23",
+          "height": "1283.4"
+        }
+      },
+      "layout_8PXANI": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "fill"
+        }
+      },
+      "fill_1XVCN8": [
+        {
+          "type": "GRADIENT_LINEAR",
+          "gradient": "linear-gradient(232deg, rgba(42, 33, 63, 1) 1%, rgba(25, 25, 25, 0) 46%)"
+        },
+        {
+          "type": "IMAGE",
+          "imageRef": "4cac57dce13185e5e5e6946611ce05ec70271908",
+          "scaleMode": "FILL",
+          "objectFit": "cover",
+          "isBackground": false,
+          "imageDownloadArguments": {
+            "needsCropping": false,
+            "requiresImageDimensions": false
+          }
+        }
+      ],
+      "layout_FD9V53": {
+        "mode": "row",
+        "justifyContent": "stretch",
+        "alignItems": "stretch",
+        "alignSelf": "stretch",
+        "gap": "20px",
+        "padding": "20px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "effect_0MVU38": {
+        "boxShadow": "0px 0px 0px 10px rgba(25, 25, 25, 1)"
+      },
+      "layout_KXOJVC": {
+        "mode": "column",
+        "alignItems": "center",
+        "gap": "20px",
+        "padding": "40px 20px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_OF130J": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "10px",
+        "padding": "10px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "stroke_DKWQKJ": {
+        "colors": [
+          {
+            "type": "GRADIENT_LINEAR",
+            "gradient": "linear-gradient(41deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 31%)"
+          },
+          {
+            "type": "GRADIENT_LINEAR",
+            "gradient": "linear-gradient(219deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 52%)"
+          }
+        ],
+        "strokeWeight": "1px"
+      },
+      "layout_HYSOH8": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "10px",
+        "padding": "14px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "stroke_HAF1WX": {
+        "colors": [
+          {
+            "type": "GRADIENT_LINEAR",
+            "gradient": "linear-gradient(130deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 25%)"
+          },
+          {
+            "type": "GRADIENT_LINEAR",
+            "gradient": "linear-gradient(-55deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 40%)"
+          }
+        ],
+        "strokeWeight": "1px"
+      },
+      "style_XMWOPK": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontSize": "20",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "layout_PF8P8G": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "401",
+          "y": "20"
+        },
+        "dimensions": {
+          "width": "34",
+          "height": "34"
+        }
+      },
+      "layout_X9ARPE": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "6.38",
+          "y": "6.38"
+        },
+        "dimensions": {
+          "width": "21.25",
+          "height": "21.25"
+        }
+      },
+      "Grey/30": ["#4D4D4D"],
+      "layout_P5HYDU": {
+        "mode": "column",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "gap": "20px",
+        "padding": "40px 20px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      }
+    }
+  }
+}

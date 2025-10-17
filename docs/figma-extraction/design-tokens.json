@@ -1,0 +1,197 @@
+{
+  "colors": {
+    "Absolute/White": "#FFFFFF",
+    "Grey/08": "#141414",
+    "Grey/10": "#1A1A1A",
+    "Grey/15": "#262626",
+    "Grey/20": "#333333",
+    "Grey/30": "#4D4D4D",
+    "Grey/40": "#666666",
+    "Grey/50": "#808080",
+    "Grey/60": "#999999",
+    "Purple/60": "#703BF7",
+    "Purple/75": "#A685FA",
+    "Yellow/Star": "#FFC107"
+  },
+  "typography": {
+    "heading": {
+      "fontFamily": "Urbanist",
+      "fontWeight": 700,
+      "fontSize": 64,
+      "lineHeight": 1.2
+    },
+    "sectionHeading": {
+      "fontFamily": "Urbanist",
+      "fontWeight": 600,
+      "fontSize": 48,
+      "lineHeight": 1.5
+    },
+    "subheading": {
+      "fontFamily": "Urbanist",
+      "fontWeight": 600,
+      "fontSize": 24,
+      "lineHeight": 1.5
+    },
+    "body": {
+      "fontFamily": "Urbanist",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 1.5
+    },
+    "button": {
+      "fontFamily": "Urbanist",
+      "fontWeight": 600,
+      "fontSize": 18,
+      "lineHeight": 1.5
+    },
+    "navigation": {
+      "fontFamily": "Urbanist",
+      "fontWeight": 500,
+      "fontSize": 18,
+      "lineHeight": 1.5
+    },
+    "small": {
+      "fontFamily": "Urbanist",
+      "fontWeight": 500,
+      "fontSize": 20,
+      "lineHeight": 1.5
+    },
+    "copyright": {
+      "fontFamily": "Urbanist",
+      "fontWeight": 400,
+      "fontSize": 18,
+      "lineHeight": 1.5
+    },
+    "logo": {
+      "fontFamily": "Urbanist",
+      "fontWeight": 700,
+      "fontSize": 32,
+      "lineHeight": 1.5
+    }
+  },
+  "spacing": {
+    "xs": "4px",
+    "sm": "8px",
+    "md": "16px",
+    "lg": "24px",
+    "xl": "32px",
+    "2xl": "48px",
+    "3xl": "64px",
+    "4xl": "80px",
+    "5xl": "100px"
+  },
+  "borderRadius": {
+    "sm": "8px",
+    "md": "10px",
+    "lg": "12px",
+    "xl": "16px"
+  },
+  "components": {
+    "header": {
+      "navigation": {
+        "padding": "24px 162px",
+        "backgroundColor": "#1A1A1A",
+        "gap": "660px"
+      },
+      "banner": {
+        "padding": "16px 162px",
+        "backgroundColor": "#141414",
+        "borderColor": "#262626",
+        "borderWidth": "0px 0px 1px"
+      }
+    },
+    "hero": {
+      "padding": "100px 162px",
+      "backgroundColor": "#141414",
+      "gap": "100px"
+    },
+    "featuredProperties": {
+      "padding": "100px 162px",
+      "backgroundColor": "#141414",
+      "gap": "60px"
+    },
+    "testimonials": {
+      "padding": "100px 162px",
+      "backgroundColor": "#141414",
+      "gap": "80px"
+    },
+    "faq": {
+      "padding": "100px 162px",
+      "backgroundColor": "#141414",
+      "gap": "80px"
+    },
+    "cta": {
+      "padding": "100px 162px",
+      "backgroundColor": "#141414",
+      "borderColor": "#262626",
+      "borderWidth": "1px 0px"
+    },
+    "footer": {
+      "padding": "100px 162px",
+      "backgroundColor": "#141414",
+      "borderColor": "#262626",
+      "borderWidth": "1px 0px 0px",
+      "gap": "100px"
+    }
+  },
+  "buttons": {
+    "primary": {
+      "backgroundColor": "#703BF7",
+      "color": "#FFFFFF",
+      "borderRadius": "10px",
+      "padding": "18px 32px",
+      "hover": {
+        "backgroundColor": "#A685FA",
+        "scale": "1.05"
+      }
+    },
+    "secondary": {
+      "backgroundColor": "#1A1A1A",
+      "borderColor": "#262626",
+      "borderWidth": "1px",
+      "color": "#FFFFFF",
+      "borderRadius": "10px",
+      "padding": "16px 32px",
+      "hover": {
+        "backgroundColor": "#262626"
+      }
+    },
+    "navigation": {
+      "backgroundColor": "#1A1A1A",
+      "borderColor": "#262626",
+      "borderWidth": "1px",
+      "color": "#FFFFFF",
+      "borderRadius": "10px",
+      "padding": "16px 32px"
+    }
+  },
+  "cards": {
+    "property": {
+      "backgroundColor": "#1A1A1A",
+      "borderRadius": "16px",
+      "gap": "20px"
+    },
+    "testimonial": {
+      "backgroundColor": "#1A1A1A",
+      "borderColor": "#262626",
+      "borderWidth": "1px",
+      "borderRadius": "16px",
+      "padding": "32px",
+      "gap": "20px",
+      "hover": {
+        "borderColor": "#703BF7"
+      }
+    },
+    "faq": {
+      "backgroundColor": "#141414",
+      "borderColor": "#262626",
+      "borderWidth": "1px",
+      "borderRadius": "12px",
+      "padding": "50px",
+      "gap": "30px",
+      "hover": {
+        "borderColor": "#703BF7"
+      }
+    }
+  }
+}

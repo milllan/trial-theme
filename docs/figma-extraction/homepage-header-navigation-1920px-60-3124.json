@@ -1,0 +1,149 @@
+{
+  "id": "60:3124",
+  "name": "Navigation Bar",
+  "type": "FRAME",
+  "layout": {
+    "mode": "row",
+    "justifyContent": "space-between",
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "gap": "292px",
+    "padding": "20px 162px",
+    "sizing": {
+      "horizontal": "fill",
+      "vertical": "hug"
+    }
+  },
+  "styles": {
+    "backgroundColor": "#1A1A1A"
+  },
+  "children": [
+    {
+      "id": "60:3100",
+      "name": "Logo",
+      "type": "IMAGE-SVG",
+      "dimensions": { "width": 160, "height": 48 }
+    },
+    {
+      "id": "60:3115",
+      "name": "Buttons Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "30px",
+        "position": "absolute",
+        "location": { "x": 757, "y": 22 }
+      },
+      "children": [
+        {
+          "id": "60:3116",
+          "name": "Button",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "gap": "10px",
+            "padding": "14px 24px"
+          },
+          "styles": {
+            "backgroundColor": "#141414",
+            "borderColor": "#262626",
+            "borderWidth": "1px",
+            "borderRadius": "10px"
+          },
+          "children": [
+            {
+              "id": "60:3117",
+              "name": "Text",
+              "type": "TEXT",
+              "text": "Home",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "id": "60:3118",
+          "name": "Text Button",
+          "type": "TEXT",
+          "text": "About Us",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 500,
+            "fontSize": 18,
+            "lineHeight": 1.5,
+            "textAlign": "left",
+            "color": "#FFFFFF"
+          }
+        },
+        {
+          "id": "60:3119",
+          "name": "Text Button",
+          "type": "TEXT",
+          "text": "Properties",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 500,
+            "fontSize": 18,
+            "lineHeight": 1.5,
+            "textAlign": "left",
+            "color": "#FFFFFF"
+          }
+        },
+        {
+          "id": "60:3121",
+          "name": "Text Button",
+          "type": "TEXT",
+          "text": "Services",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 500,
+            "fontSize": 18,
+            "lineHeight": 1.5,
+            "textAlign": "left",
+            "color": "#FFFFFF"
+          }
+        }
+      ]
+    },
+    {
+      "id": "60:3122",
+      "name": "Button",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "8px",
+        "padding": "16px 24px"
+      },
+      "styles": {
+        "backgroundColor": "#141414",
+        "borderColor": "#262626",
+        "borderWidth": "1px",
+        "borderRadius": "10px"
+      },
+      "children": [
+        {
+          "id": "60:3123",
+          "name": "Text",
+          "type": "TEXT",
+          "text": "Contact Us",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 500,
+            "fontSize": 18,
+            "lineHeight": 1.5,
+            "textAlign": "left",
+            "color": "#FFFFFF"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {},
+    "lastUpdated": "2024-10-13T18:00:00Z",
+    "version": "1.2.0"
+  },
+  "designTokens": {
+    "colors": {
+      "Absolute/White": "#FFFFFF",
+      "Grey/08": "#141414",
+      "Grey/10": "#1A1A1A",
+      "Grey/15": "#262626",
+      "Grey/20": "#333333",
+      "Grey/30": "#4D4D4D",
+      "Grey/40": "#666666",
+      "Grey/50": "#808080",
+      "Grey/60": "#999999",
+      "Purple/60": "#703BF7",
+      "Purple/75": "#A685FA",
+      "Yellow/Star": "#FFC107"
+    },
+    "typography": {
+      "heading": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 700,
+        "fontSize": 64,
+        "lineHeight": 1.2
+      },
+      "sectionHeading": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 600,
+        "fontSize": 48,
+        "lineHeight": 1.5
+      },
+      "subheading": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 600,
+        "fontSize": 24,
+        "lineHeight": 1.5
+      },
+      "body": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 500,
+        "fontSize": 18,
+        "lineHeight": 1.5
+      },
+      "button": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 600,
+        "fontSize": 18,
+        "lineHeight": 1.5
+      },
+      "navigation": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 500,
+        "fontSize": 18,
+        "lineHeight": 1.5
+      },
+      "small": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 500,
+        "fontSize": 20,
+        "lineHeight": 1.5
+      },
+      "copyright": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 400,
+        "fontSize": 18,
+        "lineHeight": 1.5
+      },
+      "logo": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 700,
+        "fontSize": 32,
+        "lineHeight": 1.5
+      }
+    },
+    "spacing": {
+      "xs": "4px",
+      "sm": "8px",
+      "md": "16px",
+      "lg": "24px",
+      "xl": "32px",
+      "2xl": "48px",
+      "3xl": "64px",
+      "4xl": "80px",
+      "5xl": "100px"
+    },
+    "borderRadius": {
+      "sm": "8px",
+      "md": "10px",
+      "lg": "12px",
+      "xl": "16px"
+    }
+  },
+  "homepage": {
+    "1440px": {
+      "fileKey": "OLMfe6b1YphhDFH1qHzPhh",
+      "mainNodeId": "139:6238",
+      "viewportWidth": 1440,
+      "sections": [
+        {
+          "id": "139:6240",
+          "name": "Header Banner",
+          "component": "homepage-header-banner-1440px-139-6240",
+          "type": "banner"
+        },
+        {
+          "id": "139:6306",
+          "name": "Header Navigation",
+          "component": "homepage-header-navigation-1440px-139-6306",
+          "type": "navigation"
+        },
+        {
+          "id": "139:6332",
+          "name": "Hero Section",
+          "component": "homepage-hero-1440px-139-6332",
+          "type": "hero"
+        },
+        {
+          "id": "139-6376",
+          "name": "Statistics ... maybe?",
+          "component": "homepage-statistics-1440px-139-6376",
+          "type": "statistics"
+        },
+        {
+          "id": "139-644, and not 139:6515",
+          "name": "Services",
+          "component": "homepage-services-1440px-139-644",
+          "type": "services"
+        },
+        {
+          "id": "139:6487",
+          "name": "Featured Properties",
+          "component": "homepage-featured-properties-1440px-139-6487",
+          "type": "properties"
+        },
+        {
+          "id": "139:6688",
+          "name": "Testimonials",
+          "component": "homepage-testimonials-1440px-139-6688",
+          "type": "testimonials"
+        },
+        {
+          "id": "139:6819",
+          "name": "FAQ Section",
+          "component": "homepage-faq-1440px-139-6819",
+          "type": "faq"
+        },
+        {
+          "id": "181:1070",
+          "name": "CTA + Footer ... maybe??",
+          "component": "homepage-cta-footer-1440px-181-1070",
+          "type": "cta-footer"
+        },
+        {
+          "id": "181:358",
+          "name": "Call to Action",
+          "component": "homepage-cta-1440px-181-358",
+          "type": "cta"
+        },
+        {
+          "id": "139:7262",
+          "name": "Footer",
+          "component": "homepage-footer-1440px-139-7262",
+          "type": "footer"
+        }
+      ]
+    },
+    "390px": {
+      "fileKey": "OLMfe6b1YphhDFH1qHzPhh",
+      "mainNodeId": "139:7812",
+      "viewportWidth": 390,
+      "sections": [
+        {
+          "id": "139:7837",
+          "name": "Header Banner",
+          "component": "homepage-header-banner-390px-139-7837",
+          "type": "banner"
+        },
+        {
+          "id": "139:7815",
+          "name": "Header Navigation",
+          "component": "homepage-header-navigation-390px-139-7815",
+          "type": "navigation"
+        },
+        {
+          "id": "139:7905",
+          "name": "Hero Section",
+          "component": "homepage-hero-390px-139-7905",
+          "type": "hero"
+        },
+        {
+          "id": "139:7959",
+          "name": "Statistics",
+          "component": "homepage-statistics-390px-139-7959",
+          "type": "statistics"
+        },
+        {
+          "id": "139:8120",
+          "name": "Services",
+          "component": "homepage-services-390px-139-8120",
+          "type": "services"
+        },
+        {
+          "id": "139:8184",
+          "name": "Featured Properties",
+          "component": "homepage-featured-properties-390px-139-8184",
+          "type": "properties"
+        },
+        {
+          "id": "139:8374",
+          "name": "Testimonials",
+          "component": "homepage-testimonials-390px-139-8374",
+          "type": "testimonials"
+        },
+        {
+          "id": "139:8543",
+          "name": "FAQ Section",
+          "component": "homepage-faq-390px-139-8543",
+          "type": "faq"
+        },
+        {
+          "id": "181:1070",
+          "name": "CTA + Footer",
+          "component": "homepage-cta-footer-390px-181-1070",
+          "type": "cta-footer"
+        }
+      ]
+    },
+    "1920px": {
+      "fileKey": "FwAE9lXy1YJn1L2Y0L0QXz",
+      "mainNodeId": "60:3123",
+      "viewportWidth": 1920,
+      "sections": [
+        {
+          "id": "60:3094",
+          "name": "Header Banner",
+          "component": "homepage-header-banner-1920px-60-3094",
+          "type": "banner"
+        },
+        {
+          "id": "60:3124",
+          "name": "Header Navigation",
+          "component": "homepage-header-navigation-1920px-60-3124",
+          "type": "navigation"
+        },
+        {
+          "id": "121:1772",
+          "name": "Hero Section",
+          "component": "homepage-hero-1920px-121-1772",
+          "type": "hero"
+        },
+          {
+            "id": "60:3150",
+            "name": "Statistics ... maybe???",
+            "component": "homepage-statistics-1920px-60-3150",
+            "type": "statistics"
+          },
+          {
+            "id": "60:3200",
+            "name": "Services ... maybe???",
+            "component": "homepage-services-1920px-60-3200",
+            "type": "services"
+          },
+        {
+          "id": "87:1301",
+          "name": "Featured Properties",
+          "component": "homepage-featured-properties-1920px-87-1301",
+          "type": "properties"
+        },
+        {
+          "id": "75:599",
+          "name": "Testimonials",
+          "component": "homepage-testimonials-1920px-75-599",
+          "type": "testimonials"
+        },
+        {
+          "id": "75:952",
+          "name": "FAQ Section",
+          "component": "homepage-faq-1920px-75-952",
+          "type": "faq"
+        },
+        {
+          "id": "181:1070",
+          "name": "CTA + Footer ... maybe???",
+          "component": "homepage-cta-footer-1920px-181-1070",
+          "type": "cta-footer"
+        },
+        {
+          "id": "181:2",
+          "name": "Call to Action",
+          "component": "homepage-cta-1920px-181-2",
+          "type": "cta"
+        },
+        {
+          "id": "89:3943",
+          "name": "Footer",
+          "component": "homepage-footer-1920px-89-3943",
+          "type": "footer"
+        }
+      ],
+      "componentData": {
+        "header": {
+          "navigation": {
+            "id": "60:3124",
+            "name": "Navigation Bar",
+            "type": "FRAME",
+            "layout": {
+              "mode": "row",
+              "justifyContent": "space-between",
+              "alignItems": "center",
+              "alignSelf": "stretch",
+              "gap": "292px",
+              "padding": "20px 162px",
+              "sizing": {
+                "horizontal": "fill",
+                "vertical": "hug"
+              }
+            },
+            "styles": {
+              "backgroundColor": "#1A1A1A"
+            },
+            "children": [
+              {
+                "id": "60:3100",
+                "name": "Logo",
+                "type": "IMAGE-SVG",
+                "layout": {
+                  "mode": "none",
+                  "sizing": {
+                    "horizontal": "fixed",
+                    "vertical": "fixed"
+                  },
+                  "dimensions": { "width": 140, "height": 32 }
+                }
+              },
+              {
+                "id": "60:3115",
+                "name": "Buttons Container",
+                "type": "FRAME",
+                "layout": {
+                  "mode": "row",
+                  "alignItems": "center",
+                  "gap": "32px"
+                },
+                "children": [
+                  {
+                    "id": "60:3116",
+                    "name": "Button",
+                    "type": "FRAME",
+                    "layout": {
+                      "mode": "row",
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "gap": "10px",
+                      "padding": "16px 32px"
+                    },
+                    "styles": {
+                      "backgroundColor": "#1A1A1A",
+                      "borderColor": "#262626",
+                      "borderWidth": "1px",
+                      "borderRadius": "10px"
+                    },
+                    "children": [
+                      {
+                        "id": "60:3117",
+                        "name": "Text",
+                        "type": "TEXT",
+                        "text": "Home",
+                        "styles": {
+                          "fontFamily": "Urbanist",
+                          "fontWeight": 500,
+                          "fontSize": 18,
+                          "lineHeight": 1.5,
+                          "color": "#FFFFFF"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60:3122",
+                "name": "Button",
+                "type": "FRAME",
+                "layout": {
+                  "mode": "row",
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                  "gap": "10px",
+                  "padding": "16px 32px"
+                },
+                "styles": {
+                  "backgroundColor": "#1A1A1A",
+                  "borderColor": "#262626",
+                  "borderWidth": "1px",
+                  "borderRadius": "10px"
+                },
+                "children": [
+                  {
+                    "id": "60:3123",
+                    "name": "Text",
+                    "type": "TEXT",
+                    "text": "Contact Us",
+                    "styles": {
+                      "fontFamily": "Urbanist",
+                      "fontWeight": 500,
+                      "fontSize": 18,
+                      "lineHeight": 1.5,
+                      "color": "#FFFFFF"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "banner": {
+            "id": "60:3094",
+            "name": "Banner",
+            "type": "FRAME",
+            "layout": {
+              "mode": "row",
+              "alignItems": "center",
+              "alignSelf": "stretch",
+              "gap": "820px",
+              "padding": "16px 162px"
+            },
+            "styles": {
+              "backgroundColor": "#141414",
+              "borderColor": "#262626",
+              "borderWidth": "0px 0px 1px"
+            },
+            "children": [
+              {
+                "id": "60:3084",
+                "name": "Text",
+                "type": "TEXT",
+                "text": "✨Discover Your Dream Property with Estatein",
+                "styles": {
+                  "fontFamily": "Urbanist",
+                  "fontWeight": 600,
+                  "fontSize": 16,
+                  "lineHeight": 1.5,
+                  "color": "#FFFFFF"
+                }
+              },
+              {
+                "id": "60:3085",
+                "name": "Text Button",
+                "type": "TEXT",
+                "text": "Learn More",
+                "styles": {
+                  "fontFamily": "Urbanist",
+                  "fontWeight": 600,
+                  "fontSize": 16,
+                  "lineHeight": 1.5,
+                  "color": "#FFFFFF"
+                }
+              }
+            ]
+          }
+        },
+        "hero": {
+          "id": "121:1772",
+          "name": "Hero",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "alignItems": "center",
+            "alignSelf": "stretch",
+            "gap": "100px",
+            "padding": "100px 162px"
+          },
+          "styles": {
+            "backgroundColor": "#141414"
+          },
+          "children": [
+            {
+              "id": "121:1773",
+              "name": "Text Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "20px",
+                "sizing": {
+                  "horizontal": "fill"
+                }
+              },
+              "children": [
+                {
+                  "id": "121:1774",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "text": "Find Your Dream Property with Estatein",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 700,
+                    "fontSize": 64,
+                    "lineHeight": 1.2,
+                    "color": "#FFFFFF"
+                  }
+                },
+                {
+                  "id": "121:1775",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "text": "Welcome to Estatein, where your dream property awaits. Discover a wide range of residential and commercial properties tailored to your needs. Our experienced team is dedicated to helping you find the perfect space to call home or grow your business.",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "lineHeight": 1.5,
+                    "color": "#999999"
+                  }
+                },
+                {
+                  "id": "121:1776",
+                  "name": "Buttons Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "alignItems": "center",
+                    "gap": "20px"
+                  },
+                  "children": [
+                    {
+                      "id": "121:1777",
+                      "name": "Button",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "row",
+                        "alignItems": "center",
+                        "gap": "8px",
+                        "padding": "18px 32px"
+                      },
+                      "styles": {
+                        "backgroundColor": "#703BF7",
+                        "borderRadius": "10px"
+                      },
+                      "children": [
+                        {
+                          "id": "121:1778",
+                          "name": "Text",
+                          "type": "TEXT",
+                          "text": "Explore Properties",
+                          "styles": {
+                            "fontFamily": "Urbanist",
+                            "fontWeight": 600,
+                            "fontSize": 18,
+                            "lineHeight": 1.5,
+                            "color": "#FFFFFF"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "featuredProperties": {
+          "id": "87:1301",
+          "name": "Featured Properties",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "gap": "60px",
+            "padding": "100px 162px"
+          },
+          "styles": {
+            "backgroundColor": "#141414"
+          },
+          "children": [
+            {
+              "id": "87:1302",
+              "name": "Header",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "16px"
+              },
+              "children": [
+                {
+                  "id": "87:1303",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "text": "Featured Properties",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 700,
+                    "fontSize": 48,
+                    "lineHeight": 1.2,
+                    "color": "#FFFFFF"
+                  }
+                },
+                {
+                  "id": "87:1304",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "text": "Explore our handpicked selection of premium properties that offer exceptional value and lifestyle.",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "lineHeight": 1.5,
+                    "color": "#999999"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "87:1305",
+              "name": "Properties Grid",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "gap": "30px"
+              },
+              "children": [
+                {
+                  "id": "87:1306",
+                  "name": "Property Card",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "20px"
+                  },
+                  "styles": {
+                    "backgroundColor": "#1A1A1A",
+                    "borderRadius": "16px"
+                  },
+                  "children": [
+                    {
+                      "id": "87:1307",
+                      "name": "Image",
+                      "type": "FRAME",
+                      "layout": {
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "fixed"
+                        },
+                        "dimensions": { "height": 240 }
+                      },
+                      "styles": {
+                        "backgroundColor": "#262626",
+                        "borderRadius": "16px 16px 0px 0px"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "testimonials": {
+          "id": "75:599",
+          "name": "Testimonials",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "gap": "80px",
+            "padding": "100px 162px"
+          },
+          "styles": {
+            "backgroundColor": "#141414"
+          },
+          "children": [
+            {
+              "id": "75:600",
+              "name": "Header",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "16px"
+              },
+              "children": [
+                {
+                  "id": "75:601",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "text": "What Our Clients Say",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 700,
+                    "fontSize": 48,
+                    "lineHeight": 1.2,
+                    "color": "#FFFFFF"
+                  }
+                },
+                {
+                  "id": "75:602",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "text": "Real experiences from satisfied clients who found their perfect properties with Estatein.",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "lineHeight": 1.5,
+                    "color": "#999999"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "75:603",
+              "name": "Testimonials Grid",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "gap": "30px"
+              },
+              "children": [
+                {
+                  "id": "75:604",
+                  "name": "Testimonial Card",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "20px",
+                    "padding": "32px"
+                  },
+                  "styles": {
+                    "backgroundColor": "#1A1A1A",
+                    "borderColor": "#262626",
+                    "borderWidth": "1px",
+                    "borderRadius": "16px"
+                  },
+                  "children": [
+                    {
+                      "id": "75:605",
+                      "name": "Rating",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "row",
+                        "gap": "4px"
+                      },
+                      "children": [
+                        {
+                          "id": "75:606",
+                          "name": "Star",
+                          "type": "IMAGE-SVG",
+                          "fills": ["#FFC107"]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "faq": {
+          "id": "75:952",
+          "name": "FAQ",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "gap": "80px",
+            "padding": "100px 162px"
+          },
+          "styles": {
+            "backgroundColor": "#141414"
+          },
+          "children": [
+            {
+              "id": "75:953",
+              "name": "Header",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "alignItems": "flex-end",
+                "gap": "200px"
+              },
+              "children": [
+                {
+                  "id": "75:954",
+                  "name": "Text Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "14px"
+                  },
+                  "children": [
+                    {
+                      "id": "75:955",
+                      "name": "Heading",
+                      "type": "TEXT",
+                      "text": "Frequently Asked Questions",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 600,
+                        "fontSize": 48,
+                        "lineHeight": 1.5,
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "75:956",
+                      "name": "Paragraph",
+                      "type": "TEXT",
+                      "text": "Find answers to common questions about Estatein's services, property listings, and the real estate process.",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.5,
+                        "color": "#999999"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "78:1088",
+              "name": "FAQ Items",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "gap": "30px"
+              },
+              "children": [
+                {
+                  "id": "78:1175",
+                  "name": "FAQ Card",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "30px",
+                    "padding": "50px"
+                  },
+                  "styles": {
+                    "backgroundColor": "#141414",
+                    "borderColor": "#262626",
+                    "borderWidth": "1px",
+                    "borderRadius": "12px"
+                  },
+                  "children": [
+                    {
+                      "id": "78:1176",
+                      "name": "Question",
+                      "type": "TEXT",
+                      "text": "How do I search for properties on Estatein?",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 600,
+                        "fontSize": 24,
+                        "lineHeight": 1.5,
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "cta": {
+          "id": "181:2",
+          "name": "CTA",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "alignItems": "center",
+            "gap": "250px",
+            "padding": "100px 162px"
+          },
+          "styles": {
+            "backgroundColor": "#141414",
+            "borderColor": "#262626",
+            "borderWidth": "1px 0px"
+          },
+          "children": [
+            {
+              "id": "181:353",
+              "name": "Text Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "14px"
+              },
+              "children": [
+                {
+                  "id": "181:354",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "text": "Start Your Real Estate Journey Today",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 600,
+                    "fontSize": 48,
+                    "lineHeight": 1.5,
+                    "color": "#FFFFFF"
+                  }
+                },
+                {
+                  "id": "181:355",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "text": "Your dream property is just a click away. Whether you're looking for a new home, a strategic investment, or expert real estate advice, Estatein is here to assist you every step of the way.",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "lineHeight": 1.5,
+                    "color": "#999999"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "181:356",
+              "name": "Button",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "alignItems": "center",
+                "gap": "8px",
+                "padding": "18px 24px"
+              },
+              "styles": {
+                "backgroundColor": "#703BF7",
+                "borderRadius": "10px"
+              },
+              "children": [
+                {
+                  "id": "181:357",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "text": "Explore Properties",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "lineHeight": 1.5,
+                    "color": "#FFFFFF"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "id": "89:3943",
+          "name": "Footer",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "gap": "100px",
+            "padding": "100px 162px"
+          },
+          "styles": {
+            "backgroundColor": "#141414",
+            "borderColor": "#262626",
+            "borderWidth": "1px 0px 0px"
+          },
+          "children": [
+            {
+              "id": "89:3944",
+              "name": "Main Content",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "justifyContent": "space-between",
+                "gap": "100px"
+              },
+              "children": [
+                {
+                  "id": "89:3945",
+                  "name": "Left Section",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "24px"
+                  },
+                  "children": [
+                    {
+                      "id": "89:3946",
+                      "name": "Logo",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "row",
+                        "alignItems": "center",
+                        "gap": "8px"
+                      },
+                      "children": [
+                        {
+                          "id": "89:3947",
+                          "name": "Icon",
+                          "type": "FRAME",
+                          "layout": {
+                            "sizing": {
+                              "horizontal": "fixed",
+                              "vertical": "fixed"
+                            },
+                            "dimensions": { "width": 32, "height": 32 }
+                          },
+                          "styles": {
+                            "backgroundColor": "#703BF7",
+                            "borderRadius": "8px"
+                          }
+                        },
+                        {
+                          "id": "89:3948",
+                          "name": "Text",
+                          "type": "TEXT",
+                          "text": "Estatein",
+                          "styles": {
+                            "fontFamily": "Urbanist",
+                            "fontWeight": 700,
+                            "fontSize": 32,
+                            "lineHeight": 1.5,
+                            "color": "#FFFFFF"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "89:3949",
+                      "name": "Description",
+                      "type": "TEXT",
+                      "text": "Your trusted partner in finding the perfect property. Discover exceptional homes and investment opportunities with Estatein.",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 400,
+                        "fontSize": 18,
+                        "lineHeight": 1.5,
+                        "color": "#999999"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "89:3950",
+              "name": "Bottom Section",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "justifyContent": "space-between",
+                "alignItems": "center",
+                "padding": "50px 0px 0px"
+              },
+              "styles": {
+                "borderColor": "#262626",
+                "borderWidth": "1px 0px 0px"
+              },
+              "children": [
+                {
+                  "id": "89:3951",
+                  "name": "Copyright",
+                  "type": "TEXT",
+                  "text": "© 2024 Estatein. All rights reserved.",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 400,
+                    "fontSize": 18,
+                    "lineHeight": 1.5,
+                    "color": "#666666"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "assets": {
+    "images": [
+      "testimonial-wade-warren.png",
+      "testimonial-bessie-cooper.png",
+      "testimonial-darlene-robertson.png",
+      "testimonial-star-rating.png",
+      "pagination-faq.svg",
+      "property-seaside-villa.png",
+      "property-metropolitan-haven.png",
+      "property-rustic-cottage.png",
+      "abstract-design-header.svg",
+      "logo.svg",
+      "hero-image-right.svg"
+    ],
+    "directories": {
+      "components": "All component JSON and JSX files",
+      "assets": "/demo-assets-images/ for all images and icons",
+      "docs": "Documentation and summary files"
+    }
+  },
+  "componentStyles": {
+    "buttons": {
+      "primary": {
+        "backgroundColor": "#703BF7",
+        "color": "#FFFFFF",
+        "borderRadius": "10px",
+        "padding": "18px 32px",
+        "hover": {
+          "backgroundColor": "#A685FA",
+          "scale": "1.05"
+        }
+      },
+      "secondary": {
+        "backgroundColor": "#1A1A1A",
+        "borderColor": "#262626",
+        "borderWidth": "1px",
+        "color": "#FFFFFF",
+        "borderRadius": "10px",
+        "padding": "16px 32px",
+        "hover": {
+          "backgroundColor": "#262626"
+        }
+      },
+      "navigation": {
+        "backgroundColor": "#1A1A1A",
+        "borderColor": "#262626",
+        "borderWidth": "1px",
+        "color": "#FFFFFF",
+        "borderRadius": "10px",
+        "padding": "16px 32px"
+      }
+    },
+    "cards": {
+      "property": {
+        "backgroundColor": "#1A1A1A",
+        "borderRadius": "16px",
+        "gap": "20px"
+      },
+      "testimonial": {
+        "backgroundColor": "#1A1A1A",
+        "borderColor": "#262626",
+        "borderWidth": "1px",
+        "borderRadius": "16px",
+        "padding": "32px",
+        "gap": "20px",
+        "hover": {
+          "borderColor": "#703BF7"
+        }
+      },
+      "faq": {
+        "backgroundColor": "#141414",
+        "borderColor": "#262626",
+        "borderWidth": "1px",
+        "borderRadius": "12px",
+        "padding": "50px",
+        "gap": "30px",
+        "hover": {
+          "borderColor": "#703BF7"
+        }
+      }
+    },
+    "components": {
+      "header": {
+        "navigation": {
+          "padding": "24px 162px",
+          "backgroundColor": "#1A1A1A",
+          "gap": "660px"
+        },
+        "banner": {
+          "padding": "16px 162px",
+          "backgroundColor": "#141414",
+          "borderColor": "#262626",
+          "borderWidth": "0px 0px 1px"
+        }
+      },
+      "hero": {
+        "padding": "100px 162px",
+        "backgroundColor": "#141414",
+        "gap": "100px"
+      },
+      "featuredProperties": {
+        "padding": "100px 162px",
+        "backgroundColor": "#141414",
+        "gap": "60px"
+      },
+      "testimonials": {
+        "padding": "100px 162px",
+        "backgroundColor": "#141414",
+        "gap": "80px"
+      },
+      "faq": {
+        "padding": "100px 162px",
+        "backgroundColor": "#141414",
+        "gap": "80px"
+      },
+      "cta": {
+        "padding": "100px 162px",
+        "backgroundColor": "#141414",
+        "borderColor": "#262626",
+        "borderWidth": "1px 0px"
+      },
+      "footer": {
+        "padding": "100px 162px",
+        "backgroundColor": "#141414",
+        "borderColor": "#262626",
+        "borderWidth": "1px 0px 0px",
+        "gap": "100px"
+      }
+    }
+  },
+  "extractedAt": "2024-10-13T18:00:00Z"
+}

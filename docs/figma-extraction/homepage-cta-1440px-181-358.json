@@ -1,0 +1,83 @@
+{
+  "componentName": "CTA",
+  "viewport": "1440px",
+  "nodeId": "181:358",
+  "width": 1441,
+  "height": 259,
+  "backgroundColor": "#1a1a1a",
+  "elements": [
+    {
+      "type": "content",
+      "name": "CTA Content",
+      "nodeId": "181:709",
+      "elements": [
+        {
+          "type": "heading",
+          "name": "CTA Title",
+          "nodeId": "181:710",
+          "content": "Find Your Dream Property Today",
+          "fontSize": "38px",
+          "fontFamily": "Urbanist",
+          "fontWeight": "600",
+          "lineHeight": "1.5",
+          "color": "#FFFFFF"
+        },
+        {
+          "type": "paragraph",
+          "name": "CTA Description",
+          "nodeId": "181:711",
+          "content": "Start your journey with Estatein and discover the perfect property that meets your needs and exceeds your expectations.",
+          "fontSize": "18px",
+          "fontFamily": "Urbanist",
+          "fontWeight": "500",
+          "lineHeight": "1.5",
+          "color": "#999999"
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "name": "CTA Button",
+      "nodeId": "181:712,
+      "content": "Get Started",
+      "width": 152,
+      "height": 49,
+      "backgroundColor": "#703bf7",
+      "borderRadius": "8px",
+      "padding": { "horizontal": "20px", "vertical": "14px" },
+      "fontSize": "14px",
+      "color": "#FFFFFF"
+    }
+  ],
+  "abstractDesigns": [
+    {
+      "name": "Left Abstract Design",
+      "nodeId": "181:534",
+      "position": { "x": 0, "y": 1 },
+      "width": 474,
+      "height": 258
+    },
+    {
+      "name": "Right Abstract Design",
+      "nodeId": "181:359",
+      "position": { "x": 1455, "y": -30 },
+      "width": 569,
+      "height": 310
+    }
+  ],
+  "layout": {
+    "display": "flex",
+    "justifyContent": "space-between",
+    "alignItems": "center",
+    "padding": { "horizontal": "80px", "vertical": "60px" }
+  },
+  "responsive": {
+    "breakpoint": "1440px",
+    "scaling": {
+      "headingSize": "38px",
+      "textSize": "18px",
+      "buttonPadding": "14px 20px",
+      "sectionPadding": "60px 80px"
+    }
+  }
+}

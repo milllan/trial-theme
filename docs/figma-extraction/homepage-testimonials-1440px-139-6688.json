@@ -1,0 +1,84 @@
+{
+  "componentName": "Testimonials",
+  "viewport": "1440px",
+  "nodeId": "139:6688",
+  "width": 1280,
+  "height": 614,
+  "backgroundColor": "transparent",
+  "elements": [
+    {
+      "type": "header",
+      "name": "Section Header",
+      "nodeId": "139:6689",
+      "title": "What Our Clients Say",
+      "description": "Read the success stories and heartfelt testimonials from our valued clients. Discover why they chose Estatein for their real estate needs.",
+      "buttonText": "View All Testimonials"
+    },
+    {
+      "type": "testimonials-grid",
+      "name": "Testimonials Container",
+      "nodeId": "139:6717",
+      "testimonials": [
+        {
+          "type": "testimonial-card",
+          "name": "Wade Warren Testimonial",
+          "nodeId": "139:6719",
+          "rating": 5,
+          "title": "Exceptional Service!",
+          "content": "Our experience with Estatein was outstanding. Their team's dedication and professionalism made finding our dream home a breeze. Highly recommended!",
+          "author": {
+            "name": "Wade Warren",
+            "location": "USA, California",
+            "avatar": "http://localhost:3845/assets/d0cf299bb82ecb9b6ca2bb97b1bbc5d528b964d4.png"
+          }
+        },
+        {
+          "type": "testimonial-card",
+          "name": "Emelie Thomson Testimonial",
+          "nodeId": "139:6739",
+          "rating": 5,
+          "title": "Efficient and Reliable",
+          "content": "Estatein provided us with top-notch service. They helped us sell our property quickly and at a great price. We couldn't be happier with the results.",
+          "author": {
+            "name": "Emelie Thomson",
+            "location": "USA, Florida",
+            "avatar": "http://localhost:3845/assets/2e80be9803bc1bf0b386581c4bec920920d8b6e7.png"
+          }
+        },
+        {
+          "type": "testimonial-card",
+          "name": "John Mans Testimonial",
+          "nodeId": "139:6759",
+          "rating": 5,
+          "title": "Trusted Advisors",
+          "content": "The Estatein team guided us through the entire buying process. Their knowledge and commitment to our needs were impressive. Thank you for your support!",
+          "author": {
+            "name": "John Mans",
+            "location": "USA, Nevada",
+            "avatar": "http://localhost:3845/assets/8dc30214275452277e6fe53845adb32340143875.png"
+          }
+        }
+      ],
+      "pagination": {
+        "current": "01",
+        "total": "10"
+      }
+    }
+  ],
+  "layout": {
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "60px",
+    "alignItems": "flex-start"
+  },
+  "responsive": {
+    "breakpoint": "1440px",
+    "scaling": {
+      "headingSize": "38px",
+      "textSize": "16px",
+      "cardGap": "20px",
+      "cardPadding": "40px",
+      "cardBorderRadius": "10px"
+    }
+  }
+}

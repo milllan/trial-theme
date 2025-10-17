@@ -1,0 +1,358 @@
+{
+  "id": "60:3150",
+  "name": "Statistics",
+  "type": "FRAME",
+  "layout": {
+    "mode": "column",
+    "gap": "80px",
+    "padding": "100px 162px",
+    "sizing": {
+      "horizontal": "fixed",
+      "vertical": "hug"
+    },
+    "dimensions": {
+      "width": 1596
+    }
+  },
+  "styles": {
+    "backgroundColor": "#141414"
+  },
+  "children": [
+    {
+      "id": "60:3151",
+      "name": "Header",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "gap": "16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "children": [
+        {
+          "id": "60:3152",
+          "name": "Heading",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "text": "Our Achievements in Numbers",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 600,
+            "fontSize": 48,
+            "lineHeight": 1.2,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "color": "#FFFFFF"
+          }
+        },
+        {
+          "id": "60:3153",
+          "name": "Paragraph",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "text": "Discover the milestones that define our success and commitment to excellence in real estate.",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 500,
+            "fontSize": 18,
+            "lineHeight": 1.5,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "color": "#999999"
+          }
+        }
+      ]
+    },
+    {
+      "id": "60:3154",
+      "name": "Stats Grid",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "justifyContent": "space-between",
+        "alignItems": "stretch",
+        "gap": "30px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "children": [
+        {
+          "id": "60:3155",
+          "name": "Stat Card",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "alignItems": "center",
+            "gap": "20px",
+            "padding": "40px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A",
+            "borderRadius": "16px"
+          },
+          "children": [
+            {
+              "id": "60:3156",
+              "name": "Number",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "1000+",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 700,
+                "fontSize": 48,
+                "lineHeight": 1.2,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#703BF7"
+              }
+            },
+            {
+              "id": "60:3157",
+              "name": "Label",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Properties Sold",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "id": "60:3158",
+          "name": "Stat Card",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "alignItems": "center",
+            "gap": "20px",
+            "padding": "40px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A",
+            "borderRadius": "16px"
+          },
+          "children": [
+            {
+              "id": "60:3159",
+              "name": "Number",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "500+",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 700,
+                "fontSize": 48,
+                "lineHeight": 1.2,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#703BF7"
+              }
+            },
+            {
+              "id": "60:3160",
+              "name": "Label",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Happy Clients",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "id": "60:3161",
+          "name": "Stat Card",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "alignItems": "center",
+            "gap": "20px",
+            "padding": "40px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A",
+            "borderRadius": "16px"
+          },
+          "children": [
+            {
+              "id": "60:3162",
+              "name": "Number",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "20+",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 700,
+                "fontSize": 48,
+                "lineHeight": 1.2,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#703BF7"
+              }
+            },
+            {
+              "id": "60:3163",
+              "name": "Label",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Years Experience",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "id": "60:3164",
+          "name": "Stat Card",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "alignItems": "center",
+            "gap": "20px",
+            "padding": "40px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A",
+            "borderRadius": "16px"
+          },
+          "children": [
+            {
+              "id": "60:3165",
+              "name": "Number",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "99%",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 700,
+                "fontSize": 48,
+                "lineHeight": 1.2,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#703BF7"
+              }
+            },
+            {
+              "id": "60:3166",
+              "name": "Label",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Client Satisfaction",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

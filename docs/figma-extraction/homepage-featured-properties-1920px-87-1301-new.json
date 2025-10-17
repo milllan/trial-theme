@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "87:1301",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": "layout_U4KVC0",
+      "children": [
+        {
+          "id": "60:3180",
+          "name": "Sub Container",
+          "type": "FRAME",
+          "layout": "layout_EHZX7K",
+          "children": [
+            {
+              "id": "46:358",
+              "name": "Text Container",
+              "type": "FRAME",
+              "layout": "layout_7753H9",
+              "children": [
+                {
+                  "id": "46:359",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "layout": "layout_WXYGS7",
+                  "text": "Featured Properties",
+                  "textStyle": "style_JPNENQ",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "46:360",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "layout": "layout_WXYGS7",
+                  "text": "Explore our handpicked selection of featured properties. Each listing offers a glimpse into exceptional homes and investments available through Estatein. Click \"View Details\" for more information.",
+                  "textStyle": "style_9IQEGC",
+                  "fills": "Grey/60"
+                },
+                {
+                  "id": "75:930",
+                  "name": "Abstract Design",
+                  "type": "FRAME",
+                  "layout": "layout_1K2J34",
+                  "children": [
+                    {
+                      "id": "75:931",
+                      "name": "Frame 3186",
+                      "type": "FRAME",
+                      "layout": "layout_GHLYQA"
+                    },
+                    {
+                      "id": "75:938",
+                      "name": "Frame 3187",
+                      "type": "FRAME",
+                      "layout": "layout_UE1PT7"
+                    },
+                    {
+                      "id": "75:945",
+                      "name": "Frame 3188",
+                      "type": "FRAME",
+                      "layout": "layout_0SGD7S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "60:3178",
+              "name": "Button",
+              "type": "FRAME",
+              "layout": "layout_4IXLPW",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "10px",
+              "children": [
+                {
+                  "id": "60:3179",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_5HC6R9",
+                  "text": "View All Properties",
+                  "textStyle": "style_9IQEGC",
+                  "fills": "Absolute/White"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "87:1300",
+          "name": "Sub Container",
+          "type": "FRAME",
+          "layout": "layout_XF3XB0",
+          "children": [
+            {
+              "id": "87:1274",
+              "name": "Items Container",
+              "type": "FRAME",
+              "layout": "layout_HXZ326",
+              "children": [
+                {
+                  "id": "75:564",
+                  "name": "Card",
+                  "type": "FRAME",
+                  "layout": "layout_VB7MJ3",
+                  "fills": "Grey/08",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1px",
+                  "borderRadius": "12px",
+                  "children": [
+                    {
+                      "id": "75:544",
+                      "name": "Image",
+                      "type": "RECTANGLE",
+                      "layout": "layout_TV6R2Z",
+                      "fills": "fill_I2OMX1",
+                      "borderRadius": "10px"
+                    },
+                    {
+                      "id": "87:1215",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_MUDVLJ"
+                    }
+                  ]
+                },
+                {
+                  "id": "87:1249",
+                  "name": "Card",
+                  "type": "FRAME",
+                  "layout": "layout_VB7MJ3",
+                  "fills": "Grey/08",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1px",
+                  "borderRadius": "12px",
+                  "children": [
+                    {
+                      "id": "87:1250",
+                      "name": "Image",
+                      "type": "RECTANGLE",
+                      "layout": "layout_TV6R2Z",
+                      "fills": "fill_OUAWGY",
+                      "borderRadius": "10px"
+                    },
+                    {
+                      "id": "87:1251",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_MUDVLJ"
+                    }
+                  ]
+                },
+                {
+                  "id": "87:1275",
+                  "name": "Card",
+                  "type": "FRAME",
+                  "layout": "layout_VB7MJ3",
+                  "fills": "Grey/08",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1px",
+                  "borderRadius": "12px",
+                  "children": [
+                    {
+                      "id": "87:1276",
+                      "name": "Image",
+                      "type": "RECTANGLE",
+                      "layout": "layout_TV6R2Z",
+                      "fills": "fill_Y17X2Q",
+                      "borderRadius": "10px"
+                    },
+                    {
+                      "id": "87:1277",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_MUDVLJ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "75:596",
+              "name": "Container",
+              "type": "FRAME",
+              "layout": "layout_6YIO1X",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px 0px 0px",
+              "children": [
+                {
+                  "id": "75:588",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_5HC6R9",
+                  "text": "01 of 60",
+                  "textStyle": "style_83VFZA",
+                  "fills": "Grey/60"
+                },
+                {
+                  "id": "75:595",
+                  "name": "Buttons Container",
+                  "type": "FRAME",
+                  "layout": "layout_5ZVWW9",
+                  "children": [
+                    {
+                      "id": "75:593",
+                      "name": "Button",
+                      "type": "FRAME",
+                      "layout": "layout_RQOZKF",
+                      "strokes": "Grey/15",
+                      "strokeWeight": "1px",
+                      "borderRadius": "69px"
+                    },
+                    {
+                      "id": "75:594",
+                      "name": "Button",
+                      "type": "FRAME",
+                      "layout": "layout_RQOZKF",
+                      "fills": "Grey/10",
+                      "strokes": "Grey/15",
+                      "strokeWeight": "1px",
+                      "borderRadius": "69px"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_U4KVC0": {
+        "mode": "column",
+        "gap": "80px",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "hug"
+        },
+        "dimensions": {
+          "width": "1596"
+        }
+      },
+      "layout_EHZX7K": {
+        "mode": "row",
+        "alignItems": "flex-end",
+        "alignSelf": "stretch",
+        "gap": "200px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_7753H9": {
+        "mode": "column",
+        "gap": "14px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_WXYGS7": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_JPNENQ": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontSize": "48",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "style_9IQEGC": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "18",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Grey/60": ["#999999"],
+      "layout_1K2J34": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "-20",
+          "y": "-40"
+        },
+        "dimensions": {
+          "width": "68.4",
+          "height": "30"
+        }
+      },
+      "layout_GHLYQA": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "0",
+          "y": "0"
+        },
+        "dimensions": {
+          "width": "30",
+          "height": "30"
+        }
+      },
+      "layout_UE1PT7": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "36",
+          "y": "6"
+        },
+        "dimensions": {
+          "width": "18",
+          "height": "18"
+        }
+      },
+      "layout_0SGD7S": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "60",
+          "y": "10.8"
+        },
+        "dimensions": {
+          "width": "8.4",
+          "height": "8.4"
+        }
+      },
+      "layout_4IXLPW": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "8px",
+        "padding": "18px 24px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "Grey/15": ["#262626"],
+      "layout_5HC6R9": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_XF3XB0": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "50px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_HXZ326": {
+        "mode": "row",
+        "justifyContent": "stretch",
+        "alignItems": "stretch",
+        "alignSelf": "stretch",
+        "gap": "30px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_VB7MJ3": {
+        "mode": "column",
+        "gap": "30px",
+        "padding": "40px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/08": ["#141414"],
+      "layout_TV6R2Z": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "height": "318"
+        }
+      },
+      "fill_I2OMX1": [
+        {
+          "type": "IMAGE",
+          "imageRef": "597f545bcb329f29999c8c335bec608731f34db8",
+          "scaleMode": "FILL",
+          "objectFit": "cover",
+          "isBackground": false,
+          "imageDownloadArguments": {
+            "needsCropping": false,
+            "requiresImageDimensions": false
+          }
+        }
+      ],
+      "layout_MUDVLJ": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "30px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "fill_OUAWGY": [
+        {
+          "type": "IMAGE",
+          "imageRef": "a2b4e0260c692d688fb8fd238642558f0aee6697",
+          "scaleMode": "FILL",
+          "objectFit": "cover",
+          "isBackground": false,
+          "imageDownloadArguments": {
+            "needsCropping": false,
+            "requiresImageDimensions": false
+          }
+        }
+      ],
+      "fill_Y17X2Q": [
+        {
+          "type": "IMAGE",
+          "imageRef": "788f8cf7af7e05c7ae4a90ebd4dcf750b626e1f4",
+          "scaleMode": "FILL",
+          "objectFit": "cover",
+          "isBackground": false,
+          "imageDownloadArguments": {
+            "needsCropping": false,
+            "requiresImageDimensions": false
+          }
+        }
+      ],
+      "layout_6YIO1X": {
+        "mode": "row",
+        "justifyContent": "space-between",
+        "alignSelf": "stretch",
+        "gap": "1123px",
+        "padding": "20px 0px 0px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_83VFZA": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "20",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "layout_5ZVWW9": {
+        "mode": "row",
+        "gap": "10px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_RQOZKF": {
+        "mode": "row",
+        "gap": "10px",
+        "padding": "14px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      }
+    }
+  }
+}

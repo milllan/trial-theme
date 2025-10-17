@@ -1,0 +1,1055 @@
+{
+  "id": "181:1070",
+  "name": "Container",
+  "type": "FRAME",
+  "layout": {
+    "mode": "column",
+    "alignItems": "flex-end",
+    "sizing": {
+      "horizontal": "fixed",
+      "vertical": "hug"
+    },
+    "dimensions": { "width": 389 }
+  },
+  "children": [
+    {
+      "id": "181:1071",
+      "name": "CTA",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "justifyContent": "center",
+        "alignSelf": "stretch",
+        "gap": "30px",
+        "padding": "50px 16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "styles": {
+        "borderColor": "#262626",
+        "borderWidth": "1px 0px"
+      },
+      "children": [
+        {
+          "id": "181:1072",
+          "name": "Abstract Design",
+          "type": "IMAGE-SVG",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "fixed"
+            },
+            "position": "absolute",
+            "locationRelativeToParent": { "x": 41, "y": 228 },
+            "dimensions": { "width": 398, "height": 217 }
+          },
+          "styles": {
+            "fillColor": "#FFFFFF"
+          }
+        },
+        {
+          "id": "181:1247",
+          "name": "Abstract Design",
+          "type": "IMAGE-SVG",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "fixed"
+            },
+            "position": "absolute",
+            "locationRelativeToParent": { "x": -21, "y": -109 },
+            "dimensions": { "width": 284, "height": 522 }
+          },
+          "styles": {
+            "fillColor": "#FFFFFF"
+          }
+        },
+        {
+          "id": "181:1422",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "alignSelf": "stretch",
+            "gap": "6px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "children": [
+            {
+              "id": "181:1423",
+              "name": "Heading",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Start Your Real Estate Journey Today",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 28,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "181:1424",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Your dream property is just a click away. Whether you're looking for a new home, a strategic investment, or expert real estate advice, Estatein is here to assist you every step of the way. Take the first step towards your real estate goals and explore our available properties or get in touch with our team for personalized assistance.",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 14,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#999999"
+              }
+            }
+          ]
+        },
+        {
+          "id": "181:1425",
+          "name": "Button",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "alignSelf": "stretch",
+            "gap": "8px",
+            "padding": "14px 20px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "backgroundColor": "#703BF7",
+            "borderRadius": "8px"
+          },
+          "children": [
+            {
+              "id": "181:1426",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Explore Properties",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 14,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "181:1427",
+      "name": "Footer",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "children": [
+        {
+          "id": "181:1428",
+          "name": "Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "alignSelf": "stretch",
+            "gap": "50px",
+            "padding": "50px 16px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "children": [
+            {
+              "id": "181:1429",
+              "name": "Sub Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "alignSelf": "stretch",
+                "gap": "20px",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "children": [
+                {
+                  "id": "181:1430",
+                  "name": "Logo",
+                  "type": "IMAGE-SVG",
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {
+                      "horizontal": "fixed",
+                      "vertical": "fixed"
+                    },
+                    "dimensions": { "width": 113.33, "height": 34 }
+                  }
+                },
+                {
+                  "id": "181:1445",
+                  "name": "Input Feild",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "alignItems": "center",
+                    "alignSelf": "stretch",
+                    "gap": "6px",
+                    "padding": "14px 20px",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "styles": {
+                    "backgroundColor": "#141414",
+                    "borderColor": "#262626",
+                    "borderWidth": "1px",
+                    "borderRadius": "8px"
+                  },
+                  "children": [
+                    {
+                      "id": "181:1446",
+                      "name": "Icon",
+                      "type": "IMAGE-SVG",
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fixed",
+                          "vertical": "fixed"
+                        },
+                        "dimensions": { "width": 20, "height": 20 }
+                      },
+                      "styles": {
+                        "fillColor": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "181:1448",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "text": "Enter Your Email",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 14,
+                        "lineHeight": 1.7142857142857142,
+                        "letterSpacing": "-0.6%",
+                        "textAlignHorizontal": "LEFT",
+                        "textAlignVertical": "TOP",
+                        "color": "#999999"
+                      }
+                    },
+                    {
+                      "id": "181:1449",
+                      "name": "Icon",
+                      "type": "IMAGE-SVG",
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fixed",
+                          "vertical": "fixed"
+                        },
+                        "dimensions": { "width": 24, "height": 24 }
+                      },
+                      "styles": {
+                        "fillColor": "rgba(0, 0, 0, 0)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "181:1454",
+              "name": "Footer Link Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "alignSelf": "stretch",
+                "gap": "20px",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "children": [
+                {
+                  "id": "181:1455",
+                  "name": "Frame 3344",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "alignSelf": "stretch",
+                    "gap": "20px",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "181:1456",
+                      "name": "Column",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "column",
+                        "gap": "16px",
+                        "padding": "0px 0px 20px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "styles": {
+                        "borderColor": "#262626",
+                        "borderWidth": "0px 0px 1px"
+                      },
+                      "children": [
+                        {
+                          "id": "181:1457",
+                          "name": "Home",
+                          "type": "TEXT",
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "hug",
+                              "vertical": "hug"
+                            }
+                          },
+                          "text": "Home",
+                          "styles": {
+                            "fontFamily": "Urbanist",
+                            "fontWeight": 500,
+                            "fontSize": 16,
+                            "lineHeight": 1.5,
+                            "letterSpacing": "-0.6%",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP",
+                            "color": "#999999"
+                          }
+                        },
+                        {
+                          "id": "181:1458",
+                          "name": "Link Container",
+                          "type": "FRAME",
+                          "layout": {
+                            "mode": "column",
+                            "gap": "8px",
+                            "sizing": {
+                              "horizontal": "hug",
+                              "vertical": "hug"
+                            }
+                          },
+                          "children": [
+                            {
+                              "id": "181:1459",
+                              "name": "Link ",
+                              "type": "TEXT",
+                              "layout": {
+                                "mode": "none",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "text": "Hero Section",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 14,
+                                "lineHeight": 1.7142857142857142,
+                                "letterSpacing": "-0.6%",
+                                "textAlignHorizontal": "LEFT",
+                                "textAlignVertical": "TOP",
+                                "color": "#FFFFFF"
+                              }
+                            },
+                            {
+                              "id": "181:1460",
+                              "name": "Link ",
+                              "type": "TEXT",
+                              "layout": {
+                                "mode": "none",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "text": "Features",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 14,
+                                "lineHeight": 1.7142857142857142,
+                                "letterSpacing": "-0.6%",
+                                "textAlignHorizontal": "LEFT",
+                                "textAlignVertical": "TOP",
+                                "color": "#FFFFFF"
+                              }
+                            },
+                            {
+                              "id": "181:1461",
+                              "name": "Link ",
+                              "type": "TEXT",
+                              "layout": {
+                                "mode": "none",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "text": "Properties",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 14,
+                                "lineHeight": 1.7142857142857142,
+                                "letterSpacing": "-0.6%",
+                                "textAlignHorizontal": "LEFT",
+                                "textAlignVertical": "TOP",
+                                "color": "#FFFFFF"
+                              }
+                            },
+                            {
+                              "id": "181:1462",
+                              "name": "Link ",
+                              "type": "TEXT",
+                              "layout": {
+                                "mode": "none",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "text": "Testimonials",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 14,
+                                "lineHeight": 1.7142857142857142,
+                                "letterSpacing": "-0.6%",
+                                "textAlignHorizontal": "LEFT",
+                                "textAlignVertical": "TOP",
+                                "color": "#FFFFFF"
+                              }
+                            },
+                            {
+                              "id": "181:1463",
+                              "name": "Link ",
+                              "type": "TEXT",
+                              "layout": {
+                                "mode": "none",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "text": "FAQ's",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 14,
+                                "lineHeight": 1.7142857142857142,
+                                "letterSpacing": "-0.6%",
+                                "textAlignHorizontal": "LEFT",
+                                "textAlignVertical": "TOP",
+                                "color": "#FFFFFF"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "181:1464",
+                      "name": "Line",
+                      "type": "LINE",
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fixed",
+                          "vertical": "fill"
+                        },
+                        "dimensions": { "width": 0 }
+                      },
+                      "styles": {
+                        "strokeColor": "#262626",
+                        "strokeWidth": "1px"
+                      }
+                    },
+                    {
+                      "id": "181:1465",
+                      "name": "Column",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "column",
+                        "gap": "16px",
+                        "padding": "0px 0px 20px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "styles": {
+                        "borderColor": "#262626",
+                        "borderWidth": "0px 0px 1px"
+                      },
+                      "children": [
+                        {
+                          "id": "181:1466",
+                          "name": "About Us",
+                          "type": "TEXT",
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "hug",
+                              "vertical": "hug"
+                            }
+                          },
+                          "text": "About Us",
+                          "styles": {
+                            "fontFamily": "Urbanist",
+                            "fontWeight": 500,
+                            "fontSize": 16,
+                            "lineHeight": 1.5,
+                            "letterSpacing": "-0.6%",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP",
+                            "color": "#999999"
+                          }
+                        },
+                        {
+                          "id": "181:1467",
+                          "name": "Link Container",
+                          "type": "FRAME",
+                          "layout": {
+                            "mode": "column",
+                            "gap": "8px",
+                            "sizing": {
+                              "horizontal": "hug",
+                              "vertical": "hug"
+                            }
+                          },
+                          "children": [
+                            {
+                              "id": "181:1468",
+                              "name": "Link ",
+                              "type": "TEXT",
+                              "layout": {
+                                "mode": "none",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "text": "Our Story",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 14,
+                                "lineHeight": 1.7142857142857142,
+                                "letterSpacing": "-0.6%",
+                                "textAlignHorizontal": "LEFT",
+                                "textAlignVertical": "TOP",
+                                "color": "#FFFFFF"
+                              }
+                            },
+                            {
+                              "id": "181:1469",
+                              "name": "Link ",
+                              "type": "TEXT",
+                              "layout": {
+                                "mode": "none",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "text": "Our Works",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 14,
+                                "lineHeight": 1.7142857142857142,
+                                "letterSpacing": "-0.6%",
+                                "textAlignHorizontal": "LEFT",
+                                "textAlignVertical": "TOP",
+                                "color": "#FFFFFF"
+                              }
+                            },
+                            {
+                              "id": "181:1470",
+                              "name": "Link ",
+                              "type": "TEXT",
+                              "layout": {
+                                "mode": "none",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "text": "How It Works",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 14,
+                                "lineHeight": 1.7142857142857142,
+                                "letterSpacing": "-0.6%",
+                                "textAlignHorizontal": "LEFT",
+                                "textAlignVertical": "TOP",
+                                "color": "#FFFFFF"
+                              }
+                            },
+                            {
+                              "id": "181:1471",
+                              "name": "Link ",
+                              "type": "TEXT",
+                              "layout": {
+                                "mode": "none",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "text": "Our Team",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 14,
+                                "lineHeight": 1.7142857142857142,
+                                "letterSpacing": "-0.6%",
+                                "textAlignHorizontal": "LEFT",
+                                "textAlignVertical": "TOP",
+                                "color": "#FFFFFF"
+                              }
+                            },
+                            {
+                              "id": "181:1472",
+                              "name": "Link ",
+                              "type": "TEXT",
+                              "layout": {
+                                "mode": "none",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "text": "Our Clients",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 14,
+                                "lineHeight": 1.7142857142857142,
+                                "letterSpacing": "-0.6%",
+                                "textAlignHorizontal": "LEFT",
+                                "textAlignVertical": "TOP",
+                                "color": "#FFFFFF"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "181:1473",
+                  "name": "Frame 3345",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "alignSelf": "stretch",
+                    "gap": "20px",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "181:1474",
+                      "name": "Frame 3346",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "column",
+                        "gap": "20px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "181:1475",
+                          "name": "Column",
+                          "type": "FRAME",
+                          "layout": {
+                            "mode": "column",
+                            "alignSelf": "stretch",
+                            "gap": "16px",
+                            "padding": "0px 0px 20px",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          },
+                          "styles": {
+                            "borderColor": "#262626",
+                            "borderWidth": "0px 0px 1px"
+                          },
+                          "children": [
+                            {
+                              "id": "181:1476",
+                              "name": "Properties",
+                              "type": "TEXT",
+                              "layout": {
+                                "mode": "none",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "text": "Properties",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 16,
+                                "lineHeight": 1.5,
+                                "letterSpacing": "-0.6%",
+                                "textAlignHorizontal": "LEFT",
+                                "textAlignVertical": "TOP",
+                                "color": "#999999"
+                              }
+                            },
+                            {
+                              "id": "181:1477",
+                              "name": "Link Container",
+                              "type": "FRAME",
+                              "layout": {
+                                "mode": "column",
+                                "gap": "8px",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "children": [
+                                {
+                                  "id": "181:1478",
+                                  "name": "Link ",
+                                  "type": "TEXT",
+                                  "layout": {
+                                    "mode": "none",
+                                    "sizing": {
+                                      "horizontal": "hug",
+                                      "vertical": "hug"
+                                    }
+                                  },
+                                  "text": "Portfolio",
+                                  "styles": {
+                                    "fontFamily": "Urbanist",
+                                    "fontWeight": 500,
+                                    "fontSize": 14,
+                                    "lineHeight": 1.7142857142857142,
+                                    "letterSpacing": "-0.6%",
+                                    "textAlignHorizontal": "LEFT",
+                                    "textAlignVertical": "TOP",
+                                    "color": "#FFFFFF"
+                                  }
+                                },
+                                {
+                                  "id": "181:1479",
+                                  "name": "Link ",
+                                  "type": "TEXT",
+                                  "layout": {
+                                    "mode": "none",
+                                    "sizing": {
+                                      "horizontal": "hug",
+                                      "vertical": "hug"
+                                    }
+                                  },
+                                  "text": "Categories",
+                                  "styles": {
+                                    "fontFamily": "Urbanist",
+                                    "fontWeight": 500,
+                                    "fontSize": 14,
+                                    "lineHeight": 1.7142857142857142,
+                                    "letterSpacing": "-0.6%",
+                                    "textAlignHorizontal": "LEFT",
+                                    "textAlignVertical": "TOP",
+                                    "color": "#FFFFFF"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "181:1480",
+                          "name": "Column",
+                          "type": "FRAME",
+                          "layout": {
+                            "mode": "column",
+                            "alignSelf": "stretch",
+                            "gap": "16px",
+                            "padding": "0px 0px 20px",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          },
+                          "styles": {
+                            "borderColor": "#262626",
+                            "borderWidth": "0px 0px 1px"
+                          },
+                          "children": [
+                            {
+                              "id": "181:1481",
+                              "name": "Contact Us",
+                              "type": "TEXT",
+                              "layout": {
+                                "mode": "none",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "text": "Contact Us",
+                              "styles": {
+                                "fontFamily": "Urbanist",
+                                "fontWeight": 500,
+                                "fontSize": 16,
+                                "lineHeight": 1.5,
+                                "letterSpacing": "-0.6%",
+                                "textAlignHorizontal": "LEFT",
+                                "textAlignVertical": "TOP",
+                                "color": "#999999"
+                              }
+                            },
+                            {
+                              "id": "181:1482",
+                              "name": "Link Container",
+                              "type": "FRAME",
+                              "layout": {
+                                "mode": "column",
+                                "gap": "8px",
+                                "sizing": {
+                                  "horizontal": "hug",
+                                  "vertical": "hug"
+                                }
+                              },
+                              "children": [
+                                {
+                                  "id": "181:1483",
+                                  "name": "Link ",
+                                  "type": "TEXT",
+                                  "layout": {
+                                    "mode": "none",
+                                    "sizing": {
+                                      "horizontal": "hug",
+                                      "vertical": "hug"
+                                    }
+                                  },
+                                  "text": "Contact Form",
+                                  "styles": {
+                                    "fontFamily": "Urbanist",
+                                    "fontWeight": 500,
+                                    "fontSize": 14,
+                                    "lineHeight": 1.7142857142857142,
+                                    "letterSpacing": "-0.6%",
+                                    "textAlignHorizontal": "LEFT",
+                                    "textAlignVertical": "TOP",
+                                    "color": "#FFFFFF"
+                                  }
+                                },
+                                {
+                                  "id": "181:1484",
+                                  "name": "Link ",
+                                  "type": "TEXT",
+                                  "layout": {
+                                    "mode": "none",
+                                    "sizing": {
+                                      "horizontal": "hug",
+                                      "vertical": "hug"
+                                    }
+                                  },
+                                  "text": "Our Offices",
+                                  "styles": {
+                                    "fontFamily": "Urbanist",
+                                    "fontWeight": 500,
+                                    "fontSize": 14,
+                                    "lineHeight": 1.7142857142857142,
+                                    "letterSpacing": "-0.6%",
+                                    "textAlignHorizontal": "LEFT",
+                                    "textAlignVertical": "TOP",
+                                    "color": "#FFFFFF"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "181:1494",
+          "name": "Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "alignSelf": "stretch",
+            "gap": "20px",
+            "padding": "20px 16px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A"
+          },
+          "children": [
+            {
+              "id": "181:1495",
+              "name": "Social Icon",
+              "type": "IMAGE-SVG",
+              "layout": {
+                "mode": "row",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "alignSelf": "stretch",
+                "gap": "8px",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              }
+            },
+            {
+              "id": "181:1508",
+              "name": "Sub Link Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "justifyContent": "center",
+                "alignItems": "center",
+                "alignSelf": "stretch",
+                "gap": "10px",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "children": [
+                {
+                  "id": "181:1509",
+                  "name": "Link",
+                  "type": "TEXT",
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {
+                      "horizontal": "hug",
+                      "vertical": "hug"
+                    }
+                  },
+                  "text": "@2023 Estatein. All Rights Reserved.",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 14,
+                    "lineHeight": 1.7142857142857142,
+                    "letterSpacing": "-0.6%",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "color": "#FFFFFF"
+                  }
+                },
+                {
+                  "id": "181:1510",
+                  "name": "Link",
+                  "type": "TEXT",
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {
+                      "horizontal": "hug",
+                      "vertical": "hug"
+                    }
+                  },
+                  "text": "Terms & Conditions",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 14,
+                    "lineHeight": 1.7142857142857142,
+                    "letterSpacing": "-0.6%",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "color": "#FFFFFF"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

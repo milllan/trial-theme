@@ -1,0 +1,202 @@
+{
+  "componentName": "HeroSection",
+  "viewport": "1440px",
+  "nodeId": "139:6332",
+  "width": 690,
+  "height": 622,
+  "backgroundColor": "transparent",
+  "elements": [
+    {
+      "type": "text-container",
+      "name": "Hero Content",
+      "nodeId": "139:6333",
+      "position": { "x": 80, "y": 98 },
+      "width": 610,
+      "height": 178,
+      "elements": [
+        {
+          "type": "heading",
+          "name": "Main Heading",
+          "nodeId": "139:6334",
+          "content": "Discover Your Dream Property with Estatein",
+          "position": { "x": 0, "y": 0 },
+          "width": 610,
+          "height": 110,
+          "fontSize": "46px",
+          "fontFamily": "Urbanist",
+          "fontWeight": "600",
+          "lineHeight": "1.2",
+          "color": "#FFFFFF"
+        },
+        {
+          "type": "paragraph",
+          "name": "Description",
+          "nodeId": "139:6335",
+          "content": "Your journey to finding the perfect property begins here. Explore our listings to find the home that matches your dreams.",
+          "position": { "x": 0, "y": 130 },
+          "width": 610,
+          "height": 48,
+          "fontSize": "16px",
+          "fontFamily": "Urbanist",
+          "fontWeight": "500",
+          "lineHeight": "1.5",
+          "color": "#999999"
+        }
+      ]
+    },
+    {
+      "type": "circular-text",
+      "name": "Circular Badge",
+      "nodeId": "139:6336",
+      "position": { "x": 605, "y": -3 },
+      "width": 129,
+      "height": 129,
+      "backgroundColor": "#141414",
+      "border": "1.173px neutral-800",
+      "borderRadius": "117.273px",
+      "text": "Discover Your Dream Property ✨",
+      "icon": {
+        "src": "http://localhost:3845/assets/cf4cfc3eab2a9b19e1f32200a4798ee22d60e405.svg",
+        "nodeId": "139:6338",
+        "width": 24,
+        "height": 24
+      }
+    },
+    {
+      "type": "button-container",
+      "name": "Action Buttons",
+      "nodeId": "139:6371",
+      "position": { "x": 80, "y": 326 },
+      "width": 610,
+      "height": 49,
+      "gap": "16px",
+      "buttons": [
+        {
+          "type": "button-outline",
+          "name": "Learn More",
+          "nodeId": "139:6372",
+          "content": "Learn More",
+          "width": 111,
+          "height": 49,
+          "backgroundColor": "transparent",
+          "border": "1px neutral-800",
+          "borderRadius": "8px",
+          "padding": { "horizontal": "20px", "vertical": "14px" },
+          "fontSize": "14px",
+          "color": "#FFFFFF"
+        },
+        {
+          "type": "button-primary",
+          "name": "Browse Properties",
+          "nodeId": "139:6374",
+          "content": "Browse Properties",
+          "width": 151,
+          "height": 49,
+          "backgroundColor": "#703bf7",
+          "borderRadius": "8px",
+          "padding": { "horizontal": "20px", "vertical": "14px" },
+          "fontSize": "14px",
+          "color": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "type": "stats-container",
+      "name": "Statistics",
+      "nodeId": "139:6376",
+      "position": { "x": 80, "y": 425 },
+      "width": 610,
+      "height": 99,
+      "gap": "16px",
+      "stats": [
+        {
+          "type": "stat-card",
+          "name": "Happy Customers",
+          "nodeId": "139:6377",
+          "backgroundColor": "#1a1a1a",
+          "border": "1px neutral-800",
+          "borderRadius": "10px",
+          "padding": { "horizontal": "20px", "vertical": "14px" },
+          "width": 192.67,
+          "height": 99,
+          "number": {
+            "content": "200+",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "color": "#FFFFFF"
+          },
+          "label": {
+            "content": "Happy Customers",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "color": "#999999"
+          }
+        },
+        {
+          "type": "stat-card",
+          "name": "Properties For Clients",
+          "nodeId": "139:6380",
+          "backgroundColor": "#1a1a1a",
+          "border": "1px neutral-800",
+          "borderRadius": "10px",
+          "padding": { "horizontal": "20px", "vertical": "14px" },
+          "width": 192.67,
+          "height": 99,
+          "number": {
+            "content": "10k+",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "color": "#FFFFFF"
+          },
+          "label": {
+            "content": "Properties For Clients",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "color": "#999999"
+          }
+        },
+        {
+          "type": "stat-card",
+          "name": "Years of Experience",
+          "nodeId": "139:6383",
+          "backgroundColor": "#1a1a1a",
+          "border": "1px neutral-800",
+          "borderRadius": "10px",
+          "padding": { "horizontal": "20px", "vertical": "14px" },
+          "width": 192.67,
+          "height": 99,
+          "number": {
+            "content": "16+",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "color": "#FFFFFF"
+          },
+          "label": {
+            "content": "Years of Experience",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "color": "#999999"
+          }
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "50px",
+    "padding": { "left": "80px", "right": "0", "top": "0", "bottom": "0" },
+    "alignItems": "flex-start",
+    "justifyContent": "center"
+  },
+  "responsive": {
+    "breakpoint": "1440px",
+    "scaling": {
+      "headingSize": "46px",
+      "textSize": "16px",
+      "buttonPadding": "14px 20px",
+      "statsGap": "16px",
+      "cardBorderRadius": "10px"
+    }
+  }
+}

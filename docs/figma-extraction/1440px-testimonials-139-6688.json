@@ -1,0 +1,472 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:6688",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": "layout_CF54SP",
+      "children": [
+        {
+          "id": "139:6689",
+          "name": "Sub Container",
+          "type": "FRAME",
+          "layout": "layout_38Y961",
+          "children": [
+            {
+              "id": "139:6690",
+              "name": "Text Container",
+              "type": "FRAME",
+              "layout": "layout_2AJ0DS",
+              "children": [
+                {
+                  "id": "139:6691",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "layout": "layout_4TIFGY",
+                  "text": "What Our Clients Say",
+                  "textStyle": "style_CTT4JZ",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:6692",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "layout": "layout_4TIFGY",
+                  "text": "Read the success stories and heartfelt testimonials from our valued clients. Discover why they chose Estatein for their real estate needs.",
+                  "textStyle": "style_DPPX2G",
+                  "fills": "Grey/60"
+                },
+                {
+                  "id": "139:6788",
+                  "name": "Abstract Design",
+                  "type": "FRAME",
+                  "layout": "layout_EI7ZXT",
+                  "children": [
+                    {
+                      "id": "139:6789",
+                      "name": "Frame 3186",
+                      "type": "FRAME",
+                      "layout": "layout_E0LBJ4"
+                    },
+                    {
+                      "id": "139:6796",
+                      "name": "Frame 3187",
+                      "type": "FRAME",
+                      "layout": "layout_JXY6M4"
+                    },
+                    {
+                      "id": "139:6803",
+                      "name": "Frame 3188",
+                      "type": "FRAME",
+                      "layout": "layout_XO0KUR"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "139:6715",
+              "name": "Button",
+              "type": "FRAME",
+              "layout": "layout_233DDH",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "8px",
+              "children": [
+                {
+                  "id": "139:6716",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_MUNIE0",
+                  "text": "View All Testimonials",
+                  "textStyle": "style_HMSNPF",
+                  "fills": "Absolute/White"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "139:6717",
+          "name": "Sub Container",
+          "type": "FRAME",
+          "layout": "layout_ME1BU6",
+          "children": [
+            {
+              "id": "139:6718",
+              "name": "Items Container",
+              "type": "FRAME",
+              "layout": "layout_F4HG8D",
+              "children": [
+                {
+                  "id": "139:6719",
+                  "name": "Card",
+                  "type": "FRAME",
+                  "layout": "layout_H685WL",
+                  "fills": "Grey/08",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1px",
+                  "borderRadius": "10px",
+                  "children": [
+                    {
+                      "id": "139:6720",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_DNSL6A"
+                    },
+                    {
+                      "id": "139:6731",
+                      "name": "Text Container",
+                      "type": "FRAME",
+                      "layout": "layout_3IIV44"
+                    },
+                    {
+                      "id": "139:6734",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_C6UEPZ"
+                    }
+                  ]
+                },
+                {
+                  "id": "139:6739",
+                  "name": "Card",
+                  "type": "FRAME",
+                  "layout": "layout_H685WL",
+                  "fills": "Grey/08",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1px",
+                  "borderRadius": "10px",
+                  "children": [
+                    {
+                      "id": "139:6740",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_DNSL6A"
+                    },
+                    {
+                      "id": "139:6751",
+                      "name": "Text Container",
+                      "type": "FRAME",
+                      "layout": "layout_3IIV44"
+                    },
+                    {
+                      "id": "139:6754",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_C6UEPZ"
+                    }
+                  ]
+                },
+                {
+                  "id": "139:6759",
+                  "name": "Card",
+                  "type": "FRAME",
+                  "layout": "layout_H685WL",
+                  "fills": "Grey/08",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1px",
+                  "borderRadius": "10px",
+                  "children": [
+                    {
+                      "id": "139:6760",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_DNSL6A"
+                    },
+                    {
+                      "id": "139:6771",
+                      "name": "Text Container",
+                      "type": "FRAME",
+                      "layout": "layout_3IIV44"
+                    },
+                    {
+                      "id": "139:6774",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_C6UEPZ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "139:6810",
+              "name": "Container",
+              "type": "FRAME",
+              "layout": "layout_B7RZTE",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px 0px 0px",
+              "children": [
+                {
+                  "id": "139:6811",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_MUNIE0",
+                  "text": "01 of 10",
+                  "textStyle": "style_DPPX2G",
+                  "fills": "Grey/60"
+                },
+                {
+                  "id": "139:6812",
+                  "name": "Buttons Container",
+                  "type": "FRAME",
+                  "layout": "layout_ZXAPGA",
+                  "children": [
+                    {
+                      "id": "139:6813",
+                      "name": "Button",
+                      "type": "FRAME",
+                      "layout": "layout_DD18J3",
+                      "strokes": "Grey/15",
+                      "strokeWeight": "1px",
+                      "borderRadius": "69px"
+                    },
+                    {
+                      "id": "139:6816",
+                      "name": "Button",
+                      "type": "FRAME",
+                      "layout": "layout_DD18J3",
+                      "fills": "Grey/10",
+                      "strokes": "Grey/15",
+                      "strokeWeight": "1px",
+                      "borderRadius": "69px"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_CF54SP": {
+        "mode": "column",
+        "gap": "60px",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "hug"
+        },
+        "dimensions": {
+          "width": "1280"
+        }
+      },
+      "layout_38Y961": {
+        "mode": "row",
+        "alignItems": "flex-end",
+        "alignSelf": "stretch",
+        "gap": "150px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_2AJ0DS": {
+        "mode": "column",
+        "gap": "10px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_4TIFGY": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_CTT4JZ": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontSize": "38",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "style_DPPX2G": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "16",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Grey/60": ["#999999"],
+      "layout_EI7ZXT": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "-10",
+          "y": "-30"
+        },
+        "dimensions": {
+          "width": "54.72",
+          "height": "24"
+        }
+      },
+      "layout_E0LBJ4": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "0",
+          "y": "0"
+        },
+        "dimensions": {
+          "width": "24",
+          "height": "24"
+        }
+      },
+      "layout_JXY6M4": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "28.8",
+          "y": "4.8"
+        },
+        "dimensions": {
+          "width": "14.4",
+          "height": "14.4"
+        }
+      },
+      "layout_XO0KUR": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "48",
+          "y": "8.64"
+        },
+        "dimensions": {
+          "width": "6.72",
+          "height": "6.72"
+        }
+      },
+      "layout_233DDH": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "8px",
+        "padding": "14px 20px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "Grey/15": ["#262626"],
+      "layout_MUNIE0": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "style_HMSNPF": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "14",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "layout_ME1BU6": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "40px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_F4HG8D": {
+        "mode": "row",
+        "justifyContent": "stretch",
+        "alignItems": "stretch",
+        "alignSelf": "stretch",
+        "gap": "20px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_H685WL": {
+        "mode": "column",
+        "gap": "30px",
+        "padding": "40px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/08": ["#141414"],
+      "layout_DNSL6A": {
+        "mode": "row",
+        "gap": "8px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_3IIV44": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "10px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_C6UEPZ": {
+        "mode": "row",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "10px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_B7RZTE": {
+        "mode": "row",
+        "justifyContent": "space-between",
+        "alignSelf": "stretch",
+        "gap": "1123px",
+        "padding": "16px 0px 0px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_ZXAPGA": {
+        "mode": "row",
+        "gap": "10px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_DD18J3": {
+        "mode": "row",
+        "gap": "10px",
+        "padding": "10px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      }
+    }
+  }
+}

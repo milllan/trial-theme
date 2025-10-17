@@ -1,0 +1,368 @@
+{
+  "id": "60:3200",
+  "name": "Services",
+  "type": "FRAME",
+  "layout": {
+    "mode": "column",
+    "gap": "60px",
+    "padding": "100px 162px",
+    "sizing": {
+      "horizontal": "fixed",
+      "vertical": "hug"
+    },
+    "dimensions": {
+      "width": 1596
+    }
+  },
+  "styles": {
+    "backgroundColor": "#141414"
+  },
+  "children": [
+    {
+      "id": "60:3201",
+      "name": "Header",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "gap": "16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "children": [
+        {
+          "id": "60:3202",
+          "name": "Heading",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "text": "Our Services",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 600,
+            "fontSize": 48,
+            "lineHeight": 1.2,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "color": "#FFFFFF"
+          }
+        },
+        {
+          "id": "60:3203",
+          "name": "Paragraph",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "text": "Comprehensive real estate solutions tailored to meet your unique needs and exceed your expectations.",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 500,
+            "fontSize": 18,
+            "lineHeight": 1.5,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "color": "#999999"
+          }
+        }
+      ]
+    },
+    {
+      "id": "60:3204",
+      "name": "Services Grid",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "justifyContent": "space-between",
+        "alignItems": "stretch",
+        "gap": "30px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "children": [
+        {
+          "id": "60:3205",
+          "name": "Service Card",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "alignItems": "center",
+            "gap": "24px",
+            "padding": "40px 30px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A",
+            "borderColor": "#262626",
+            "borderWidth": "1px",
+            "borderRadius": "16px"
+          },
+          "children": [
+            {
+              "id": "60:3206",
+              "name": "Icon Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "alignItems": "center",
+                "gap": "12px",
+                "padding": "12px",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "styles": {
+                "borderColor": {
+                  "type": "gradient",
+                  "gradient": "linear-gradient(41deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 31%)"
+                },
+                "borderWidth": "2px",
+                "borderRadius": "100px"
+              }
+            },
+            {
+              "id": "60:3207",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Find Your Dream Home",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 20,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "60:3208",
+              "name": "Description",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Personalized property search to find your perfect home match.",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 400,
+                "fontSize": 16,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#999999"
+              }
+            }
+          ]
+        },
+        {
+          "id": "60:3209",
+          "name": "Service Card",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "alignItems": "center",
+            "gap": "24px",
+            "padding": "40px 30px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A",
+            "borderColor": "#262626",
+            "borderWidth": "1px",
+            "borderRadius": "16px"
+          },
+          "children": [
+            {
+              "id": "60:3210",
+              "name": "Icon Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "alignItems": "center",
+                "gap": "12px",
+                "padding": "12px",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "styles": {
+                "borderColor": {
+                  "type": "gradient",
+                  "gradient": "linear-gradient(41deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 31%)"
+                },
+                "borderWidth": "2px",
+                "borderRadius": "100px"
+              }
+            },
+            {
+              "id": "60:3211",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Unlock Property Value",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 20,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "60:3212",
+              "name": "Description",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Expert property valuation and investment analysis services.",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 400,
+                "fontSize": 16,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#999999"
+              }
+            }
+          ]
+        },
+        {
+          "id": "60:3213",
+          "name": "Service Card",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "alignItems": "center",
+            "gap": "24px",
+            "padding": "40px 30px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A",
+            "borderColor": "#262626",
+            "borderWidth": "1px",
+            "borderRadius": "16px"
+          },
+          "children": [
+            {
+              "id": "60:3214",
+              "name": "Icon Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "alignItems": "center",
+                "gap": "12px",
+                "padding": "12px",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "styles": {
+                "borderColor": {
+                  "type": "gradient",
+                  "gradient": "linear-gradient(41deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 31%)"
+                },
+                "borderWidth": "2px",
+                "borderRadius": "100px"
+              }
+            },
+            {
+              "id": "60:3215",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Property Management",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 20,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "60:3216",
+              "name": "Description",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Comprehensive management services for your investment properties.",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 400,
+                "fontSize": 16,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP",
+                "color": "#999999"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

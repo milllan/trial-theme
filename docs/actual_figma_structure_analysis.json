@@ -1,0 +1,278 @@
+{
+  "discoveryAnalysis": {
+    "discoveryDate": "2025-10-14T12:35:00Z",
+    "method": "Direct Figma MCP extraction",
+    "note": "Structure discovered by actually fetching data from Figma servers"
+  },
+  "viewports": {
+    "1440px-laptop": {
+      "fileKey": "OLMfe6b1YphhDFH1qHzPhh",
+      "mainNodeId": "139:6238",
+      "pageName": "Home Page - Laptop",
+      "dimensions": {
+        "width": 1440,
+        "height": 4074
+      },
+      "sections": [
+        {
+          "id": "139:6239",
+          "name": "Header",
+          "type": "FRAME",
+          "isSection": true,
+          "children": [
+            {
+              "id": "139:6240",
+              "name": "Banner",
+              "type": "FRAME",
+              "isSubsection": true
+            },
+            {
+              "id": "139:6306",
+              "name": "Navigation Bar",
+              "type": "FRAME",
+              "isSubsection": true
+            }
+          ]
+        },
+        {
+          "id": "139:6330",
+          "name": "Container",
+          "type": "FRAME",
+          "isSection": true,
+          "containsHero": true,
+          "children": [
+            {
+              "id": "139:6331",
+              "name": "Sub Container",
+              "contains": [
+                {
+                  "id": "139:6332",
+                  "name": "Container",
+                  "type": "FRAME",
+                  "likelyHero": true
+                },
+                {
+                  "id": "139:6386",
+                  "name": "Container",
+                  "type": "FRAME",
+                  "likelyStatistics": true
+                }
+              ]
+            },
+            {
+              "id": "139:6448",
+              "name": "Sub Container",
+              "type": "FRAME",
+              "likelyServices": true,
+              "hasMultipleCards": true
+            }
+          ]
+        },
+        {
+          "id": "139:6487",
+          "name": "Container",
+          "type": "FRAME",
+          "isSection": true,
+          "likelyFeaturedProperties": true
+        },
+        {
+          "id": "139:6688",
+          "name": "Container",
+          "type": "FRAME",
+          "isSection": true,
+          "likelyTestimonials": true
+        },
+        {
+          "id": "139:6819",
+          "name": "Container",
+          "type": "FRAME",
+          "isSection": true,
+          "likelyFAQ": true
+        },
+        {
+          "id": "139:6905",
+          "name": "Container",
+          "type": "FRAME",
+          "isSection": true,
+          "children": [
+            {
+              "id": "181:358",
+              "name": "CTA",
+              "type": "FRAME",
+              "isSubsection": true
+            },
+            {
+              "id": "139:7262",
+              "name": "Footer",
+              "type": "FRAME",
+              "isSubsection": true
+            }
+          ]
+        }
+      ],
+      "totalMainSections": 6,
+      "totalSubsections": 8,
+      "analysis": "1440px laptop version has 6 main sections with some containing multiple subsections"
+    },
+    "390px-mobile": {
+      "fileKey": "OLMfe6b1YphhDFH1qHzPhh",
+      "mainNodeId": "139:7812",
+      "pageName": "Home Page - Mobile",
+      "dimensions": {
+        "width": 390,
+        "height": 4882
+      },
+      "sections": [
+        {
+          "id": "139:7903",
+          "name": "Header",
+          "type": "FRAME",
+          "isSection": true,
+          "children": [
+            {
+              "id": "139:7837",
+              "name": "Banner",
+              "type": "FRAME",
+              "isSubsection": true
+            },
+            {
+              "id": "139:7815",
+              "name": "Navbar",
+              "type": "FRAME",
+              "isSubsection": true
+            }
+          ]
+        },
+        {
+          "id": "139:7904",
+          "name": "Container",
+          "type": "FRAME",
+          "isSection": true,
+          "containsHeroAndStats": true,
+          "children": [
+            {
+              "id": "139:8084",
+              "name": "Sub Container",
+              "contains": [
+                {
+                  "id": "139:8022",
+                  "name": "Container",
+                  "type": "FRAME",
+                  "likelyStatistics": true
+                },
+                {
+                  "id": "139:7905",
+                  "name": "Container",
+                  "type": "FRAME",
+                  "likelyHero": true
+                }
+              ]
+            },
+            {
+              "id": "139:7943",
+              "name": "Buttons Container",
+              "type": "FRAME",
+              "likelyHeroButtons": true
+            },
+            {
+              "id": "139:7948",
+              "name": "Sub Container",
+              "contains": [
+                {
+                  "id": "139:7959",
+                  "name": "Container",
+                  "type": "FRAME",
+                  "unknown": true
+                },
+                {
+                  "id": "139:7955",
+                  "name": "Text Container",
+                  "type": "FRAME",
+                  "likelyStatistics": true
+                }
+              ]
+            },
+            {
+              "id": "139:8120",
+              "name": "Sub Container",
+              "type": "FRAME",
+              "likelyServices": true,
+              "hasMultipleCards": true
+            }
+          ]
+        },
+        {
+          "id": "139:8155",
+          "name": "Container",
+          "type": "FRAME",
+          "isSection": true,
+          "likelyFeaturedProperties": true,
+          "hasCards": true
+        },
+        {
+          "id": "139:8345",
+          "name": "Container",
+          "type": "FRAME",
+          "isSection": true,
+          "likelyTestimonials": true,
+          "hasCards": true
+        },
+        {
+          "id": "139:8517",
+          "name": "Container",
+          "type": "FRAME",
+          "isSection": true,
+          "likelyFAQ": true,
+          "hasCards": true
+        },
+        {
+          "id": "181:1070",
+          "name": "Container",
+          "type": "FRAME",
+          "isSection": true,
+          "children": [
+            {
+              "id": "181:1071",
+              "name": "CTA",
+              "type": "FRAME",
+              "isSubsection": true
+            },
+            {
+              "id": "181:1427",
+              "name": "Footer",
+              "type": "FRAME",
+              "isSubsection": true
+            }
+          ]
+        }
+      ],
+      "totalMainSections": 6,
+      "totalSubsections": 8,
+      "analysis": "390px mobile version has 6 main sections, similar structure to laptop but with different layout organization"
+    }
+  },
+  "summary": {
+    "totalViewports": 2,
+    "workingViewports": ["1440px-laptop", "390px-mobile"],
+    "failedViewports": ["1920px-desktop (FwAE9lXy1YJn1L2Y0L0QXz)"],
+    "structurePatterns": {
+      "commonSections": ["Header", "Hero/Statistics", "Services", "Featured Properties", "Testimonials", "FAQ", "CTA", "Footer"],
+      "sectionNamingPattern": "Generic 'Container' names with functional subsections",
+      "layoutApproach": "Desktop and mobile use similar content structure but different layout organization"
+    },
+    "recommendations": {
+      "extractionStrategy": "Extract each main container plus key subsections individually",
+      "namingConvention": "Use functional names based on content analysis rather than literal Figma names",
+      "prioritizeSections": [
+        "Header (Banner + Navigation)",
+        "Hero Section",
+        "Statistics",
+        "Services",
+        "Featured Properties",
+        "Testimonials",
+        "FAQ",
+        "CTA + Footer"
+      ]
+    }
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "id": "139:8374",
+  "name": "Sub Container",
+  "type": "FRAME",
+  "layout": {
+    "mode": "column",
+    "alignSelf": "stretch",
+    "gap": "30px",
+    "sizing": {
+      "horizontal": "fill",
+      "vertical": "hug"
+    }
+  },
+  "children": [
+    {
+      "id": "139:8421",
+      "name": "Card",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "24px",
+        "padding": "30px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "styles": {
+        "backgroundColor": "#141414",
+        "borderColor": "#262626",
+        "borderWidth": "1px",
+        "borderRadius": "10px"
+      },
+      "children": [
+        {
+          "id": "139:8422",
+          "name": "Container",
+          "type": "IMAGE-SVG",
+          "layout": {
+            "mode": "row",
+            "gap": "8px",
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "hug"
+            }
+          }
+        },
+        {
+          "id": "139:8433",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "alignSelf": "stretch",
+            "gap": "6px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "children": [
+            {
+              "id": "139:8434",
+              "name": "Heading",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Exceptional Service!",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 18,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:8435",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Our experience with Estatein was outstanding. Their team's dedication and professionalism made finding our dream home a breeze. Highly recommended!",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 14,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "id": "139:8436",
+          "name": "Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "alignItems": "center",
+            "alignSelf": "stretch",
+            "gap": "10px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "children": [
+            {
+              "id": "139:8437",
+              "name": "Profile",
+              "type": "ELLIPSE",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fixed",
+                  "vertical": "fixed"
+                },
+                "dimensions": { "width": 50, "height": 50 }
+              },
+              "styles": {
+                "backgroundImage": "url(1dda9e286768bcc08f8c496bce3bb27566805e08)",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+              }
+            },
+            {
+              "id": "139:8438",
+              "name": "Text Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "children": [
+                {
+                  "id": "139:8439",
+                  "name": "Name",
+                  "type": "TEXT",
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "text": "Wade Warren",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 16,
+                    "lineHeight": 1.5,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "color": "#FFFFFF"
+                  }
+                },
+                {
+                  "id": "139:8440",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "text": "USA, California",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 14,
+                    "lineHeight": 1.5,
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP",
+                    "color": "#999999"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "139:8412",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "justifyContent": "space-between",
+        "alignSelf": "stretch",
+        "gap": "1123px",
+        "padding": "16px 0px 0px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "styles": {
+        "borderColor": "#262626",
+        "borderWidth": "1px 0px 0px"
+      },
+      "children": [
+        {
+          "id": "139:8444",
+          "name": "Button",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "alignSelf": "stretch",
+            "gap": "8px",
+            "padding": "14px 20px",
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "fill"
+            }
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A",
+            "borderColor": "#262626",
+            "borderWidth": "1px",
+            "borderRadius": "8px"
+          },
+          "children": [
+            {
+              "id": "139:8445",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "View All Testimonials",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 14,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "id": "139:8414",
+          "name": "Buttons Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "alignItems": "center",
+            "gap": "10px",
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "hug"
+            }
+          },
+          "children": [
+            {
+              "id": "139:8415",
+              "name": "Button",
+              "type": "IMAGE-SVG",
+              "layout": {
+                "mode": "row",
+                "gap": "10px",
+                "padding": "10px",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "styles": {
+                "borderColor": "#262626",
+                "borderWidth": "1px",
+                "borderRadius": "69px"
+              }
+            },
+            {
+              "id": "139:8446",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "01 of 10",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 14,
+                "lineHeight": 1.5,
+                "textAlignHorizontal": "LEFT",
+                "textAlignVertical": "TOP",
+                "color": "#999999"
+              }
+            },
+            {
+              "id": "139:8418",
+              "name": "Button",
+              "type": "IMAGE-SVG",
+              "layout": {
+                "mode": "row",
+                "gap": "10px",
+                "padding": "10px",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "styles": {
+                "backgroundColor": "#1A1A1A",
+                "borderColor": "#262626",
+                "borderWidth": "1px",
+                "borderRadius": "69px"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

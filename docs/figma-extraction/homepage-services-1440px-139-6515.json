@@ -1,0 +1,425 @@
+{
+  "id": "139:6515",
+  "WRONG_SECTION": "This is the wrong section. The correct one is 139:6448.",
+  "name": "Services",
+  "type": "FRAME",
+  "layout": {
+    "mode": "row",
+    "justifyContent": "stretch",
+    "alignItems": "stretch",
+    "alignSelf": "stretch",
+    "gap": "10px",
+    "padding": "10px",
+    "sizing": {
+      "horizontal": "fill",
+      "vertical": "hug"
+    }
+  },
+  "styles": {
+    "backgroundColor": "#141414",
+    "borderColor": "#262626",
+    "borderWidth": "1px",
+    "borderRadius": "0px",
+    "effects": [
+      {
+        "type": "boxShadow",
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "radius": 0,
+        "spread": 6,
+        "color": "rgba(25, 25, 25, 1)"
+      }
+    ]
+  },
+  "children": [
+    {
+      "id": "139:6449",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignItems": "center",
+        "gap": "16px",
+        "padding": "30px 16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "styles": {
+        "backgroundColor": "#1A1A1A",
+        "borderColor": "#262626",
+        "borderWidth": "1px",
+        "borderRadius": "10px"
+      },
+      "children": [
+        {
+          "id": "139:6450",
+          "name": "Icon Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "alignItems": "center",
+            "gap": "10px",
+            "padding": "8px",
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "borderColor": {
+              "type": "gradient",
+              "gradient": "linear-gradient(41deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 31%)",
+              "altGradient": "linear-gradient(219deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 52%)"
+            },
+            "borderWidth": "1px",
+            "borderRadius": "100px"
+          },
+          "children": [
+            {
+              "id": "139:6451",
+              "name": "Container",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "alignItems": "center",
+                "gap": "10px",
+                "padding": "10px",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "styles": {
+                "borderColor": {
+                  "type": "gradient",
+                  "gradient": "linear-gradient(130deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 25%)",
+                  "altGradient": "linear-gradient(-55deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 40%)"
+                },
+                "borderWidth": "1px",
+                "borderRadius": "100px"
+              }
+            }
+          ]
+        },
+        {
+          "id": "139:6454",
+          "name": "Text",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "text": "Find Your Dream Home",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 600,
+            "fontSize": 16,
+            "lineHeight": 1.5,
+            "textAlignHorizontal": "CENTER",
+            "textAlignVertical": "TOP",
+            "color": "#FFFFFF"
+          }
+        },
+        {
+          "id": "139:6455",
+          "name": "Icon",
+          "type": "IMAGE-SVG",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "fixed"
+            },
+            "position": "absolute",
+            "locationRelativeToParent": {
+              "x": 302,
+              "y": 20
+            },
+            "dimensions": {
+              "width": 26,
+              "height": 26
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "139:6457",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "gap": "16px",
+        "padding": "30px 16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "styles": {
+        "backgroundColor": "#1A1A1A",
+        "borderColor": "#262626",
+        "borderWidth": "1px",
+        "borderRadius": "10px"
+      },
+      "children": [
+        {
+          "id": "139:6458",
+          "name": "Icon Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "alignItems": "center",
+            "gap": "10px",
+            "padding": "8px",
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "borderColor": {
+              "type": "gradient",
+              "gradient": "linear-gradient(41deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 31%)",
+              "altGradient": "linear-gradient(219deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 52%)"
+            },
+            "borderWidth": "1px",
+            "borderRadius": "100px"
+          }
+        },
+        {
+          "id": "139:6462",
+          "name": "Text",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "text": "Unlock Property Value",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 600,
+            "fontSize": 16,
+            "lineHeight": 1.5,
+            "textAlignHorizontal": "CENTER",
+            "textAlignVertical": "TOP",
+            "color": "#FFFFFF"
+          }
+        },
+        {
+          "id": "139:6483",
+          "name": "Icon",
+          "type": "IMAGE-SVG",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "fixed"
+            },
+            "position": "absolute",
+            "locationRelativeToParent": {
+              "x": 302.5,
+              "y": 20
+            },
+            "dimensions": {
+              "width": 26,
+              "height": 26
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "139:6465",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignItems": "center",
+        "gap": "16px",
+        "padding": "30px 16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "styles": {
+        "backgroundColor": "#1A1A1A",
+        "borderColor": "#262626",
+        "borderWidth": "1px",
+        "borderRadius": "10px"
+      },
+      "children": [
+        {
+          "id": "139:6466",
+          "name": "Icon Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "alignItems": "center",
+            "gap": "10px",
+            "padding": "8px",
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "borderColor": {
+              "type": "gradient",
+              "gradient": "linear-gradient(41deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 31%)",
+              "altGradient": "linear-gradient(219deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 52%)"
+            },
+            "borderWidth": "1px",
+            "borderRadius": "100px"
+          }
+        },
+        {
+          "id": "139:6470",
+          "name": "Text",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "text": "Effortless Property Management",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 600,
+            "fontSize": 16,
+            "lineHeight": 1.5,
+            "textAlignHorizontal": "CENTER",
+            "textAlignVertical": "TOP",
+            "color": "#FFFFFF"
+          }
+        },
+        {
+          "id": "139:6481",
+          "name": "Icon",
+          "type": "IMAGE-SVG",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "fixed"
+            },
+            "position": "absolute",
+            "locationRelativeToParent": {
+              "x": 302,
+              "y": 20
+            },
+            "dimensions": {
+              "width": 26,
+              "height": 26
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "139:6473",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignItems": "center",
+        "gap": "16px",
+        "padding": "30px 16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "styles": {
+        "backgroundColor": "#1A1A1A",
+        "borderColor": "#262626",
+        "borderWidth": "1px",
+        "borderRadius": "10px"
+      },
+      "children": [
+        {
+          "id": "139:6474",
+          "name": "Icon Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "alignItems": "center",
+            "gap": "10px",
+            "padding": "8px",
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "borderColor": {
+              "type": "gradient",
+              "gradient": "linear-gradient(41deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 31%)",
+              "altGradient": "linear-gradient(219deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 52%)"
+            },
+            "borderWidth": "1px",
+            "borderRadius": "100px"
+          }
+        },
+        {
+          "id": "139:6478",
+          "name": "Text",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "text": "Smart Investments, Informed Decisions",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 600,
+            "fontSize": 16,
+            "lineHeight": 1.5,
+            "textAlignHorizontal": "CENTER",
+            "textAlignVertical": "TOP",
+            "color": "#FFFFFF"
+          }
+        },
+        {
+          "id": "139:6485",
+          "name": "Icon",
+          "type": "IMAGE-SVG",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "fixed"
+            },
+            "position": "absolute",
+            "locationRelativeToParent": {
+              "x": 302.5,
+              "y": 20
+            },
+            "dimensions": {
+              "width": 26,
+              "height": 26
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

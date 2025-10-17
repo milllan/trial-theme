@@ -1,0 +1,682 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:6332",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": "layout_APM5UD",
+      "children": [
+        {
+          "id": "139:6333",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layout": "layout_UHQ8DX",
+          "children": [
+            {
+              "id": "139:6334",
+              "name": "Heading",
+              "type": "TEXT",
+              "layout": "layout_DSF28N",
+              "text": "Discover Your Dream Property with Estatein",
+              "textStyle": "style_AM2ODK",
+              "fills": "Absolute/White"
+            },
+            {
+              "id": "139:6335",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "layout": "layout_DSF28N",
+              "text": "Your journey to finding the perfect property begins here. Explore our listings to find the home that matches your dreams.",
+              "textStyle": "style_FEQ2II",
+              "fills": "Grey/60"
+            },
+            {
+              "id": "139:6336",
+              "name": "Sub Container",
+              "type": "FRAME",
+              "layout": "layout_V09CZ4",
+              "fills": "Grey/08",
+              "strokes": "Grey/15",
+              "strokeWeight": "1.172727346420288px",
+              "borderRadius": "117.2727279663086px",
+              "children": [
+                {
+                  "id": "139:6337",
+                  "name": "Shape",
+                  "type": "RECTANGLE",
+                  "layout": "layout_49RXIN",
+                  "fills": "Grey/10",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1.172727346420288px",
+                  "borderRadius": "65.6727294921875px"
+                },
+                {
+                  "id": "139:6338",
+                  "name": "Icon",
+                  "type": "IMAGE-SVG",
+                  "layout": "layout_5PG2RQ"
+                },
+                {
+                  "id": "139:6340",
+                  "name": "Text Container",
+                  "type": "GROUP",
+                  "layout": "layout_7ZY61E",
+                  "borderRadius": "0px 0px 0px 0px",
+                  "children": [
+                    {
+                      "id": "139:6341",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_1863FZ",
+                      "text": "✨",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6342",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_HRPYYA",
+                      "text": "D",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6343",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_N4C3NT",
+                      "text": "i",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6344",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_6DMTIZ",
+                      "text": "s",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6345",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_Y05NF4",
+                      "text": "c",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6346",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_9GGSLN",
+                      "text": "o",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6347",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_TC0Z3K",
+                      "text": "v",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6348",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_X0HFNT",
+                      "text": "e",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6349",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_40KECP",
+                      "text": "r",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6350",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_CVJX30",
+                      "text": "_",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6351",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_K218WS",
+                      "text": "Y",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6352",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_UTIRJO",
+                      "text": "o",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6353",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_ZEZTVC",
+                      "text": "u",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6354",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_685GU4",
+                      "text": "r",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6355",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_RVM08O",
+                      "text": "_",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6356",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_DPQ89F",
+                      "text": "D",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6357",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_F118J2",
+                      "text": "r",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6358",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_TTJ2YE",
+                      "text": "e",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6359",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_RIPPCM",
+                      "text": "a",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6360",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_XB6238",
+                      "text": "m",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6361",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_5E27N8",
+                      "text": "_",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6362",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_ORC3AF",
+                      "text": "P",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6363",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_T8HN6H",
+                      "text": "r",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6364",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_G6P6YH",
+                      "text": "o",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6365",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_UZ58P9",
+                      "text": "p",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6366",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_16FCA9",
+                      "text": "e",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6367",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_GV8YE2",
+                      "text": "r",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6368",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_QRGZSC",
+                      "text": "t",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6369",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_ZQIEL5",
+                      "text": "y",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:6370",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": "layout_H9PUP1",
+                      "text": "_",
+                      "textStyle": "style_0VIKMP",
+                      "fills": "Absolute/White"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "139:6371",
+          "name": "Buttons Container",
+          "type": "FRAME",
+          "layout": "layout_NKMWGH",
+          "children": [
+            {
+              "id": "139:6372",
+              "name": "Button",
+              "type": "FRAME",
+              "layout": "layout_4VS4YW",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "8px",
+              "children": [
+                {
+                  "id": "139:6373",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_RULQ81",
+                  "text": "Learn More",
+                  "textStyle": "style_TBBYS8",
+                  "fills": "Absolute/White"
+                }
+              ]
+            },
+            {
+              "id": "139:6374",
+              "name": "Button",
+              "type": "FRAME",
+              "layout": "layout_4VS4YW",
+              "fills": "Purple/60",
+              "borderRadius": "8px",
+              "children": [
+                {
+                  "id": "139:6375",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_RULQ81",
+                  "text": "Browse Properties",
+                  "textStyle": "style_TBBYS8",
+                  "fills": "Absolute/White"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "139:6376",
+          "name": "Sub Container",
+          "type": "FRAME",
+          "layout": "layout_XA9V3Y",
+          "children": [
+            {
+              "id": "139:6377",
+              "name": "Text Container",
+              "type": "FRAME",
+              "layout": "layout_OWV3BT",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "10px",
+              "children": [
+                {
+                  "id": "139:6378",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "layout": "layout_DSF28N",
+                  "text": "200+",
+                  "textStyle": "style_732WFK",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:6379",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "layout": "layout_DSF28N",
+                  "text": "Happy Customers",
+                  "textStyle": "style_FEQ2II",
+                  "fills": "Grey/60"
+                }
+              ]
+            },
+            {
+              "id": "139:6380",
+              "name": "Text Container",
+              "type": "FRAME",
+              "layout": "layout_OWV3BT",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "10px",
+              "children": [
+                {
+                  "id": "139:6381",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "layout": "layout_DSF28N",
+                  "text": "10k+",
+                  "textStyle": "style_732WFK",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:6382",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "layout": "layout_DSF28N",
+                  "text": "Properties For Clients",
+                  "textStyle": "style_FEQ2II",
+                  "fills": "Grey/60"
+                }
+              ]
+            },
+            {
+              "id": "139:6383",
+              "name": "Text Container",
+              "type": "FRAME",
+              "layout": "layout_OWV3BT",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "10px",
+              "children": [
+                {
+                  "id": "139:6384",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "layout": "layout_DSF28N",
+                  "text": "16+",
+                  "textStyle": "style_732WFK",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:6385",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "layout": "layout_DSF28N",
+                  "text": "Years of Experience",
+                  "textStyle": "style_FEQ2II",
+                  "fills": "Grey/60"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_APM5UD": {
+        "mode": "column",
+        "justifyContent": "center",
+        "alignSelf": "stretch",
+        "gap": "50px",
+        "padding": "0px 0px 0px 80px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "fill"
+        }
+      },
+      "layout_UHQ8DX": {
+        "mode": "column",
+        "alignItems": "flex-end",
+        "alignSelf": "stretch",
+        "gap": "20px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_DSF28N": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_AM2ODK": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontSize": "46",
+        "lineHeight": "1.2000000165856404em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "style_FEQ2II": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "16",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Grey/60": ["#999999"],
+      "layout_V09CZ4": {
+        "mode": "row",
+        "gap": "11.727272987365723px",
+        "padding": "35.18181610107422px",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "605",
+          "y": "-3"
+        },
+        "dimensions": {
+          "width": "129",
+          "height": "129"
+        }
+      },
+      "Grey/08": ["#141414"],
+      "Grey/15": ["#262626"],
+      "layout_49RXIN": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": "58.64",
+          "height": "58.64"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "layout_5PG2RQ": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "53",
+          "y": "52"
+        },
+        "dimensions": {
+          "width": "24",
+          "height": "24"
+        }
+      },
+      "layout_7ZY61E": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "11.72",
+          "y": "11.72"
+        },
+        "dimensions": {
+          "width": "105.99",
+          "height": "105.92"
+        }
+      },
+      "style_0VIKMP": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontSize": "11.062748908996582",
+        "lineHeight": "1.2000000344823634em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "layout_NKMWGH": {
+        "mode": "row",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_4VS4YW": {
+        "mode": "row",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "gap": "8px",
+        "padding": "14px 20px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_RULQ81": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "style_TBBYS8": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "14",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Purple/60": ["#703BF7"],
+      "layout_XA9V3Y": {
+        "mode": "row",
+        "justifyContent": "stretch",
+        "alignItems": "stretch",
+        "alignSelf": "stretch",
+        "gap": "16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_OWV3BT": {
+        "mode": "column",
+        "gap": "2px",
+        "padding": "14px 20px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_732WFK": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "700",
+        "fontSize": "30",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      }
+    }
+  }
+}

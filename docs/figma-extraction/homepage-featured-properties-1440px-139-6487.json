@@ -1,0 +1,241 @@
+{
+  "componentName": "FeaturedProperties",
+  "viewport": "1440px",
+  "nodeId": "139:6487",
+  "width": 1280,
+  "height": 824,
+  "backgroundColor": "transparent",
+  "padding": { "horizontal": "80px", "vertical": "0px" },
+  "elements": [
+    {
+      "type": "header",
+      "name": "Section Header",
+      "nodeId": "139:6488",
+      "elements": [
+        {
+          "type": "text-container",
+          "name": "Title and Description",
+          "nodeId": "139:6489",
+          "width": 975,
+          "height": 115,
+          "elements": [
+            {
+              "type": "heading",
+              "name": "Section Title",
+              "nodeId": "139:6490",
+              "content": "Featured Properties",
+              "fontSize": "38px",
+              "fontFamily": "Urbanist",
+              "fontWeight": "600",
+              "lineHeight": "1.5",
+              "color": "#FFFFFF"
+            },
+            {
+              "type": "paragraph",
+              "name": "Section Description",
+              "nodeId": "139:6491",
+              "content": "Explore our handpicked selection of featured properties. Each listing offers a glimpse into exceptional homes and investments available through Estatein. Click \"View Details\" for more information.",
+              "fontSize": "16px",
+              "fontFamily": "Urbanist",
+              "fontWeight": "500",
+              "lineHeight": "1.5",
+              "color": "#999999"
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "name": "View All Properties Button",
+          "nodeId": "139:6514",
+          "content": "View All Properties",
+          "width": 155,
+          "height": 49,
+          "backgroundColor": "#1a1a1a",
+          "border": "1px neutral-800",
+          "borderRadius": "8px",
+          "padding": { "horizontal": "20px", "vertical": "14px" },
+          "fontSize": "14px",
+          "color": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "type": "properties-grid",
+      "name": "Properties Container",
+      "nodeId": "139:6516",
+      "elements": [
+        {
+          "type": "properties-list",
+          "name": "Properties Cards",
+          "nodeId": "139:6517",
+          "gap": "20px",
+          "properties": [
+            {
+              "type": "property-card",
+              "name": "Seaside Serenity Villa",
+              "nodeId": "139:6518",
+              "width": 413.33,
+              "height": 549,
+              "backgroundColor": "#141414",
+              "border": "1px neutral-800",
+              "borderRadius": "12px",
+              "image": {
+                "src": "http://localhost:3845/assets/597f545bcb329f29999c8c335bec608731f34db8.png",
+                "width": 353.33,
+                "height": 255,
+                "borderRadius": "10px"
+              },
+              "title": "Seaside Serenity Villa",
+              "description": "A stunning 4-bedroom, 3-bathroom villa in a peaceful suburban neighborhood...",
+              "tags": [
+                {
+                  "name": "4-Bedroom",
+                  "icon": "http://localhost:3845/assets/2e851c982c4efa29d8488139c3779ab6fdb3220e.svg"
+                },
+                {
+                  "name": "3-Bathroom",
+                  "icon": "http://localhost:3845/assets/cb953898895bdf9a7d27fe61c024d36ab91fb22a.svg"
+                },
+                {
+                  "name": "Villa",
+                  "icon": "http://localhost:3845/assets/e35cffda62971ad80fc65ec24873fd9c0c4070be.svg"
+                }
+              ],
+              "price": "$550,000",
+              "buttonText": "View Property Details"
+            },
+            {
+              "type": "property-card",
+              "name": "Metropolitan Haven",
+              "nodeId": "139:6555",
+              "width": 413.33,
+              "height": 549,
+              "backgroundColor": "#141414",
+              "border": "1px neutral-800",
+              "borderRadius": "12px",
+              "image": {
+                "src": "http://localhost:3845/assets/a2b4e0260c692d688fb8fd238642558f0aee6697.png",
+                "width": 353.33,
+                "height": 255,
+                "borderRadius": "10px"
+              },
+              "title": "Metropolitan Haven",
+              "description": "A chic and fully-furnished 2-bedroom apartment with panoramic city views...",
+              "tags": [
+                {
+                  "name": "2-Bedroom",
+                  "icon": "http://localhost:3845/assets/2e851c982c4efa29d8488139c3779ab6fdb3220e.svg"
+                },
+                {
+                  "name": "2-Bathroom",
+                  "icon": "http://localhost:3845/assets/cb953898895bdf9a7d27fe61c024d36ab91fb22a.svg"
+                },
+                {
+                  "name": "Villa",
+                  "icon": "http://localhost:3845/assets/e35cffda62971ad80fc65ec24873fd9c0c4070be.svg"
+                }
+              ],
+              "price": "$550,000",
+              "buttonText": "View Property Details"
+            },
+            {
+              "type": "property-card",
+              "name": "Rustic Retreat Cottage",
+              "nodeId": "139:6592",
+              "width": 413.33,
+              "height": 549,
+              "backgroundColor": "#141414",
+              "border": "1px neutral-800",
+              "borderRadius": "12px",
+              "image": {
+                "src": "http://localhost:3845/assets/788f8cf7af7e05c7ae4a90ebd4dcf750b626e1f4.png",
+                "width": 353.33,
+                "height": 255,
+                "borderRadius": "10px"
+              },
+              "title": "Rustic Retreat Cottage",
+              "description": "An elegant 3-bedroom, 2.5-bathroom townhouse in a gated community...",
+              "tags": [
+                {
+                  "name": "3-Bedroom",
+                  "icon": "http://localhost:3845/assets/2e851c982c4efa29d8488139c3779ab6fdb3220e.svg"
+                },
+                {
+                  "name": "3-Bathroom",
+                  "icon": "http://localhost:3845/assets/cb953898895bdf9a7d27fe61c024d36ab91fb22a.svg"
+                },
+                {
+                  "name": "Villa",
+                  "icon": "http://localhost:3845/assets/e35cffda62971ad80fc65ec24873fd9c0c4070be.svg"
+                }
+              ],
+              "price": "$550,000",
+              "buttonText": "View Property Details"
+            }
+          ]
+        },
+        {
+          "type": "pagination",
+          "name": "Pagination Controls",
+          "nodeId": "139:6629",
+          "elements": [
+            {
+              "type": "page-indicator",
+              "name": "Page Info",
+              "nodeId": "139:6630",
+              "content": "01 of 60",
+              "fontSize": "16px",
+              "fontFamily": "Urbanist",
+              "fontWeight": "500",
+              "color": "#999999"
+            },
+            {
+              "type": "navigation-buttons",
+              "name": "Previous/Next Buttons",
+              "nodeId": "139:6631",
+              "buttons": [
+                {
+                  "type": "button-outline",
+                  "name": "Previous",
+                  "nodeId": "139:6632",
+                  "icon": "http://localhost:3845/assets/51c45c8621a1dda3ecd1fbc215ebade7835cc5ea.svg",
+                  "backgroundColor": "transparent",
+                  "border": "1px neutral-800",
+                  "borderRadius": "69px",
+                  "size": 44
+                },
+                {
+                  "type": "button-solid",
+                  "name": "Next",
+                  "nodeId": "139:6635",
+                  "icon": "http://localhost:3845/assets/57c46c86102b4f9ec38ba52040301b88d39735b6.svg",
+                  "backgroundColor": "#1a1a1a",
+                  "border": "1px neutral-800",
+                  "borderRadius": "69px",
+                  "size": 44
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "60px",
+    "alignItems": "flex-start"
+  },
+  "responsive": {
+    "breakpoint": "1440px",
+    "scaling": {
+      "headingSize": "38px",
+      "textSize": "16px",
+      "cardGap": "20px",
+      "cardBorderRadius": "12px",
+      "buttonBorderRadius": "8px",
+      "tagBorderRadius": "28px"
+    }
+  }
+}

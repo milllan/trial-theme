@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:7959",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": "layout_YXEFRG",
+      "children": [
+        {
+          "id": "139:7949",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layout": "layout_QNQYJ3",
+          "fills": "Grey/10",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px",
+          "borderRadius": "8px",
+          "children": [
+            {
+              "id": "139:7950",
+              "name": "Heading",
+              "type": "TEXT",
+              "layout": "layout_RTJE8N",
+              "text": "200+",
+              "textStyle": "style_P9TJN3",
+              "fills": "Absolute/White"
+            },
+            {
+              "id": "139:7951",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "layout": "layout_RTJE8N",
+              "text": "Happy Customers",
+              "textStyle": "style_C4FIM8",
+              "fills": "Grey/60"
+            }
+          ]
+        },
+        {
+          "id": "139:7952",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layout": "layout_QNQYJ3",
+          "fills": "Grey/10",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px",
+          "borderRadius": "8px",
+          "children": [
+            {
+              "id": "139:7953",
+              "name": "Heading",
+              "type": "TEXT",
+              "layout": "layout_RTJE8N",
+              "text": "10k+",
+              "textStyle": "style_P9TJN3",
+              "fills": "Absolute/White"
+            },
+            {
+              "id": "139:7954",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "layout": "layout_RTJE8N",
+              "text": "Properties For Clients",
+              "textStyle": "style_C4FIM8",
+              "fills": "Grey/60"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_YXEFRG": {
+        "mode": "row",
+        "justifyContent": "stretch",
+        "alignItems": "stretch",
+        "alignSelf": "stretch",
+        "gap": "12px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_QNQYJ3": {
+        "mode": "column",
+        "alignItems": "center",
+        "gap": "2px",
+        "padding": "16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "Grey/15": ["#262626"],
+      "layout_RTJE8N": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_P9TJN3": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "700",
+        "fontSize": "24",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "style_C4FIM8": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "14",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "Grey/60": ["#999999"]
+    }
+  }
+}

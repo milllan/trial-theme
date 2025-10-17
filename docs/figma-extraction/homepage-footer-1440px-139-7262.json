@@ -1,0 +1,99 @@
+{
+  "componentName": "Footer",
+  "viewport": "1440px",
+  "nodeId": "139:7262",
+  "width": 1441,
+  "height": 460,
+  "backgroundColor": "#1a1a1a",
+  "elements": [
+    {
+      "type": "footer-main",
+      "name": "Main Footer Content",
+      "nodeId": "139:7263",
+      "elements": [
+        {
+          "type": "logo-section",
+          "name": "Logo and Newsletter",
+          "nodeId": "139:7264",
+          "logo": {
+            "symbol": "http://localhost:3845/assets/fad212c00a28ad3446937aff0b073f9f085b2444.svg",
+            "text": "http://localhost:3845/assets/c3a1c2c82b36a1e2794219432fdf0c422f5dcf54.svg"
+          },
+          "newsletter": {
+            "placeholder": "Enter your email address",
+            "buttonIcon": "http://localhost:3845/assets/abb729c562848853e30a17440ecf654904f5d918.svg"
+          }
+        },
+        {
+          "type": "footer-links",
+          "name": "Footer Navigation",
+          "nodeId": "139:7289",
+          "columns": [
+            {
+              "title": "Home",
+              "links": ["Home", "About Us", "Properties", "Services", "Contact Us"]
+            },
+            {
+              "title": "About Us",
+              "links": ["Our Story", "Our Team", "Our Mission", "Our Values", "Contact Us"]
+            },
+            {
+              "title": "Properties",
+              "links": ["Residential", "Commercial", "Land", "Investment Properties"]
+            },
+            {
+              "title": "Services",
+              "links": ["Property Management", "Real Estate Consulting", "Property Valuation", "Market Analysis", "Investment Advisory"]
+            },
+            {
+              "title": "Contact Us",
+              "links": ["Contact Form", "Office Locations", "Phone Numbers", "Email Addresses"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "footer-bottom",
+      "name": "Bottom Footer",
+      "nodeId": "139:7324",
+      "elements": [
+        {
+          "type": "copyright",
+          "name": "Copyright and Links",
+          "nodeId": "139:7325",
+          "copyright": "© 2024 Estatein. All rights reserved.",
+          "links": ["Privacy Policy", "Terms of Service"]
+        },
+        {
+          "type": "social-icons",
+          "name": "Social Media Icons",
+          "nodeId": "139:7328",
+          "icons": [
+            "https://facebook.com",
+            "https://twitter.com",
+            "https://instagram.com",
+            "https://linkedin.com"
+          ]
+        }
+      ]
+    }
+  ],
+  "layout": {
+    "display": "flex",
+    "flexDirection": "column",
+    "mainSectionPadding": { "horizontal": "80px", "vertical": "80px" },
+    "bottomSectionPadding": { "horizontal": "80px", "vertical": "12px" },
+    "borderTop": "1px solid rgba(255,255,255,0.1)"
+  },
+  "responsive": {
+    "breakpoint": "1440px",
+    "scaling": {
+      "logoWidth": "113px",
+      "logoHeight": "34px",
+      "textSize": "14px",
+      "linkGap": "40px",
+      "columnGap": "150px"
+    }
+  }
+}

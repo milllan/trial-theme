@@ -1,0 +1,820 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:7905",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": "layout_R96653",
+      "children": [
+        {
+          "id": "139:7908",
+          "name": "Sub Container",
+          "type": "FRAME",
+          "layout": "layout_TQ9ZZ6",
+          "fills": "Grey/08",
+          "strokes": "Grey/15",
+          "strokeWeight": "1.0636364221572876px",
+          "borderRadius": "106.36363983154297px",
+          "children": [
+            {
+              "id": "139:7909",
+              "name": "Shape",
+              "type": "RECTANGLE",
+              "layout": "layout_BHLJAD",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1.0636364221572876px",
+              "borderRadius": "59.563636779785156px"
+            },
+            {
+              "id": "139:7910",
+              "name": "Icon",
+              "type": "IMAGE-SVG",
+              "layout": "layout_0YM94Z"
+            },
+            {
+              "id": "139:7912",
+              "name": "Text Container",
+              "type": "GROUP",
+              "layout": "layout_P7Z47Z",
+              "borderRadius": "0px 0px 0px 0px",
+              "children": [
+                {
+                  "id": "139:7913",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_D1WPIW",
+                  "text": "✨",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7914",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_6C5Q57",
+                  "text": "D",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7915",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_XC70BM",
+                  "text": "i",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7916",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_KA9EG4",
+                  "text": "s",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7917",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_9UVBVO",
+                  "text": "c",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7918",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_XIMLBL",
+                  "text": "o",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7919",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_ZFOR5L",
+                  "text": "v",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7920",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_9PBRPS",
+                  "text": "e",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7921",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_KIDXW2",
+                  "text": "r",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7922",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_H2T2JN",
+                  "text": "_",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7923",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_25OG9D",
+                  "text": "Y",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7924",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_KNQDQR",
+                  "text": "o",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7925",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_77QMQ7",
+                  "text": "u",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7926",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_VSKNS4",
+                  "text": "r",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7927",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_9V0RI1",
+                  "text": "_",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7928",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_UIOB7Y",
+                  "text": "D",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7929",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_JQEJ20",
+                  "text": "r",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7930",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_9U9J7V",
+                  "text": "e",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7931",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_QN1P84",
+                  "text": "a",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7932",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_L7JJ1K",
+                  "text": "m",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7933",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_2I72JI",
+                  "text": "_",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7934",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_991KYY",
+                  "text": "P",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7935",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_MVU4HI",
+                  "text": "r",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7936",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_404U3A",
+                  "text": "o",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7937",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_LZ4YED",
+                  "text": "p",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7938",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_1LMU2M",
+                  "text": "e",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7939",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_Z8ZIN8",
+                  "text": "r",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7940",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_F8O8FF",
+                  "text": "t",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7941",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_TSSEDI",
+                  "text": "y",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:7942",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_K5MR75",
+                  "text": "_",
+                  "textStyle": "style_434JYU",
+                  "fills": "Absolute/White"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "139:7906",
+          "name": "Heading",
+          "type": "TEXT",
+          "layout": "layout_A3PKB3",
+          "text": "Discover Your Dream Property with Estatein",
+          "textStyle": "style_7UVXF1",
+          "fills": "Absolute/White"
+        },
+        {
+          "id": "139:7907",
+          "name": "Paragraph",
+          "type": "TEXT",
+          "layout": "layout_A3PKB3",
+          "text": "Your journey to finding the perfect property begins here. Explore our listings to find the home that matches your dreams.",
+          "textStyle": "style_ZPBJEG",
+          "fills": "Grey/60"
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_R96653": {
+        "mode": "column",
+        "justifyContent": "center",
+        "alignSelf": "stretch",
+        "gap": "16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_TQ9ZZ6": {
+        "mode": "row",
+        "gap": "10.636363983154297px",
+        "padding": "31.909090042114258px",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": "117",
+          "height": "117"
+        }
+      },
+      "Grey/08": ["#141414"],
+      "Grey/15": ["#262626"],
+      "layout_BHLJAD": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": "53.18",
+          "height": "53.18"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "layout_0YM94Z": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "48.07",
+          "y": "47.16"
+        },
+        "dimensions": {
+          "width": "21.77",
+          "height": "21.77"
+        }
+      },
+      "layout_3BZ7C7": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "4.08",
+          "y": "4.08"
+        },
+        "dimensions": {
+          "width": "13.6",
+          "height": "13.6"
+        }
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "layout_P7Z47Z": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "10.64",
+          "y": "10.65"
+        },
+        "dimensions": {
+          "width": "96.12",
+          "height": "96.05"
+        }
+      },
+      "layout_D1WPIW": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "47.16",
+          "y": "83.44"
+        },
+        "dimensions": {
+          "width": "12.28",
+          "height": "11.43"
+        }
+      },
+      "style_434JYU": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontSize": "10.033656120300293",
+        "lineHeight": "1.2000000760380307em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "layout_6C5Q57": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "37.49",
+          "y": "83.13"
+        },
+        "dimensions": {
+          "width": "8.72",
+          "height": "12.91"
+        }
+      },
+      "layout_XC70BM": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "30.18",
+          "y": "81.34"
+        },
+        "dimensions": {
+          "width": "6.85",
+          "height": "12.31"
+        }
+      },
+      "layout_KA9EG4": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "22.7",
+          "y": "78.37"
+        },
+        "dimensions": {
+          "width": "10.12",
+          "height": "12.93"
+        }
+      },
+      "layout_9UVBVO": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "14.82",
+          "y": "73.64"
+        },
+        "dimensions": {
+          "width": "12.29",
+          "height": "13.06"
+        }
+      },
+      "layout_XIMLBL": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "8.22",
+          "y": "67.69"
+        },
+        "dimensions": {
+          "width": "13.17",
+          "height": "12.08"
+        }
+      },
+      "layout_ZFOR5L": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "3.19",
+          "y": "60.38"
+        },
+        "dimensions": {
+          "width": "13.41",
+          "height": "10.52"
+        }
+      },
+      "layout_9PBRPS": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "0.53",
+          "y": "52.97"
+        },
+        "dimensions": {
+          "width": "13.01",
+          "height": "8.45"
+        }
+      },
+      "layout_KIDXW2": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "-0.0",
+          "y": "46.72"
+        },
+        "dimensions": {
+          "width": "12.08",
+          "height": "4.24"
+        }
+      },
+      "layout_H2T2JN": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "0.28",
+          "y": "39.97"
+        },
+        "dimensions": {
+          "width": "12.3",
+          "height": "4.59"
+        }
+      },
+      "layout_25OG9D": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "1.49",
+          "y": "29.19"
+        },
+        "dimensions": {
+          "width": "13.61",
+          "height": "10.48"
+        }
+      },
+      "layout_KNQDQR": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "5.73",
+          "y": "20.07"
+        },
+        "dimensions": {
+          "width": "13.35",
+          "height": "11.46"
+        }
+      },
+      "layout_77QMQ7": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "11.91",
+          "y": "12.04"
+        },
+        "dimensions": {
+          "width": "12.76",
+          "height": "12.7"
+        }
+      },
+      "layout_VSKNS4": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "19.28",
+          "y": "7.3"
+        },
+        "dimensions": {
+          "width": "10.08",
+          "height": "12.16"
+        }
+      },
+      "layout_9V0RI1": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "26.09",
+          "y": "4.03"
+        },
+        "dimensions": {
+          "width": "7.88",
+          "height": "12.12"
+        }
+      },
+      "layout_UIOB7Y": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "32.76",
+          "y": "0.68"
+        },
+        "dimensions": {
+          "width": "9.73",
+          "height": "13.35"
+        }
+      },
+      "layout_JQEJ20": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "44.39",
+          "y": "-0.0"
+        },
+        "dimensions": {
+          "width": "4.42",
+          "height": "12.13"
+        }
+      },
+      "layout_9U9J7V": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "50.84",
+          "y": "0.18"
+        },
+        "dimensions": {
+          "width": "7.86",
+          "height": "12.81"
+        }
+      },
+      "layout_QN1P84": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "58.85",
+          "y": "2.46"
+        },
+        "dimensions": {
+          "width": "10.1",
+          "height": "13.38"
+        }
+      },
+      "layout_L7JJ1K": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "66.29",
+          "y": "7.14"
+        },
+        "dimensions": {
+          "width": "14.43",
+          "height": "15"
+        }
+      },
+      "layout_2I72JI": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "74.64",
+          "y": "16.02"
+        },
+        "dimensions": {
+          "width": "11.1",
+          "height": "10.03"
+        }
+      },
+      "layout_991KYY": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "77.8",
+          "y": "21.6"
+        },
+        "dimensions": {
+          "width": "13.39",
+          "height": "11.2"
+        }
+      },
+      "layout_MVU4HI": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "81.41",
+          "y": "30.49"
+        },
+        "dimensions": {
+          "width": "12.65",
+          "height": "7.71"
+        }
+      },
+      "layout_404U3A": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "83.29",
+          "y": "38.53"
+        },
+        "dimensions": {
+          "width": "12.7",
+          "height": "7.57"
+        }
+      },
+      "layout_LZ4YED": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "83.53",
+          "y": "48.26"
+        },
+        "dimensions": {
+          "width": "12.59",
+          "height": "8.06"
+        }
+      },
+      "layout_1LMU2M": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "81.32",
+          "y": "56.36"
+        },
+        "dimensions": {
+          "width": "13.27",
+          "height": "9.44"
+        }
+      },
+      "layout_Z8ZIN8": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "78.36",
+          "y": "64.08"
+        },
+        "dimensions": {
+          "width": "12.41",
+          "height": "9.39"
+        }
+      },
+      "layout_F8O8FF": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "74.62",
+          "y": "69.3"
+        },
+        "dimensions": {
+          "width": "11.82",
+          "height": "10.69"
+        }
+      },
+      "layout_TSSEDI": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "68.62",
+          "y": "73.91"
+        },
+        "dimensions": {
+          "width": "12.29",
+          "height": "13.06"
+        }
+      },
+      "layout_K5MR75": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "64.47",
+          "y": "78.63"
+        },
+        "dimensions": {
+          "width": "8.55",
+          "height": "11.91"
+        }
+      },
+      "layout_A3PKB3": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_7UVXF1": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontSize": "28",
+        "lineHeight": "1.2000000817435128em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "style_ZPBJEG": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "14",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Grey/60": ["#999999"]
+    }
+  }
+}

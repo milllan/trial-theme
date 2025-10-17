@@ -1,0 +1,119 @@
+{
+  "id": "181:2",
+  "name": "CTA",
+  "type": "FRAME",
+  "layout": {
+    "mode": "row",
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "gap": "250px",
+    "padding": "100px 162px"
+  },
+  "styles": {
+    "borderColor": "#262626",
+    "borderWidth": "1px 0px"
+  },
+  "children": [
+    {
+      "id": "181:3",
+      "name": "Abstract Design",
+      "type": "IMAGE-SVG",
+      "layout": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "location": { "x": 1287, "y": 36 },
+        "dimensions": { "width": 725, "height": 394 }
+      },
+      "fills": ["#FFFFFF"]
+    },
+    {
+      "id": "181:178",
+      "name": "Abstract Design",
+      "type": "IMAGE-SVG",
+      "layout": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "location": { "x": -20, "y": 59 },
+        "dimensions": { "width": 566, "height": 308 }
+      },
+      "fills": ["#FFFFFF"]
+    },
+    {
+      "id": "181:353",
+      "name": "Text Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "gap": "14px"
+      },
+      "children": [
+        {
+          "id": "181:354",
+          "name": "Heading",
+          "type": "TEXT",
+          "text": "Start Your Real Estate Journey Today",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 600,
+            "fontSize": 48,
+            "lineHeight": 1.5,
+            "textAlign": "left",
+            "color": "#FFFFFF"
+          }
+        },
+        {
+          "id": "181:355",
+          "name": "Paragraph",
+          "type": "TEXT",
+          "text": "Your dream property is just a click away. Whether you're looking for a new home, a strategic investment, or expert real estate advice, Estatein is here to assist you every step of the way. Take the first step towards your real estate goals and explore our available properties or get in touch with our team for personalized assistance.",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 500,
+            "fontSize": 18,
+            "lineHeight": 1.5,
+            "textAlign": "left",
+            "color": "#999999"
+          }
+        }
+      ]
+    },
+    {
+      "id": "181:356",
+      "name": "Button",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "8px",
+        "padding": "18px 24px"
+      },
+      "styles": {
+        "backgroundColor": "#703BF7",
+        "borderRadius": "10px"
+      },
+      "children": [
+        {
+          "id": "181:357",
+          "name": "Text",
+          "type": "TEXT",
+          "text": "Explore Properties",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 500,
+            "fontSize": 18,
+            "lineHeight": 1.5,
+            "color": "#FFFFFF"
+          }
+        }
+      ]
+    }
+  ]
+}

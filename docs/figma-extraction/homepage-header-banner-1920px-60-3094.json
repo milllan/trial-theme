@@ -1,0 +1,72 @@
+{
+  "id": "60:3094",
+  "name": "Banner",
+  "type": "FRAME",
+  "layout": {
+    "mode": "row",
+    "justifyContent": "center",
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "gap": "10px",
+    "padding": "18px 160px",
+    "sizing": {
+      "horizontal": "fill",
+      "vertical": "hug"
+    }
+  },
+  "styles": {
+    "backgroundColor": "#1A1A1A",
+    "borderColor": "#262626",
+    "borderWidth": "0px 0px 1px"
+  },
+  "children": [
+    {
+      "id": "89:3785",
+      "name": "Abstract Design",
+      "type": "IMAGE-SVG",
+      "position": "absolute",
+      "location": { "x": 0, "y": -610 },
+      "dimensions": { "width": 1920, "height": 1282 },
+      "fills": ["#FFFFFF"]
+    },
+    {
+      "id": "60:3084",
+      "name": "Text",
+      "type": "TEXT",
+      "text": "✨Discover Your Dream Property with Estatein",
+      "styles": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 500,
+        "fontSize": 18,
+        "lineHeight": 1.5,
+        "textAlign": "center",
+        "color": "#FFFFFF"
+      }
+    },
+    {
+      "id": "60:3085",
+      "name": "Text Button",
+      "type": "TEXT",
+      "text": "Learn More",
+      "styles": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 500,
+        "fontSize": 18,
+        "lineHeight": 1.5,
+        "textAlign": "center",
+        "color": "#FFFFFF"
+      }
+    },
+    {
+      "id": "60:3099",
+      "name": "Button",
+      "type": "IMAGE-SVG",
+      "position": "absolute",
+      "location": { "x": 1856, "y": 15 },
+      "styles": {
+        "backgroundColor": "rgba(255, 255, 255, 0.1)",
+        "borderRadius": "75px"
+      }
+    }
+  ]
+}

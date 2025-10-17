@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:8120",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layout": "layout_RB1I8U",
+      "fills": "Grey/08",
+      "strokes": "Grey/15",
+      "strokeWeight": "1px",
+      "effects": "effect_164QZZ",
+      "borderRadius": "12px",
+      "children": [
+        {
+          "id": "139:8121",
+          "name": "Container",
+          "type": "FRAME",
+          "layout": "layout_0FLMR1",
+          "children": [
+            {
+              "id": "139:8122",
+              "name": "Card",
+              "type": "FRAME",
+              "layout": "layout_UTTDSF",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "10px",
+              "children": [
+                {
+                  "id": "139:8123",
+                  "name": "Icon Container",
+                  "type": "FRAME",
+                  "layout": "layout_GQYQ3X",
+                  "strokes": "stroke_DGL5GW",
+                  "borderRadius": "100px",
+                  "children": [
+                    {
+                      "id": "139:8124",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_2VEMQL",
+                      "strokes": "stroke_0Y49JC",
+                      "borderRadius": "100px"
+                    }
+                  ]
+                },
+                {
+                  "id": "139:8127",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_PZ2N9K",
+                  "text": "Find Your Dream Home",
+                  "textStyle": "style_FNFMS5",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:8128",
+                  "name": "Icon",
+                  "type": "IMAGE-SVG",
+                  "layout": "layout_NR53CG"
+                }
+              ]
+            },
+            {
+              "id": "139:8130",
+              "name": "Card",
+              "type": "FRAME",
+              "layout": "layout_1L4PY8",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "10px",
+              "children": [
+                {
+                  "id": "139:8131",
+                  "name": "Icon Container",
+                  "type": "FRAME",
+                  "layout": "layout_GQYQ3X",
+                  "strokes": "stroke_DGL5GW",
+                  "borderRadius": "100px",
+                  "children": [
+                    {
+                      "id": "139:8132",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_2VEMQL",
+                      "strokes": "stroke_0Y49JC",
+                      "borderRadius": "100px"
+                    }
+                  ]
+                },
+                {
+                  "id": "139:8135",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_PZ2N9K",
+                  "text": "Unlock Property Value",
+                  "textStyle": "style_FNFMS5",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:8136",
+                  "name": "Icon",
+                  "type": "IMAGE-SVG",
+                  "layout": "layout_M3LZC4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "139:8138",
+          "name": "Container",
+          "type": "FRAME",
+          "layout": "layout_0FLMR1",
+          "children": [
+            {
+              "id": "139:8139",
+              "name": "Card",
+              "type": "FRAME",
+              "layout": "layout_UTTDSF",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "10px",
+              "children": [
+                {
+                  "id": "139:8140",
+                  "name": "Icon Container",
+                  "type": "FRAME",
+                  "layout": "layout_GQYQ3X",
+                  "strokes": "stroke_DGL5GW",
+                  "borderRadius": "100px",
+                  "children": [
+                    {
+                      "id": "139:8141",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_2VEMQL",
+                      "strokes": "stroke_0Y49JC",
+                      "borderRadius": "100px"
+                    }
+                  ]
+                },
+                {
+                  "id": "139:8144",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_PZ2N9K",
+                  "text": "Effortless Property Management",
+                  "textStyle": "style_FNFMS5",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:8145",
+                  "name": "Icon",
+                  "type": "IMAGE-SVG",
+                  "layout": "layout_NR53CG"
+                }
+              ]
+            },
+            {
+              "id": "139:8147",
+              "name": "Card",
+              "type": "FRAME",
+              "layout": "layout_UTTDSF",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "10px",
+              "children": [
+                {
+                  "id": "139:8148",
+                  "name": "Icon Container",
+                  "type": "FRAME",
+                  "layout": "layout_GQYQ3X",
+                  "strokes": "stroke_DGL5GW",
+                  "borderRadius": "100px",
+                  "children": [
+                    {
+                      "id": "139:8149",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_2VEMQL",
+                      "strokes": "stroke_0Y49JC",
+                      "borderRadius": "100px"
+                    }
+                  ]
+                },
+                {
+                  "id": "139:8152",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_PZ2N9K",
+                  "text": "Smart Investments, Informed Decisions",
+                  "textStyle": "style_FNFMS5",
+                  "fills": "Absolute/White"
+                },
+                {
+                  "id": "139:8153",
+                  "name": "Icon",
+                  "type": "IMAGE-SVG",
+                  "layout": "layout_M3LZC4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_RB1I8U": {
+        "mode": "column",
+        "justifyContent": "center",
+        "alignSelf": "stretch",
+        "gap": "10px",
+        "padding": "10px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/08": ["#141414"],
+      "Grey/15": ["#262626"],
+      "effect_164QZZ": {
+        "boxShadow": "0px 0px 0px 4px rgba(25, 25, 25, 1)"
+      },
+      "layout_0FLMR1": {
+        "mode": "row",
+        "justifyContent": "stretch",
+        "alignItems": "stretch",
+        "alignSelf": "stretch",
+        "gap": "10px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_UTTDSF": {
+        "mode": "column",
+        "alignItems": "center",
+        "gap": "14px",
+        "padding": "20px 14px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "layout_GQYQ3X": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "10px",
+        "padding": "6px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "stroke_DGL5GW": {
+        "colors": [
+          {
+            "type": "GRADIENT_LINEAR",
+            "gradient": "linear-gradient(41deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 31%)"
+          },
+          {
+            "type": "GRADIENT_LINEAR",
+            "gradient": "linear-gradient(219deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 52%)"
+          }
+        ],
+        "strokeWeight": "1px"
+      },
+      "layout_2VEMQL": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "10px",
+        "padding": "8px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "stroke_0Y49JC": {
+        "colors": [
+          {
+            "type": "GRADIENT_LINEAR",
+            "gradient": "linear-gradient(130deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 25%)"
+          },
+          {
+            "type": "GRADIENT_LINEAR",
+            "gradient": "linear-gradient(-55deg, rgba(166, 133, 250, 1) 0%, rgba(166, 133, 250, 0) 40%)"
+          }
+        ],
+        "strokeWeight": "1px"
+      },
+      "layout_PZ2N9K": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_FNFMS5": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontSize": "14",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "layout_NR53CG": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "118",
+          "y": "20"
+        },
+        "dimensions": {
+          "width": "26",
+          "height": "26"
+        }
+      },
+      "layout_WR1CTC": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "4.88",
+          "y": "4.88"
+        },
+        "dimensions": {
+          "width": "16.25",
+          "height": "16.25"
+        }
+      },
+      "Grey/30": ["#4D4D4D"],
+      "layout_1L4PY8": {
+        "mode": "column",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "gap": "14px",
+        "padding": "20px 14px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_M3LZC4": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "118.5",
+          "y": "20"
+        },
+        "dimensions": {
+          "width": "26",
+          "height": "26"
+        }
+      }
+    }
+  }
+}

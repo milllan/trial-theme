@@ -21,9 +21,9 @@ function estatein_enqueue_scripts() {
     wp_enqueue_style( 'google-fonts', 'https://fonts.googleapis.com/css2?family=Urbanist:wght@400;500;600;700&display=swap', array(), null );
 
     // Enqueue your main stylesheet
-    wp_enqueue_style( 'main-style', get_template_directory_uri() . '/ai_main.css', array(), '1.0' );
+    wp_enqueue_style( 'main-style', get_template_directory_uri() . '/assets/ai_main.css', array(), '1.0' );
 
     // Enqueue your main javascript file
-    wp_enqueue_script( 'main-js', get_template_directory_uri() . '/ai_main.js', array(), '1.0', true );
+    wp_enqueue_script( 'main-js', get_template_directory_uri() . '/assets/ai_main.js', array(), '1.0', true );
 }
 add_action( 'wp_enqueue_scripts', 'estatein_enqueue_scripts' );

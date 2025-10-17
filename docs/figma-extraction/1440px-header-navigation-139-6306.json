@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:6306",
+      "name": "Navigation Bar",
+      "type": "FRAME",
+      "layout": "layout_LXD5SH",
+      "fills": "Grey/10",
+      "children": [
+        {
+          "id": "139:6307",
+          "name": "Logo",
+          "type": "IMAGE-SVG",
+          "layout": "layout_KKQ2B2"
+        },
+        {
+          "id": "139:6322",
+          "name": "Button",
+          "type": "FRAME",
+          "layout": "layout_6Z379C",
+          "fills": "Grey/08",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px",
+          "borderRadius": "8px",
+          "children": [
+            {
+              "id": "139:6323",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": "layout_PSX8H8",
+              "text": "Contact Us",
+              "textStyle": "style_24O7C7",
+              "fills": "Absolute/White"
+            }
+          ]
+        },
+        {
+          "id": "139:6324",
+          "name": "Buttons Container",
+          "type": "FRAME",
+          "layout": "layout_D1Y1H9",
+          "children": [
+            {
+              "id": "139:6325",
+              "name": "Button",
+              "type": "FRAME",
+              "layout": "layout_3YHDKW",
+              "fills": "Grey/08",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "8px",
+              "children": [
+                {
+                  "id": "139:6326",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_PSX8H8",
+                  "text": "Home",
+                  "textStyle": "style_24O7C7",
+                  "fills": "Absolute/White"
+                }
+              ]
+            },
+            {
+              "id": "139:6327",
+              "name": "Text Button",
+              "type": "TEXT",
+              "layout": "layout_PSX8H8",
+              "text": "About Us",
+              "textStyle": "style_24O7C7",
+              "fills": "Absolute/White"
+            },
+            {
+              "id": "139:6328",
+              "name": "Text Button",
+              "type": "TEXT",
+              "layout": "layout_PSX8H8",
+              "text": "Properties",
+              "textStyle": "style_24O7C7",
+              "fills": "Absolute/White"
+            },
+            {
+              "id": "139:6329",
+              "name": "Text Button",
+              "type": "TEXT",
+              "layout": "layout_PSX8H8",
+              "text": "Services",
+              "textStyle": "style_24O7C7",
+              "fills": "Absolute/White"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_LXD5SH": {
+        "mode": "row",
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "292px",
+        "padding": "14px 80px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "layout_KKQ2B2": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": "113.33",
+          "height": "34"
+        }
+      },
+      "layout_6Z379C": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "8px",
+        "padding": "14px 20px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "Grey/08": ["#141414"],
+      "Grey/15": ["#262626"],
+      "layout_PSX8H8": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "style_24O7C7": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "14",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "layout_D1Y1H9": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "24px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "559.5",
+          "y": "16"
+        }
+      },
+      "layout_3YHDKW": {
+        "mode": "row",
+        "gap": "10px",
+        "padding": "12px 20px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      }
+    }
+  }
+}

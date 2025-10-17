@@ -1,0 +1,400 @@
+{
+  "id": "75:952",
+  "name": "Container",
+  "type": "FRAME",
+  "layout": {
+    "mode": "column",
+    "gap": "80px",
+    "sizing": {
+      "horizontal": "fixed",
+      "vertical": "hug"
+    },
+    "dimensions": { "width": 1596 }
+  },
+  "children": [
+    {
+      "id": "75:953",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "alignItems": "flex-end",
+        "alignSelf": "stretch",
+        "gap": "200px"
+      },
+      "children": [
+        {
+          "id": "75:954",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "gap": "14px"
+          },
+          "children": [
+            {
+              "id": "75:955",
+              "name": "Heading",
+              "type": "TEXT",
+              "text": "Frequently Asked Questions",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 48,
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "75:956",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "text": "Find answers to common questions about Estatein's services, property listings, and the real estate process. We're here to provide clarity and assist you every step of the way.",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "color": "#999999"
+              }
+            }
+          ]
+        },
+        {
+          "id": "75:979",
+          "name": "Button",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "alignItems": "center",
+            "gap": "8px",
+            "padding": "18px 24px"
+          },
+          "styles": {
+            "backgroundColor": "#1A1A1A",
+            "borderColor": "#262626",
+            "borderWidth": "1px",
+            "borderRadius": "10px"
+          },
+          "children": [
+            {
+              "id": "75:980",
+              "name": "Text",
+              "type": "TEXT",
+              "text": "View All FAQ's",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.5,
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "78:1088",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "50px"
+      },
+      "children": [
+        {
+          "id": "78:1159",
+          "name": "Items Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "stretch",
+            "alignItems": "stretch",
+            "alignSelf": "stretch",
+            "gap": "30px"
+          },
+          "children": [
+            {
+              "id": "78:1175",
+              "name": "Card",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "30px",
+                "padding": "50px"
+              },
+              "styles": {
+                "backgroundColor": "#141414",
+                "borderColor": "#262626",
+                "borderWidth": "1px",
+                "borderRadius": "12px"
+              },
+              "children": [
+                {
+                  "id": "78:1176",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "text": "How do I search for properties on Estatein?",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 600,
+                    "fontSize": 24,
+                    "lineHeight": 1.5,
+                    "textAlign": "left",
+                    "color": "#FFFFFF"
+                  }
+                },
+                {
+                  "id": "78:1177",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "text": "Learn how to use our user-friendly search tools to find properties that match your criteria.",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "lineHeight": 1.5,
+                    "letterSpacing": "-0.6000000238418579%",
+                    "textAlign": "left",
+                    "color": "#999999"
+                  }
+                },
+                {
+                  "id": "78:1178",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "gap": "10px",
+                    "padding": "18px 24px"
+                  },
+                  "styles": {
+                    "backgroundColor": "#1A1A1A",
+                    "borderColor": "#262626",
+                    "borderWidth": "1px",
+                    "borderRadius": "10px"
+                  },
+                  "children": [
+                    {
+                      "id": "78:1179",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "text": "Read More",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3099998897976346,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "78:1180",
+              "name": "Card",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "30px",
+                "padding": "50px"
+              },
+              "styles": {
+                "backgroundColor": "#141414",
+                "borderColor": "#262626",
+                "borderWidth": "1px",
+                "borderRadius": "12px"
+              },
+              "children": [
+                {
+                  "id": "78:1181",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "text": "What documents do I need to sell my property through Estatein?",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 600,
+                    "fontSize": 24,
+                    "lineHeight": 1.5,
+                    "textAlign": "left",
+                    "color": "#FFFFFF"
+                  }
+                },
+                {
+                  "id": "78:1182",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "text": "Find out about the necessary documentation for listing your property with us.",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "lineHeight": 1.5,
+                    "letterSpacing": "-0.6000000238418579%",
+                    "textAlign": "left",
+                    "color": "#999999"
+                  }
+                },
+                {
+                  "id": "78:1183",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "gap": "10px",
+                    "padding": "18px 24px"
+                  },
+                  "styles": {
+                    "backgroundColor": "#1A1A1A",
+                    "borderColor": "#262626",
+                    "borderWidth": "1px",
+                    "borderRadius": "10px"
+                  },
+                  "children": [
+                    {
+                      "id": "78:1184",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "text": "Read More",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3099998897976346,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "78:1185",
+              "name": "Card",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "30px",
+                "padding": "50px"
+              },
+              "styles": {
+                "backgroundColor": "#141414",
+                "borderColor": "#262626",
+                "borderWidth": "1px",
+                "borderRadius": "12px"
+              },
+              "children": [
+                {
+                  "id": "78:1186",
+                  "name": "Heading",
+                  "type": "TEXT",
+                  "text": "How can I contact an Estatein agent?",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 600,
+                    "fontSize": 24,
+                    "lineHeight": 1.5,
+                    "textAlign": "left",
+                    "color": "#FFFFFF"
+                  }
+                },
+                {
+                  "id": "78:1187",
+                  "name": "Paragraph",
+                  "type": "TEXT",
+                  "text": "Discover the different ways you can get in touch with our experienced agents.",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "lineHeight": 1.5,
+                    "letterSpacing": "-0.6000000238418579%",
+                    "textAlign": "left",
+                    "color": "#999999"
+                  }
+                },
+                {
+                  "id": "78:1188",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "gap": "10px",
+                    "padding": "18px 24px"
+                  },
+                  "styles": {
+                    "backgroundColor": "#1A1A1A",
+                    "borderColor": "#262626",
+                    "borderWidth": "1px",
+                    "borderRadius": "10px"
+                  },
+                  "children": [
+                    {
+                      "id": "78:1189",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "text": "Read More",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3099998897976346,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "130:6090",
+          "name": "Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "space-between",
+            "alignSelf": "stretch",
+            "gap": "1123px",
+            "padding": "20px 0px 0px"
+          },
+          "styles": {
+            "borderColor": "#262626",
+            "borderWidth": "1px 0px 0px"
+          },
+          "children": [
+            {
+              "id": "130:6091",
+              "name": "Text",
+              "type": "TEXT",
+              "text": "01 of 10",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 20,
+                "lineHeight": 1.5,
+                "textAlign": "left",
+                "color": "#999999"
+              }
+            },
+            {
+              "id": "130:6092",
+              "name": "Buttons Container",
+              "type": "IMAGE-SVG"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

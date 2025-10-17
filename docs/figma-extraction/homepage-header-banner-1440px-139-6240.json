@@ -1,0 +1,74 @@
+{
+  "componentName": "Banner",
+  "viewport": "1440px",
+  "nodeId": "139:6240",
+  "width": 1440,
+  "height": 49,
+  "backgroundColor": "#1a1a1a",
+  "border": "0px 0px 1px neutral-800",
+  "elements": [
+    {
+      "type": "abstract-design",
+      "name": "Abstract Design",
+      "nodeId": "139:6241",
+      "position": { "x": -63, "y": -499 },
+      "width": 1566,
+      "height": 1046,
+      "blendMode": "color-dodge",
+      "opacity": 1
+    },
+    {
+      "type": "text",
+      "name": "Banner Text",
+      "nodeId": "139:6301",
+      "content": "✨Discover Your Dream Property with Estatein",
+      "position": { "x": 540.5, "y": 14 },
+      "width": 282,
+      "height": 21,
+      "fontSize": "14px",
+      "fontFamily": "Urbanist",
+      "fontWeight": "500",
+      "color": "#FFFFFF",
+      "textAlign": "center"
+    },
+    {
+      "type": "text-link",
+      "name": "Learn More Link",
+      "nodeId": "139:6302",
+      "content": "Learn More",
+      "position": { "x": 828.5, "y": 14 },
+      "width": 71,
+      "height": 21,
+      "fontSize": "14px",
+      "fontFamily": "Urbanist",
+      "fontWeight": "500",
+      "color": "#FFFFFF",
+      "textDecoration": "underline",
+      "textAlign": "center"
+    },
+    {
+      "type": "button",
+      "name": "Close Button",
+      "nodeId": "139:6303",
+      "position": { "x": 1382, "y": 11 },
+      "width": 26,
+      "height": 26,
+      "backgroundColor": "rgba(255,255,255,0.1)",
+      "borderRadius": "75px",
+      "padding": "4px"
+    }
+  ],
+  "padding": { "horizontal": "80px", "vertical": "14px" },
+  "spacing": {
+    "gap": "6px",
+    "itemsAlign": "center",
+    "justifyContent": "center"
+  },
+  "responsive": {
+    "breakpoint": "1440px",
+    "scaling": {
+      "fontSize": "0.875rem",
+      "padding": "0.875rem 3.125rem"
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:6240",
+      "name": "Banner",
+      "type": "FRAME",
+      "layout": "layout_MQRJAR",
+      "fills": "Grey/10",
+      "strokes": "Grey/15",
+      "strokeWeight": "0px 0px 1px",
+      "children": [
+        {
+          "id": "139:6241",
+          "name": "Abstract Design",
+          "type": "FRAME",
+          "layout": "layout_ZZ4FGJ",
+          "fills": "fill_OZKHSP",
+          "children": [
+            {
+              "id": "139:6242",
+              "name": "Group",
+              "type": "GROUP",
+              "layout": "layout_ZOWD6I",
+              "borderRadius": "0px 0px 0px 0px",
+              "children": [
+                {
+                  "id": "139:6243",
+                  "name": "BACKGROUND 2",
+                  "type": "GROUP",
+                  "layout": "layout_UG4OID",
+                  "borderRadius": "0px 0px 0px 0px",
+                  "children": [
+                    {
+                      "id": "139:6244",
+                      "name": "Group",
+                      "type": "GROUP",
+                      "layout": "layout_UG4OID",
+                      "borderRadius": "0px 0px 0px 0px"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "139:6301",
+          "name": "Text",
+          "type": "TEXT",
+          "layout": "layout_QFNWDF",
+          "text": "✨Discover Your Dream Property with Estatein",
+          "textStyle": "style_C29YCC",
+          "fills": "Absolute/White"
+        },
+        {
+          "id": "139:6302",
+          "name": "Text Button",
+          "type": "TEXT",
+          "layout": "layout_QFNWDF",
+          "text": "Learn More",
+          "textStyle": "style_C29YCC",
+          "fills": "Absolute/White"
+        },
+        {
+          "id": "139:6303",
+          "name": "Button",
+          "type": "IMAGE-SVG",
+          "layout": "layout_3PUTG3",
+          "fills": "fill_34KMOZ",
+          "borderRadius": "75px"
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_MQRJAR": {
+        "mode": "row",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "6px",
+        "padding": "14px 80px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "Grey/15": ["#262626"],
+      "layout_ZZ4FGJ": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "-63",
+          "y": "-499"
+        },
+        "dimensions": {
+          "width": "1566",
+          "height": "1046"
+        }
+      },
+      "fill_OZKHSP": ["#FFFFFF"],
+      "layout_ZOWD6I": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "0.69",
+          "y": "1.05"
+        },
+        "dimensions": {
+          "width": "1564.56",
+          "height": "1043.88"
+        }
+      },
+      "layout_UG4OID": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "0",
+          "y": "0"
+        },
+        "dimensions": {
+          "width": "1564.56",
+          "height": "1043.88"
+        }
+      },
+      "layout_QFNWDF": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "style_C29YCC": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "14",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "CENTER",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "layout_3PUTG3": {
+        "mode": "row",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "gap": "10px",
+        "padding": "4px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        },
+        "position": "absolute",
+        "locationRelativeToParent": {
+          "x": "1382",
+          "y": "11"
+        }
+      },
+      "fill_34KMOZ": ["rgba(255, 255, 255, 0.1)"]
+    }
+  }
+}

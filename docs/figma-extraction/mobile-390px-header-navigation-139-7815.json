@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:7815",
+      "name": "Navbar",
+      "type": "IMAGE-SVG",
+      "layout": "layout_YB41JR",
+      "fills": "Grey/10",
+      "strokes": "Dark Blue/15",
+      "strokeWeight": "0px 0px 1px"
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_YB41JR": {
+        "mode": "row",
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "50px",
+        "padding": "20px 16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "Dark Blue/15": ["#211E2F"],
+      "layout_UXH72B": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": "93.33",
+          "height": "28"
+        }
+      },
+      "layout_IA7J58": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "0",
+          "y": "0"
+        },
+        "dimensions": {
+          "width": "28",
+          "height": "28"
+        }
+      },
+      "layout_ZN7A6Z": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "0",
+          "y": "14"
+        },
+        "dimensions": {
+          "width": "14",
+          "height": "14"
+        }
+      },
+      "Purple/60": ["#703BF7"],
+      "layout_27PRSJ": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "0",
+          "y": "0"
+        },
+        "dimensions": {
+          "width": "14",
+          "height": "14"
+        }
+      },
+      "layout_8020XT": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "14",
+          "y": "14"
+        },
+        "dimensions": {
+          "width": "14",
+          "height": "14"
+        }
+      },
+      "layout_H89G4Z": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "14",
+          "y": "0"
+        },
+        "dimensions": {
+          "width": "14",
+          "height": "14"
+        }
+      },
+      "layout_JV61SY": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "33.97",
+          "y": "8.53"
+        },
+        "dimensions": {
+          "width": "59.36",
+          "height": "11.97"
+        }
+      },
+      "layout_0Y3MWI": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "51.96",
+          "y": "3.54"
+        },
+        "dimensions": {
+          "width": "7.4",
+          "height": "8.26"
+        }
+      },
+      "fill_RB4I2W": ["#FFFFFF"],
+      "layout_N14LON": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "47.86",
+          "y": "0"
+        },
+        "dimensions": {
+          "width": "2.19",
+          "height": "11.8"
+        }
+      },
+      "layout_6THKBY": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "38.48",
+          "y": "3.54"
+        },
+        "dimensions": {
+          "width": "8.04",
+          "height": "8.43"
+        }
+      },
+      "layout_T6KKGK": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "32.15",
+          "y": "0.34"
+        },
+        "dimensions": {
+          "width": "5.73",
+          "height": "11.47"
+        }
+      },
+      "layout_XGUSPA": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "22.57",
+          "y": "3.54"
+        },
+        "dimensions": {
+          "width": "8.23",
+          "height": "8.43"
+        }
+      },
+      "layout_DLWIH4": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "16.23",
+          "y": "0.34"
+        },
+        "dimensions": {
+          "width": "5.73",
+          "height": "11.47"
+        }
+      },
+      "layout_2E1IX4": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "8.98",
+          "y": "3.54"
+        },
+        "dimensions": {
+          "width": "6.42",
+          "height": "8.43"
+        }
+      },
+      "layout_CPKCEQ": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "0",
+          "y": "0"
+        },
+        "dimensions": {
+          "width": "7.94",
+          "height": "11.8"
+        }
+      },
+      "layout_ZPQLLH": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": "28",
+          "height": "28"
+        }
+      },
+      "layout_0PC8QN": {
+        "mode": "none",
+        "sizing": {},
+        "locationRelativeToParent": {
+          "x": "3.5",
+          "y": "7"
+        },
+        "dimensions": {
+          "width": "21",
+          "height": "14"
+        }
+      },
+      "Absolute/White": ["#FFFFFF"]
+    }
+  }
+}

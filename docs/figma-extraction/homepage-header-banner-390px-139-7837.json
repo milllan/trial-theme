@@ -1,0 +1,125 @@
+{
+  "id": "139:7837",
+  "name": "Banner",
+  "type": "FRAME",
+  "layout": {
+    "mode": "row",
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "gap": "6px",
+    "padding": "40px 16px 20px",
+    "sizing": {
+      "horizontal": "fill",
+      "vertical": "hug"
+    }
+  },
+  "styles": {
+    "backgroundColor": "#1A1A1A",
+    "borderColor": "#262626",
+    "borderWidth": "0px 0px 1px"
+  },
+  "children": [
+    {
+      "id": "139:7838",
+      "name": "Abstract Design",
+      "type": "IMAGE-SVG",
+      "layout": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "position": "absolute",
+        "location": { "x": -588, "y": -485 },
+        "dimensions": { "width": 1566, "height": 1046 }
+      },
+      "styles": {
+        "fills": ["#FFFFFF"]
+      }
+    },
+    {
+      "id": "139:7898",
+      "name": "Text",
+      "type": "TEXT",
+      "layout": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "text": "✨Discover Your Dream Property with Estatein",
+      "styles": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 500,
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "textAlignHorizontal": "center",
+        "textAlignVertical": "top",
+        "color": "#FFFFFF"
+      }
+    },
+    {
+      "id": "139:7899",
+      "name": "Text Button",
+      "type": "TEXT",
+      "layout": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "text": "Learn More",
+      "styles": {
+        "fontFamily": "Urbanist",
+        "fontWeight": 500,
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "textAlignHorizontal": "center",
+        "textAlignVertical": "top",
+        "color": "#FFFFFF"
+      }
+    },
+    {
+      "id": "139:7900",
+      "name": "Button",
+      "type": "IMAGE-SVG",
+      "layout": {
+        "mode": "row",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "gap": "10px",
+        "padding": "4px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        },
+        "position": "absolute",
+        "location": { "x": 348, "y": 36 }
+      },
+      "styles": {
+        "backgroundColor": "rgba(255, 255, 255, 0.1)",
+        "borderRadius": "75px"
+      },
+      "children": [
+        {
+          "name": "Arrow",
+          "type": "GROUP",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "fixed"
+            },
+            "dimensions": { "width": 18, "height": 18 }
+          },
+          "styles": {
+            "strokeColor": "#FFFFFF",
+            "strokeWidth": "1px"
+          }
+        }
+      ]
+    }
+  ]
+}

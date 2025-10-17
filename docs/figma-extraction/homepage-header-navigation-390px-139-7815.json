@@ -1,0 +1,144 @@
+{
+  "id": "139:7815",
+  "name": "Navbar",
+  "type": "IMAGE-SVG",
+  "layout": {
+    "mode": "row",
+    "justifyContent": "space-between",
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "gap": "50px",
+    "padding": "20px 16px",
+    "sizing": {
+      "horizontal": "fill",
+      "vertical": "hug"
+    }
+  },
+  "styles": {
+    "backgroundColor": "#1A1A1A",
+    "borderColor": "#211E2F",
+    "borderWidth": "0px 0px 1px"
+  },
+  "children": [
+    {
+      "id": "139:7816",
+      "name": "Logo",
+      "type": "GROUP",
+      "layout": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": { "width": 93.33, "height": 28 }
+      },
+      "children": [
+        {
+          "id": "139:7817",
+          "name": "Symbol",
+          "type": "GROUP",
+          "layout": {
+            "mode": "none",
+            "sizing": {},
+            "locationRelativeToParent": { "x": 0, "y": 0 },
+            "dimensions": { "width": 28, "height": 28 }
+          },
+          "children": [
+            {
+              "id": "139:7818",
+              "name": "Bottom Left",
+              "type": "RECTANGLE",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 0, "y": 14 },
+                "dimensions": { "width": 14, "height": 14 }
+              },
+              "styles": {
+                "fillColor": "#703BF7"
+              }
+            },
+            {
+              "id": "139:7819",
+              "name": "Top Right",
+              "type": "RECTANGLE",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 14, "y": 14 },
+                "dimensions": { "width": 14, "height": 14 }
+              },
+              "styles": {
+                "fillColor": "#FFFFFF"
+              }
+            },
+            {
+              "id": "139:7820",
+              "name": "Bottom Right",
+              "type": "RECTANGLE",
+              "layout": {
+                "mode": "none",
+                "sizing": {},
+                "locationRelativeToParent": { "x": 14, "y": 0 },
+                "dimensions": { "width": 14, "height": 14 }
+              },
+              "styles": {
+                "fillColor": "#FFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "id": "139:7821",
+          "name": "Text",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {},
+            "locationRelativeToParent": { "x": 33.97, "y": 8.53 },
+            "dimensions": { "width": 59.36, "height": 11.97 }
+          },
+          "text": "Estatein",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 700,
+            "fontSize": 14,
+            "lineHeight": 1.2,
+            "textAlignHorizontal": "left",
+            "textAlignVertical": "top",
+            "color": "#FFFFFF"
+          }
+        }
+      ]
+    },
+    {
+      "id": "139:7822",
+      "name": "Menu",
+      "type": "GROUP",
+      "layout": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": { "width": 28, "height": 28 }
+      },
+      "children": [
+        {
+          "id": "139:7823",
+          "name": "Line 1",
+          "type": "RECTANGLE",
+          "layout": {
+            "mode": "none",
+            "sizing": {},
+            "locationRelativeToParent": { "x": 3.5, "y": 7 },
+            "dimensions": { "width": 21, "height": 14 }
+          },
+          "styles": {
+            "fillColor": "#FFFFFF"
+          }
+        }
+      ]
+    }
+  ]
+}

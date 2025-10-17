@@ -1,0 +1,66 @@
+{
+  "componentName": "FAQ",
+  "viewport": "1440px",
+  "nodeId": "139:6819",
+  "width": 1280,
+  "height": 557,
+  "backgroundColor": "transparent",
+  "elements": [
+    {
+      "type": "header",
+      "name": "Section Header",
+      "nodeId": "139:6820",
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about Estatein's services, property listings, and the real estate process. We're here to provide clarity and assist you every step of the way.",
+      "buttonText": "Contact Support"
+    },
+    {
+      "type": "faq-items",
+      "name": "FAQ Container",
+      "nodeId": "139:6848",
+      "faqs": [
+        {
+          "type": "faq-item",
+          "name": "How do I search for properties?",
+          "nodeId": "139:6850",
+          "question": "How do I search for properties?",
+          "answer": "Use our intuitive search bar on the homepage to enter your desired location, property type, and price range. Our advanced filters will help you narrow down the results to find your perfect home."
+        },
+        {
+          "type": "faq-item",
+          "name": "Can I schedule a property viewing?",
+          "nodeId": "139:6855",
+          "question": "Can I schedule a property viewing?",
+          "answer": "Absolutely! Once you find a property you're interested in, click the 'Schedule Viewing' button, and our team will get in touch to arrange a convenient time for you to visit the property."
+        },
+        {
+          "type": "faq-item",
+          "name": "What areas do you cover?",
+          "nodeId": "139:6860",
+          "question": "What areas do you cover?",
+          "answer": "We cover a wide range of areas across multiple cities and neighborhoods. Our website features properties in both urban and suburban locations to suit various preferences and lifestyles."
+        }
+      ],
+      "pagination": {
+        "current": "01",
+        "total": "10"
+      }
+    }
+  ],
+  "layout": {
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "60px",
+    "alignItems": "flex-start"
+  },
+  "responsive": {
+    "breakpoint": "1440px",
+    "scaling": {
+      "headingSize": "38px",
+      "textSize": "16px",
+      "faqGap": "20px",
+      "faqPadding": "40px",
+      "faqBorderRadius": "10px"
+    }
+  }
+}

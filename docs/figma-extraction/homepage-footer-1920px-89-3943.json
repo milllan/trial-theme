@@ -1,0 +1,617 @@
+{
+  "id": "89:3943",
+  "name": "Footer",
+  "type": "FRAME",
+  "layout": {
+    "mode": "column",
+    "alignSelf": "stretch"
+  },
+  "children": [
+    {
+      "id": "89:4283",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "alignSelf": "stretch",
+        "gap": "80px",
+        "padding": "100px 162px"
+      },
+      "children": [
+        {
+          "id": "89:4007",
+          "name": "Sub Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "gap": "30px"
+          },
+          "children": [
+            {
+              "id": "89:4036",
+              "name": "Logo",
+              "type": "IMAGE-SVG",
+              "dimensions": { "width": 160, "height": 48 }
+            },
+            {
+              "id": "89:4010",
+              "name": "Input Feild",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "alignItems": "center",
+                "gap": "10px",
+                "padding": "18px 24px"
+              },
+              "dimensions": { "width": 423 },
+              "styles": {
+                "backgroundColor": "#141414",
+                "borderColor": "#262626",
+                "borderWidth": "1px",
+                "borderRadius": "12px"
+              },
+              "children": [
+                {
+                  "id": "89:4281",
+                  "name": "Icon",
+                  "type": "IMAGE-SVG",
+                  "dimensions": { "width": 24, "height": 24 },
+                  "fills": ["#FFFFFF"]
+                },
+                {
+                  "id": "89:4014",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "text": "Enter Your Email",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 18,
+                    "lineHeight": 1.3333333333333333,
+                    "letterSpacing": "-0.6000000238418579%",
+                    "color": "#999999"
+                  }
+                },
+                {
+                  "id": "89:4015",
+                  "name": "Icon",
+                  "type": "IMAGE-SVG",
+                  "dimensions": { "width": 30, "height": 30 },
+                  "fills": ["rgba(0, 0, 0, 0)"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "89:3966",
+          "name": "Footer Link Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "space-between",
+            "gap": "50px"
+          },
+          "children": [
+            {
+              "id": "89:4101",
+              "name": "Column",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "30px"
+              },
+              "children": [
+                {
+                  "id": "89:4102",
+                  "name": "Home",
+                  "type": "TEXT",
+                  "text": "Home",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 20,
+                    "lineHeight": 1.2,
+                    "letterSpacing": "-0.6000000238418579%",
+                    "color": "#999999"
+                  }
+                },
+                {
+                  "id": "89:4103",
+                  "name": "Link Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "20px"
+                  },
+                  "children": [
+                    {
+                      "id": "89:4104",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Hero Section",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4105",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Features",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4106",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Properties",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4107",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Testimonials",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4108",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "FAQ's",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "89:4109",
+              "name": "Column",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "30px"
+              },
+              "children": [
+                {
+                  "id": "89:4110",
+                  "name": "About Us",
+                  "type": "TEXT",
+                  "text": "About Us",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 20,
+                    "lineHeight": 1.2,
+                    "letterSpacing": "-0.6000000238418579%",
+                    "color": "#999999"
+                  }
+                },
+                {
+                  "id": "89:4111",
+                  "name": "Link Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "20px"
+                  },
+                  "children": [
+                    {
+                      "id": "89:4112",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Our Story",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4113",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Our Works",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4114",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "How It Works",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4115",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Our Team",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500",
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4116",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Our Clients",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "89:4117",
+              "name": "Column",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "30px"
+              },
+              "children": [
+                {
+                  "id": "89:4118",
+                  "name": "Properties",
+                  "type": "TEXT",
+                  "text": "Properties",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 20,
+                    "lineHeight": 1.2,
+                    "letterSpacing": "-0.6000000238418579%",
+                    "color": "#999999"
+                  }
+                },
+                {
+                  "id": "89:4119",
+                  "name": "Link Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "20px"
+                  },
+                  "children": [
+                    {
+                      "id": "89:4120",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Portfolio",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4121",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Categories",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "89:4217",
+              "name": "Column",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "30px"
+              },
+              "children": [
+                {
+                  "id": "89:4218",
+                  "name": "Services",
+                  "type": "TEXT",
+                  "text": "Services",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 20,
+                    "lineHeight": 1.2,
+                    "letterSpacing": "-0.6000000238418579%",
+                    "color": "#999999"
+                  }
+                },
+                {
+                  "id": "89:4219",
+                  "name": "Link Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "20px"
+                  },
+                  "children": [
+                    {
+                      "id": "89:4220",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Valuation Mastery",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4221",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Strategic Marketing",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4269",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Negotiation Wizardry",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4270",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Closing Success",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500",
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4271",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Property Management",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500",
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "89:4133",
+              "name": "Column",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "30px"
+              },
+              "children": [
+                {
+                  "id": "89:4134",
+                  "name": "Contact Us",
+                  "type": "TEXT",
+                  "text": "Contact Us",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 500,
+                    "fontSize": 20,
+                    "lineHeight": 1.2,
+                    "letterSpacing": "-0.6000000238418579%",
+                    "color": "#999999"
+                  }
+                },
+                {
+                  "id": "89:4135",
+                  "name": "Link Container",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "20px"
+                  },
+                  "children": [
+                    {
+                      "id": "89:4136",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Contact Form",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    },
+                    {
+                      "id": "89:4137",
+                      "name": "Link ",
+                      "type": "TEXT",
+                      "text": "Our Offices",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 18,
+                        "lineHeight": 1.3333333333333333,
+                        "letterSpacing": "-0.6000000238418579%",
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89:4020",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "justifyContent": "space-between",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "1216px",
+        "padding": "16px 162px"
+      },
+      "styles": {
+        "backgroundColor": "#1A1A1A"
+      },
+      "children": [
+        {
+          "id": "89:4021",
+          "name": "Sub Link Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "gap": "38px",
+            "padding": "10px 0px"
+          },
+          "children": [
+            {
+              "id": "89:4022",
+              "name": "Link",
+              "type": "TEXT",
+              "text": "@2023 Estatein. All Rights Reserved.",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.3333333333333333,
+                "letterSpacing": "-0.6000000238418579%",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "89:4023",
+              "name": "Link",
+              "type": "TEXT",
+              "text": "Terms & Conditions",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 18,
+                "lineHeight": 1.3333333333333333,
+                "letterSpacing": "-0.6000000238418579%",
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "id": "89:4024",
+          "name": "Social Icon",
+          "type": "IMAGE-SVG",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "flex-end",
+            "alignItems": "center",
+            "gap": "10px",
+            "padding": "10px 0px"
+          }
+        }
+      ]
+    }
+  ]
+}

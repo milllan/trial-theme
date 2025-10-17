@@ -1,0 +1,415 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:8184",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layout": "layout_3W7PZK",
+      "children": [
+        {
+          "id": "139:8306",
+          "name": "Card",
+          "type": "FRAME",
+          "layout": "layout_DE2986",
+          "fills": "Grey/08",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px",
+          "borderRadius": "12px",
+          "children": [
+            {
+              "id": "139:8307",
+              "name": "Image",
+              "type": "RECTANGLE",
+              "layout": "layout_A60WFQ",
+              "fills": "fill_5A7AI4",
+              "borderRadius": "10px"
+            },
+            {
+              "id": "139:8308",
+              "name": "Container",
+              "type": "FRAME",
+              "layout": "layout_8R5WTI",
+              "children": [
+                {
+                  "id": "139:8309",
+                  "name": "Text Container",
+                  "type": "FRAME",
+                  "layout": "layout_A0V9HN",
+                  "children": [
+                    {
+                      "id": "139:8310",
+                      "name": "Heading",
+                      "type": "TEXT",
+                      "layout": "layout_54VCVH",
+                      "text": "Rustic Retreat Cottage",
+                      "textStyle": "style_MHK554",
+                      "fills": "Absolute/White"
+                    },
+                    {
+                      "id": "139:8311",
+                      "name": "Paragraph",
+                      "type": "TEXT",
+                      "layout": "layout_54VCVH",
+                      "text": "An elegant 3-bedroom, 2.5-bathroom townhouse in a gated community... Read More",
+                      "textStyle": "style_OJ9POA",
+                      "fills": "Grey/60"
+                    }
+                  ]
+                },
+                {
+                  "id": "139:8312",
+                  "name": "Sub Container",
+                  "type": "FRAME",
+                  "layout": "layout_OLAX38",
+                  "children": [
+                    {
+                      "id": "139:8313",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_4GGNEV",
+                      "fills": "Grey/10",
+                      "strokes": "Grey/15",
+                      "strokeWeight": "1px",
+                      "borderRadius": "28px"
+                    },
+                    {
+                      "id": "139:8319",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_4GGNEV",
+                      "fills": "Grey/10",
+                      "strokes": "Grey/15",
+                      "strokeWeight": "1px",
+                      "borderRadius": "28px"
+                    },
+                    {
+                      "id": "139:8328",
+                      "name": "Container",
+                      "type": "FRAME",
+                      "layout": "layout_4GGNEV",
+                      "fills": "Grey/10",
+                      "strokes": "Grey/15",
+                      "strokeWeight": "1px",
+                      "borderRadius": "28px"
+                    }
+                  ]
+                },
+                {
+                  "id": "139:8337",
+                  "name": "Sub Container",
+                  "type": "FRAME",
+                  "layout": "layout_DGDV7I",
+                  "children": [
+                    {
+                      "id": "139:8338",
+                      "name": "Text Container",
+                      "type": "FRAME",
+                      "layout": "layout_B41HYH"
+                    },
+                    {
+                      "id": "139:8341",
+                      "name": "Button",
+                      "type": "FRAME",
+                      "layout": "layout_LQ6EDB",
+                      "fills": "Purple/60",
+                      "borderRadius": "8px"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "139:8481",
+          "name": "Container",
+          "type": "FRAME",
+          "layout": "layout_KYAVIG",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px 0px 0px",
+          "children": [
+            {
+              "id": "139:8482",
+              "name": "Button",
+              "type": "FRAME",
+              "layout": "layout_L27LLB",
+              "fills": "Grey/10",
+              "strokes": "Grey/15",
+              "strokeWeight": "1px",
+              "borderRadius": "8px",
+              "children": [
+                {
+                  "id": "139:8483",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_A1MX9U",
+                  "text": "View All Properties",
+                  "textStyle": "style_OJ9POA",
+                  "fills": "Absolute/White"
+                }
+              ]
+            },
+            {
+              "id": "139:8484",
+              "name": "Buttons Container",
+              "type": "FRAME",
+              "layout": "layout_D0SAXE",
+              "children": [
+                {
+                  "id": "139:8485",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layout": "layout_30GJW8",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1px",
+                  "borderRadius": "69px",
+                  "children": [
+                    {
+                      "id": "139:8486",
+                      "name": "Icon",
+                      "type": "FRAME",
+                      "layout": "layout_QGIUCT"
+                    }
+                  ]
+                },
+                {
+                  "id": "139:8488",
+                  "name": "Text",
+                  "type": "TEXT",
+                  "layout": "layout_A1MX9U",
+                  "text": "01 of 60",
+                  "textStyle": "style_OJ9POA",
+                  "fills": "Grey/60"
+                },
+                {
+                  "id": "139:8489",
+                  "name": "Button",
+                  "type": "FRAME",
+                  "layout": "layout_30GJW8",
+                  "fills": "Grey/10",
+                  "strokes": "Grey/15",
+                  "strokeWeight": "1px",
+                  "borderRadius": "69px",
+                  "children": [
+                    {
+                      "id": "139:8490",
+                      "name": "Icon",
+                      "type": "FRAME",
+                      "layout": "layout_QGIUCT"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_3W7PZK": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "30px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_DE2986": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "16px",
+        "padding": "24px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/08": ["#141414"],
+      "Grey/15": ["#262626"],
+      "layout_A60WFQ": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "height": "210"
+        }
+      },
+      "fill_5A7AI4": [
+        {
+          "type": "IMAGE",
+          "imageRef": "788f8cf7af7e05c7ae4a90ebd4dcf750b626e1f4",
+          "scaleMode": "FILL",
+          "objectFit": "cover",
+          "isBackground": false,
+          "imageDownloadArguments": {
+            "needsCropping": false,
+            "requiresImageDimensions": false
+          }
+        }
+      ],
+      "layout_8R5WTI": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "20px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_A0V9HN": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "gap": "2px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_54VCVH": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_MHK554": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "600",
+        "fontSize": "18",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "style_OJ9POA": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "14",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Grey/60": ["#999999"],
+      "layout_OLAX38": {
+        "mode": "row",
+        "alignSelf": "stretch",
+        "wrap": true,
+        "gap": "6px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_4GGNEV": {
+        "mode": "row",
+        "alignItems": "center",
+        "wrap": true,
+        "gap": "4px",
+        "padding": "6px 14px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "layout_DGDV7I": {
+        "mode": "row",
+        "alignItems": "flex-end",
+        "alignSelf": "stretch",
+        "gap": "30px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_B41HYH": {
+        "mode": "column",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_LQ6EDB": {
+        "mode": "row",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "gap": "8px",
+        "padding": "14px 20px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Purple/60": ["#703BF7"],
+      "layout_KYAVIG": {
+        "mode": "row",
+        "justifyContent": "space-between",
+        "alignSelf": "stretch",
+        "gap": "1123px",
+        "padding": "16px 0px 0px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_L27LLB": {
+        "mode": "row",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "8px",
+        "padding": "14px 20px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "fill"
+        }
+      },
+      "layout_A1MX9U": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_D0SAXE": {
+        "mode": "row",
+        "alignItems": "center",
+        "gap": "10px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_30GJW8": {
+        "mode": "row",
+        "gap": "10px",
+        "padding": "10px",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "layout_QGIUCT": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fixed",
+          "vertical": "fixed"
+        },
+        "dimensions": {
+          "width": "24",
+          "height": "24"
+        }
+      }
+    }
+  }
+}

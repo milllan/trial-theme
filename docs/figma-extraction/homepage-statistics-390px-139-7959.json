@@ -1,0 +1,152 @@
+{
+  "id": "139:7959",
+  "name": "Container",
+  "type": "FRAME",
+  "layout": {
+    "mode": "row",
+    "justifyContent": "stretch",
+    "alignItems": "stretch",
+    "alignSelf": "stretch",
+    "gap": "12px",
+    "sizing": {
+      "horizontal": "fill",
+      "vertical": "hug"
+    }
+  },
+  "children": [
+    {
+      "id": "139:7949",
+      "name": "Text Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignItems": "center",
+        "gap": "2px",
+        "padding": "16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "styles": {
+        "backgroundColor": "#1A1A1A",
+        "borderColor": "#262626",
+        "borderWidth": "1px",
+        "borderRadius": "8px"
+      },
+      "children": [
+        {
+          "id": "139:7950",
+          "name": "Heading",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "text": "200+",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 700,
+            "fontSize": 24,
+            "lineHeight": 1.5,
+            "textAlignHorizontal": "CENTER",
+            "textAlignVertical": "TOP",
+            "color": "#FFFFFF"
+          }
+        },
+        {
+          "id": "139:7951",
+          "name": "Paragraph",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "text": "Happy Customers",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 500,
+            "fontSize": 14,
+            "lineHeight": 1.5,
+            "textAlignHorizontal": "CENTER",
+            "textAlignVertical": "TOP",
+            "color": "#999999"
+          }
+        }
+      ]
+    },
+    {
+      "id": "139:7952",
+      "name": "Text Container",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignItems": "center",
+        "gap": "2px",
+        "padding": "16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "styles": {
+        "backgroundColor": "#1A1A1A",
+        "borderColor": "#262626",
+        "borderWidth": "1px",
+        "borderRadius": "8px"
+      },
+      "children": [
+        {
+          "id": "139:7953",
+          "name": "Heading",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "text": "10k+",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 700,
+            "fontSize": 24,
+            "lineHeight": 1.5,
+            "textAlignHorizontal": "CENTER",
+            "textAlignVertical": "TOP",
+            "color": "#FFFFFF"
+          }
+        },
+        {
+          "id": "139:7954",
+          "name": "Paragraph",
+          "type": "TEXT",
+          "layout": {
+            "mode": "none",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "text": "Properties For Clients",
+          "styles": {
+            "fontFamily": "Urbanist",
+            "fontWeight": 500,
+            "fontSize": 14,
+            "lineHeight": 1.5,
+            "textAlignHorizontal": "CENTER",
+            "textAlignVertical": "TOP",
+            "color": "#999999"
+          }
+        }
+      ]
+    }
+  ]
+}

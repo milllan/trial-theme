@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:6376",
+      "name": "Sub Container",
+      "type": "FRAME",
+      "layout": "layout_ULCCFN",
+      "children": [
+        {
+          "id": "139:6377",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layout": "layout_RKZJW2",
+          "fills": "Grey/10",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px",
+          "borderRadius": "10px",
+          "children": [
+            {
+              "id": "139:6378",
+              "name": "Heading",
+              "type": "TEXT",
+              "layout": "layout_AJ9N7G",
+              "text": "200+",
+              "textStyle": "style_HQ4ZU8",
+              "fills": "Absolute/White"
+            },
+            {
+              "id": "139:6379",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "layout": "layout_AJ9N7G",
+              "text": "Happy Customers",
+              "textStyle": "style_MIS0EU",
+              "fills": "Grey/60"
+            }
+          ]
+        },
+        {
+          "id": "139:6380",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layout": "layout_RKZJW2",
+          "fills": "Grey/10",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px",
+          "borderRadius": "10px",
+          "children": [
+            {
+              "id": "139:6381",
+              "name": "Heading",
+              "type": "TEXT",
+              "layout": "layout_AJ9N7G",
+              "text": "10k+",
+              "textStyle": "style_HQ4ZU8",
+              "fills": "Absolute/White"
+            },
+            {
+              "id": "139:6382",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "layout": "layout_AJ9N7G",
+              "text": "Properties For Clients",
+              "textStyle": "style_MIS0EU",
+              "fills": "Grey/60"
+            }
+          ]
+        },
+        {
+          "id": "139:6383",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layout": "layout_RKZJW2",
+          "fills": "Grey/10",
+          "strokes": "Grey/15",
+          "strokeWeight": "1px",
+          "borderRadius": "10px",
+          "children": [
+            {
+              "id": "139:6384",
+              "name": "Heading",
+              "type": "TEXT",
+              "layout": "layout_AJ9N7G",
+              "text": "16+",
+              "textStyle": "style_HQ4ZU8",
+              "fills": "Absolute/White"
+            },
+            {
+              "id": "139:6385",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "layout": "layout_AJ9N7G",
+              "text": "Years of Experience",
+              "textStyle": "style_MIS0EU",
+              "fills": "Grey/60"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_ULCCFN": {
+        "mode": "row",
+        "justifyContent": "stretch",
+        "alignItems": "stretch",
+        "alignSelf": "stretch",
+        "gap": "16px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "layout_RKZJW2": {
+        "mode": "column",
+        "gap": "2px",
+        "padding": "14px 20px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "Grey/10": ["#1A1A1A"],
+      "Grey/15": ["#262626"],
+      "layout_AJ9N7G": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "style_HQ4ZU8": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "700",
+        "fontSize": "30",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"],
+      "style_MIS0EU": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "16",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Grey/60": ["#999999"]
+    }
+  }
+}

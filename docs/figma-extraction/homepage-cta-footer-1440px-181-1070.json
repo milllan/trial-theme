@@ -1,0 +1,471 @@
+{
+  "id": "181:1070",
+  "name": "CTA + Footer",
+  "type": "FRAME",
+  "layout": {
+    "mode": "column",
+    "alignItems": "flex-end",
+    "sizing": {
+      "horizontal": "fixed",
+      "vertical": "hug"
+    },
+    "dimensions": {
+      "width": 1441
+    }
+  },
+  "styles": {
+    "backgroundColor": "#141414"
+  },
+  "children": [
+    {
+      "id": "181:1071",
+      "name": "CTA",
+      "type": "FRAME",
+      "layout": {
+        "mode": "row",
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "gap": "150px",
+        "padding": "60px 80px",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "styles": {
+        "backgroundColor": "#141414",
+        "borderColor": "#262626",
+        "borderWidth": "1px 0px"
+      },
+      "children": [
+        {
+          "id": "181:1072",
+          "name": "Text Container",
+          "type": "FRAME",
+          "layout": {
+            "mode": "column",
+            "gap": "14px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "children": [
+            {
+              "id": "181:1073",
+              "name": "Heading",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Start Your Real Estate Journey Today",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 600,
+                "fontSize": 38,
+                "lineHeight": 1.5,
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "id": "181:1074",
+              "name": "Paragraph",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Your dream property is just a click away. Whether you're looking for a new home, a strategic investment, or expert real estate advice, Estatein is here to assist you every step of the way.",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 16,
+                "lineHeight": 1.5,
+                "color": "#999999"
+              }
+            }
+          ]
+        },
+        {
+          "id": "181:1075",
+          "name": "Button",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "alignItems": "center",
+            "gap": "8px",
+            "padding": "18px 24px",
+            "sizing": {
+              "horizontal": "hug",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "backgroundColor": "#703BF7",
+            "borderRadius": "10px"
+          },
+          "children": [
+            {
+              "id": "181:1076",
+              "name": "Text",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "Explore Properties",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 500,
+                "fontSize": 16,
+                "lineHeight": 1.5,
+                "color": "#FFFFFF"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "181:1077",
+      "name": "Footer",
+      "type": "FRAME",
+      "layout": {
+        "mode": "column",
+        "alignSelf": "stretch",
+        "sizing": {
+          "horizontal": "fill",
+          "vertical": "hug"
+        }
+      },
+      "styles": {
+        "backgroundColor": "#141414",
+        "borderColor": "#262626",
+        "borderWidth": "1px 0px 0px"
+      },
+      "children": [
+        {
+          "id": "181:1078",
+          "name": "Main Content",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "space-between",
+            "alignItems": "flex-start",
+            "gap": "80px",
+            "padding": "60px 80px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "children": [
+            {
+              "id": "181:1079",
+              "name": "Left Section",
+              "type": "FRAME",
+              "layout": {
+                "mode": "column",
+                "gap": "24px",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "children": [
+                {
+                  "id": "181:1080",
+                  "name": "Logo",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "row",
+                    "alignItems": "center",
+                    "gap": "8px",
+                    "sizing": {
+                      "horizontal": "hug",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "181:1081",
+                      "name": "Icon",
+                      "type": "FRAME",
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fixed",
+                          "vertical": "fixed"
+                        },
+                        "dimensions": {
+                          "width": 32,
+                          "height": 32
+                        }
+                      },
+                      "styles": {
+                        "backgroundColor": "#703BF7",
+                        "borderRadius": "8px"
+                      }
+                    },
+                    {
+                      "id": "181:1082",
+                      "name": "Text",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "hug",
+                          "vertical": "hug"
+                        }
+                      },
+                      "text": "Estatein",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 700,
+                        "fontSize": 24,
+                        "lineHeight": 1.5,
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "181:1083",
+                  "name": "Description",
+                  "type": "TEXT",
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "text": "Your trusted partner in finding the perfect property. Discover exceptional homes and investment opportunities with Estatein.",
+                  "styles": {
+                    "fontFamily": "Urbanist",
+                    "fontWeight": 400,
+                    "fontSize": 14,
+                    "lineHeight": 1.5,
+                    "color": "#999999"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "181:1084",
+              "name": "Links Section",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "justifyContent": "space-between",
+                "gap": "60px",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "children": [
+                {
+                  "id": "181:1085",
+                  "name": "Column",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "16px",
+                    "sizing": {
+                      "horizontal": "hug",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "181:1086",
+                      "name": "Heading",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "hug",
+                          "vertical": "hug"
+                        }
+                      },
+                      "text": "Home",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 600,
+                        "fontSize": 16,
+                        "lineHeight": 1.5,
+                        "color": "#999999"
+                      }
+                    },
+                    {
+                      "id": "181:1087",
+                      "name": "Link",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "hug",
+                          "vertical": "hug"
+                        }
+                      },
+                      "text": "Hero Section",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 14,
+                        "lineHeight": 1.5,
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "181:1088",
+                  "name": "Column",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "column",
+                    "gap": "16px",
+                    "sizing": {
+                      "horizontal": "hug",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "181:1089",
+                      "name": "Heading",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "hug",
+                          "vertical": "hug"
+                        }
+                      },
+                      "text": "About Us",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 600,
+                        "fontSize": 16,
+                        "lineHeight": 1.5,
+                        "color": "#999999"
+                      }
+                    },
+                    {
+                      "id": "181:1090",
+                      "name": "Link",
+                      "type": "TEXT",
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "hug",
+                          "vertical": "hug"
+                        }
+                      },
+                      "text": "Our Story",
+                      "styles": {
+                        "fontFamily": "Urbanist",
+                        "fontWeight": 500,
+                        "fontSize": 14,
+                        "lineHeight": 1.5,
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "181:1091",
+          "name": "Bottom Section",
+          "type": "FRAME",
+          "layout": {
+            "mode": "row",
+            "justifyContent": "space-between",
+            "alignItems": "center",
+            "padding": "20px 80px",
+            "sizing": {
+              "horizontal": "fill",
+              "vertical": "hug"
+            }
+          },
+          "styles": {
+            "borderColor": "#262626",
+            "borderWidth": "1px 0px 0px"
+          },
+          "children": [
+            {
+              "id": "181:1092",
+              "name": "Copyright",
+              "type": "TEXT",
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "text": "© 2024 Estatein. All rights reserved.",
+              "styles": {
+                "fontFamily": "Urbanist",
+                "fontWeight": 400,
+                "fontSize": 14,
+                "lineHeight": 1.5,
+                "color": "#666666"
+              }
+            },
+            {
+              "id": "181:1093",
+              "name": "Social Links",
+              "type": "FRAME",
+              "layout": {
+                "mode": "row",
+                "gap": "16px",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              },
+              "children": [
+                {
+                  "id": "181:1094",
+                  "name": "Social Icon",
+                  "type": "FRAME",
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {
+                      "horizontal": "fixed",
+                      "vertical": "fixed"
+                    },
+                    "dimensions": {
+                      "width": 20,
+                      "height": 20
+                    }
+                  },
+                  "styles": {
+                    "backgroundColor": "#703BF7",
+                    "borderRadius": "50%"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

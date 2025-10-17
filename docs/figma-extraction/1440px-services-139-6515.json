@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "name": "Real Estate Business Website UI Template - Dark Theme | Produce UI (Community)",
+    "components": {},
+    "componentSets": {}
+  },
+  "nodes": [
+    {
+      "id": "139:6515",
+      "name": "Text",
+      "type": "TEXT",
+      "layout": "layout_VZHCLB",
+      "text": "View All Properties",
+      "textStyle": "style_GMU8PU",
+      "fills": "Absolute/White"
+    }
+  ],
+  "globalVars": {
+    "styles": {
+      "layout_VZHCLB": {
+        "mode": "none",
+        "sizing": {
+          "horizontal": "hug",
+          "vertical": "hug"
+        }
+      },
+      "style_GMU8PU": {
+        "fontFamily": "Urbanist",
+        "fontWeight": "500",
+        "fontSize": "14",
+        "lineHeight": "1.5em",
+        "textAlignHorizontal": "LEFT",
+        "textAlignVertical": "TOP"
+      },
+      "Absolute/White": ["#FFFFFF"]
+    }
+  }
+}

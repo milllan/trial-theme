@@ -218,9 +218,9 @@ ul {
     padding-top: var(--spacing-sm);
     padding-bottom: var(--spacing-sm);
 }
-.logo img {
-    /* height: 28px; */
-}
+/* .logo img {
+    height: 28px;
+} */
 .mobile-nav-toggle {
     display: block; /* Visible on mobile */
     background: none;
